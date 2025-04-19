@@ -1,0 +1,540 @@
+,Protein Accession,DNA Accession,AMR Gene Family,Drug Class,Resistance Mechanism
+0,AAB60941.1,AF002716.1,Erm 23S ribosomal RNA methyltransferase,lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,antibiotic target alteration
+1,AAA03550.1,L06156.2,AAC(2'),aminoglycoside antibiotic,antibiotic inactivation
+8,AAG15269.1,U12338.3,AAC(3),aminoglycoside antibiotic,antibiotic inactivation
+10,AAL82588.1,AF355189.1,aminoglycoside bifunctional resistance protein,aminoglycoside antibiotic,antibiotic inactivation
+29,WP_064190968.1,NG_048575.1,AAC(6'),aminoglycoside antibiotic,antibiotic inactivation
+58,WP_071846215.1,NG_052213.1,AAC(6');AAC(6')-Ib-cr,aminoglycoside antibiotic;fluoroquinolone antibiotic,antibiotic inactivation
+98,AAU10334.1,AY712687.1,ANT(6),aminoglycoside antibiotic,antibiotic inactivation
+99,AAO49597.1,AF550679.1,ANT(3''),aminoglycoside antibiotic,antibiotic inactivation
+126,AMD83542.1,KT852971.1,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics;macrolide antibiotic;tetracycline antibiotic,antibiotic efflux
+127,WP_194293132.1,NG_070893.1,AAK beta-lactamase,carbapenem,antibiotic inactivation
+128,XP_753111.1,XM_748018.1,ATP-binding cassette (ABC) antibiotic efflux pump,cephalosporin;penicillin beta-lactam;peptide antibiotic,antibiotic efflux
+129,BAD89844.2,AB204810.2,multidrug and toxic compound extrusion (MATE) transporter,disinfecting agents and antiseptics;fluoroquinolone antibiotic,antibiotic efflux
+130,ACJ59254.1,CP001172.1,small multidrug resistance (SMR) antibiotic efflux pump,aminocoumarin antibiotic;macrolide antibiotic,antibiotic efflux
+131,CAB46491.1,AJ133121.1,ACC beta-lactamase,cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+142,CAB51471.1,AJ007350.1,ACI beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+145,WP_001985623.1,NC_010410.1,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;glycylcycline;penicillin beta-lactam;tetracycline antibiotic,antibiotic efflux
+146,ACJ42146.1,CP001182.1,ampC-type beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+148,AJF82744.1,CP010781.1,fluoroquinolone resistant gyrA,fluoroquinolone antibiotic,antibiotic target alteration
+149,AHB92962.1,CP006768.1,Outer Membrane Porin (Opr),carbapenem;cephalosporin;monobactam;penicillin beta-lactam,reduced permeability to antibiotic;resistance by absence
+150,WP_000202252.1,NZ_CP009257.1,fluoroquinolone resistant parC,fluoroquinolone antibiotic,antibiotic target alteration
+156,AAC45086.2,U58495.2,ACT beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+328,CAB77444.1,AJ009979.1,ADC beta-lactamase without carbapenemase activity,cephalosporin,antibiotic inactivation
+330,WP_068981607.1,NG_051439.1,ADC beta-lactamases pending classification for carbapenemase activity,cephalosporin,antibiotic inactivation
+623,AGL39360.1,KC866352.1,ADC beta-lactamase with carbapenemase activity,carbapenem,antibiotic inactivation
+667,AAC09015.1,U14748.1,AER beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+668,WP_069953510.1,NG_063835.1,AFM beta-lactamase,carbapenem,antibiotic inactivation
+673,AAA22081.1,M58472.1,chloramphenicol acetyltransferase (CAT),phenicol antibiotic,antibiotic inactivation
+674,CAQ53840.1,AM998375.1,AIM beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+676,WP_122630833.1,NG_062237.1,ALG11 beta-lactamase,carbapenem,antibiotic inactivation
+677,WP_122630832.1,NG_062236.1,ALG6 beta-lactamases,carbapenem,antibiotic inactivation
+678,WP_026025287.1,NG_057427.1,ALI beta-lactamase,carbapenem,antibiotic inactivation
+681,MCO7070877.1,JAKJWK010000010.1,alm glycyltransferase;polymyxin resistance operon,peptide antibiotic,antibiotic target alteration
+682,PNM48229.1,LOSL02000001.1,alm glycyl carrier protein;polymyxin resistance operon,peptide antibiotic,antibiotic target alteration
+683,AAF94731.1,AE003852.1,lipid A acyltransferase;polymyxin resistance operon,peptide antibiotic,antibiotic target alteration
+686,WHL54874.1,OQ948417.1,AMZ beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+687,WP_041449074.1,NG_057424.1,ANA beta-lactamase,carbapenem,antibiotic inactivation
+688,AAC64365.1,AF078527.1,ANT(2''),aminoglycoside antibiotic,antibiotic inactivation
+694,AAA92254.1,K02551.1,ANT(4'),aminoglycoside antibiotic,antibiotic inactivation
+700,CAA26428.1,X02588.1,ANT(9),aminoglycoside antibiotic,antibiotic inactivation
+703,AAX38178.1,AY939911.1,APH(2''),aminoglycoside antibiotic,antibiotic inactivation
+709,CAA37605.1,X53527.1,APH(3''),aminoglycoside antibiotic,antibiotic inactivation
+710,CAE51638.1,BX664015.1,APH(3'),aminoglycoside antibiotic,antibiotic inactivation
+728,CAA24743.1,V01499.1,APH(4),aminoglycoside antibiotic,antibiotic inactivation
+730,CAA68516.1,Y00459.1,APH(6),aminoglycoside antibiotic,antibiotic inactivation
+734,CAA27276.1,X03615.1,APH(7''),aminoglycoside antibiotic,antibiotic inactivation
+735,AAB58447.1,U94857.1,APH(9),aminoglycoside antibiotic,antibiotic inactivation
+740,BAM76830.1,AB765395.1,AQU beta-lactamase,cephalosporin,antibiotic inactivation
+743,APY23733.1,KY363215.1,ARL Beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+751,ADC55560.1,GU437214.1,16S rRNA methyltransferase (G1405),aminoglycoside antibiotic,antibiotic target alteration
+753,AAG06942.1,AE004091.2,pmr phosphoethanolamine transferase,peptide antibiotic,antibiotic target alteration
+755,AAC05822.1,AF001493.1,rifampin ADP-ribosyltransferase (Arr),rifamycin antibiotic,antibiotic inactivation
+762,AAG44836.1,AF279904.1,AST Beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+763,QWJ89340.1,MZ126682.1,ASU1 beta-lactamase,cephalosporin,antibiotic inactivation
+764,WP_020924773.1,NG_061617.1,AXC beta-lactamase,carbapenem,antibiotic inactivation
+775,QWJ89341.1,MZ126683.1,B3SU1 beta-lactamase,cephalosporin,antibiotic inactivation
+776,QWJ89342.1,MZ126684.1,B3SU2 beta-lactamase,cephalosporin,antibiotic inactivation
+777,AAC76093.1,U00096.3,undecaprenyl pyrophosphate related proteins,peptide antibiotic,antibiotic target alteration
+779,CAX52582.1,AL009126.3,defensin resistant mprF,peptide antibiotic,antibiotic target alteration
+780,BAB95031.1,BA000033.2,daptomycin resistant pgsA,peptide antibiotic,antibiotic target alteration
+781,CAB11883.2,AL009126.3,rifamycin-resistant beta-subunit of RNA polymerase (rpoB),,antibiotic target alteration;antibiotic target replacement
+782,NP_388014.1,NC_000964.3,spectinomycin resistant rpsE,aminoglycoside antibiotic,antibiotic target alteration
+785,APB03218.1,KX531048.1,Bah amidohydrolase,peptide antibiotic,antibiotic inactivation
+787,ABM44583.1,CP000524.1,aminocoumarin resistant gyrB,aminocoumarin antibiotic,antibiotic target alteration
+790,EIM09515.1,AJRJ01000061.1,BAT Beta-lactamase,cephalosporin,antibiotic inactivation
+791,CAA29819.1,X06599.1,class A Bacillus cereus Bc beta-lactamase,cephalosporin,antibiotic inactivation
+792,AAA22562.1,M19530.1,subclass B1 Bacillus cereus Bc beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+794,ABU39980.1,EF540343.1,BCL Beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+799,AAZ04368.1,DQ089809.1,BEL beta-lactamase,cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+803,AAF61147.1,AF234999.1,BES Beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+804,ADB56658.1,GQ260093.1,BIC Beta-lactamase,carbapenem,antibiotic inactivation
+807,ADP36409.1,CP001840.1,antibiotic-resistant isoleucyl-tRNA synthetase (ileS),mupirocin-like antibiotic,antibiotic target alteration
+808,CAA52618.1,X74512.1,BIL Beta-lactamase,cephalosporin,antibiotic inactivation
+809,ANY85569.1,CP016446.1,BIM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+810,AND91341.1,CP011360.1,BJP beta-lactamase,carbapenem,antibiotic inactivation
+811,AKD43328.1,KP689347.1,BKC Beta-lactamase,carbapenem,antibiotic inactivation
+813,AAR20595.1,AY453161.1,class A Bacillus anthracis Bla beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+814,AAR20596.1,AY453162.1,subclass B1 Bacillus anthracis Bla beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+815,WP_029729112.1,NG_048691.1,BlaB beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+851,CCP44842.1,AL123456.3,class A Mycobacterium tuberculosis bla beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+852,AAA19882.1,L25634.1,blaF family beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+853,ABU39978.1,EF540343.1,BlaZ beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+855,AAP97895.1,AY332268.1,blaS,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+856,BAF34030.1,AB255435.1,Bleomycin resistant protein,glycopeptide antibiotic,antibiotic inactivation
+858,UZX27393.1,CP110126.1,BMHC beta-lactamase,carbapenem,antibiotic inactivation
+860,CAE32545.1,BX640443.1,BOR beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+861,,NR_044732.2,16s rRNA with mutation conferring resistance to aminoglycoside antibiotics,aminoglycoside antibiotic,antibiotic target alteration
+864,AAC66824.2,AE000783.1,antibiotic-resistant murA transferase,phosphonic acid antibiotic,antibiotic target alteration
+865,ABV63006.2,CP000813.4,BPU Beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+866,,NZ_CP015910.2,23S rRNA with mutation conferring resistance to macrolide antibiotics,macrolide antibiotic,antibiotic target alteration
+867,AAA92126.1,U49269.2,BRO Beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+871,WP_003235647.1,NG_050942.1,BSU beta-lactamase,carbapenem,antibiotic inactivation
+873,AAP82271.1,AY312416.1,General Bacterial Porin with reduced permeability to beta-lactams,carbapenem;cephalosporin;monobactam;penicillin beta-lactam,reduced permeability to antibiotic
+874,AAN17791.1,AF440406.1,BUT beta-lactamase,cephalosporin,antibiotic inactivation
+876,QXW20276.1,CP079746.1,CAE beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+877,AVX51087.1,MG430339.1,CAM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+883,WP_011094382.1,NG_048712.1,CAR beta-lactamase,carbapenem,antibiotic inactivation
+884,AAC32027.1,M80346.1,Miscellaneous ABC-F subfamily ATP-binding cassette ribosomal protection proteins,macrolide antibiotic,antibiotic target protection
+885,AAK96394.1,AF313471.1,CARB beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+939,AKL79742.1,KP658477.1,CarO porin,carbapenem,reduced permeability to antibiotic;resistance by absence
+957,CAC87665.1,AJ308331.1,CAU beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+958,ACT97415.1,GQ343019.1,CblA beta-lactamase,cephalosporin,antibiotic inactivation
+959,ALF06101.1,KP718480.1,CBP beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+960,AAA22904.1,M63556.1,CfiA beta-lactamase,carbapenem,antibiotic inactivation
+961,AID52933.1,KJ650399.1,CDA beta-lactamase,carbapenem,
+962,WP_009901927.1,NG_065860.1,CDD beta-lactamase,carbapenem,antibiotic inactivation
+967,AAA21532.1,U05883.1,CepA beta-lactamase,cephalosporin,antibiotic inactivation
+971,CAA56561.1,X80277.1,CepS beta-lactamase,cephalosporin,antibiotic inactivation
+972,BAC76072.1,AB107899.1,CMY beta-lactamase,cephalosporin,antibiotic inactivation
+994,CAL64019.1,AM408573.1,Cfr 23S ribosomal RNA methyltransferase,lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,antibiotic target alteration
+999,AAB17891.1,U38243.1,CfxA beta-lactamase,cephalosporin,antibiotic inactivation
+1005,AAL55262.1,AF339733.1,CGA beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1006,ABS29619.1,EF672680.1,CGB beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+1012,QAT79363.1,MK401906.1,CHM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1013,AAS79458.1,AY509120.1,non-erm 23S ribosomal RNA methyltransferase (G748),lincosamide antibiotic;macrolide antibiotic,antibiotic target alteration
+1015,BAL40892.1,AB639753.1,CIA beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1019,WP_123865086.1,NZ_CP033828.1,CIM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1021,AAL85333.1,AF477396.1,CKO beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1028,AXU66539.1,CP012325.1,elfamycin resistant EF-Tu,,antibiotic target alteration
+1030,ADK13120.1,CP001666.1,fluoroquinolone resistant gyrB,fluoroquinolone antibiotic,antibiotic target alteration
+1031,AAK80188.1,AE001437.1,murG transferase,glycopeptide antibiotic,antibiotic target alteration
+1032,CBE03766.1,FN545816.1,nitroimidazole reductase,nitroimidazole antibiotic,antibiotic inactivation
+1034,AJP09758.1,CP010905.2,vancomycin-resistant beta prime subunit of RNA polymerase (rpoC),glycopeptide antibiotic,antibiotic target alteration
+1039,WP_032974004.1,NG_062222.1,CMA beta-lactamase,cephalosporin,antibiotic inactivation
+1041,CAB55427.1,AJ006275.1,CME beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1048,AFI56422.1,JQ673557.1,CMH beta-lactamase,cephalosporin,antibiotic inactivation
+1088,AAB36568.1,U09991.1,chloramphenicol phosphotransferase,phenicol antibiotic,antibiotic inactivation
+1282,APB03224.1,KX531054.1,cpa acetyltransferase,aminoglycoside antibiotic,antibiotic inactivation
+1283,AAA92037.1,U13078.1,capreomycin phosphotransferase,aminoglycoside antibiotic,antibiotic inactivation
+1284,AAB03413.1,U60294.1,CphA beta-lactamase,carbapenem,antibiotic inactivation
+1293,AJP77054.1,KP109675.1,CPS beta-lactamase,carbapenem,antibiotic inactivation
+1296,WP_122630831.1,NG_062235.1,CRD3 beta-lactamase,carbapenem,antibiotic inactivation
+1297,WP_043592266.1,NG_054656.1,CRH beta-lactamase,carbapenem,antibiotic inactivation
+1301,WP_043629745.1,NG_054657.1,CRP beta-lactamase,carbapenem,antibiotic inactivation
+1302,MBS5055441.1,JAGZKL010000021.1,subclass B1 Bacteroides xylanisolvens crx beta-lactamase,carbapenem,antibiotic inactivation
+1303,WP_007888761.1,NG_062223.1,CSA beta-lactamase,cephalosporin,antibiotic inactivation
+1305,WP_063859920.1,NG_048896.1,CSP beta-lactamase,cephalosporin,antibiotic inactivation
+1306,CAA63262.1,X92506.1,CTX-M beta-lactamase,cephalosporin,antibiotic inactivation
+1572,,NR_040847.1,16S rRNA with mutation conferring resistance to tetracycline derivatives,,antibiotic target alteration
+1574,WP_164461288.1,NG_067986.1,CVI beta-lactamase,carbapenem,antibiotic inactivation
+1575,AAN62561.1,AY168442.1,Van ligase,glycopeptide antibiotic,antibiotic target alteration
+1576,AAM45855.1,AF426161.1,DES beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1577,CAF31623.1,AJ628423.2,trimethoprim resistant dihydrofolate reductase dfr,diaminopyrimidine antibiotic,antibiotic target replacement
+1634,CAA76196.1,Y16410.1,DHA beta-lactamase,cephalosporin,antibiotic inactivation
+1666,WP_122630829.1,NG_062233.1,DHT2 beta-lactamase,carbapenem,antibiotic inactivation
+1667,AGC92784.1,KC004136.2,DIM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1668,NP_418157.1,NC_000913.3,DnaA chromosomal replication initiation protein,rifamycin antibiotic,antibiotic target protection
+1669,BES62776.2,AP028867.1,DYB beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1670,WP_122630825.1,NG_062208.1,EAM beta-lactamase,carbapenem,antibiotic inactivation
+1672,AAN32638.1,AF416700.1,EBR beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+1677,WP_063860228.1,NG_049079.1,EC beta-lactamase,cephalosporin,antibiotic inactivation
+1685,WP_122630824.1,NG_062207.1,ECM beta-lactamase,carbapenem,antibiotic inactivation
+1686,WP_015266427.1,NG_059320.1,ECV beta-lactamase,carbapenem,antibiotic inactivation
+1687,AHH86051.1,KC771276.1,Edeine acetyltransferase,peptide antibiotic;polyamine antibiotic,antibiotic inactivation
+1688,WP_122630822.1,NG_062204.1,EFM beta-lactamase,carbapenem,antibiotic inactivation
+1693,WP_081853183.1,NG_062206.1,ELM beta-lactamase,carbapenem,antibiotic inactivation
+1706,AEA93051.1,CP002621.1,daptomycin resistant cls,peptide antibiotic,antibiotic target alteration
+1707,AAO81566.1,AE016830.1,daptomycin resistant drmA,peptide antibiotic,antibiotic target alteration
+1708,AAO81656.1,AE016830.1,daptomycin resistant gdpD,peptide antibiotic,antibiotic target alteration
+1709,AMR95642.1,CP014949.1,daptomycin resistant gshF,peptide antibiotic,antibiotic target alteration
+1710,WP_002381168.1,NC_004668.1,daptomycin resistant liaF,peptide antibiotic,antibiotic efflux;antibiotic target alteration
+1711,AAO82599.1,AE016830.1,daptomycin resistant liaR,peptide antibiotic,antibiotic efflux;antibiotic target alteration
+1712,AAO82600.1,AE016830.1,daptomycin resistant liaS,peptide antibiotic,antibiotic efflux;antibiotic target alteration
+1713,AAO81526.1,AE016830.1,daptomycin resistant YvlB,peptide antibiotic,antibiotic target alteration
+1714,AAO79895.1,AE016830.1,daptomycin resistant YybT,peptide antibiotic,antibiotic target alteration
+1723,AAO38247.1,AY183453.1,macrolide esterase,macrolide antibiotic,antibiotic inactivation
+1773,AAL86999.1,AY077733.1,ERP beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1775,,U00096.1,16s rRNA with mutation conferring resistance to peptide antibiotics,peptide antibiotic,antibiotic target alteration
+1779,,AE014075.1,23S rRNA with mutation conferring resistance to phenicol antibiotics,phenicol antibiotic,antibiotic target alteration
+1781,,AE014075.1,23S rRNA with mutation conferring resistance to lincosamide antibiotics,lincosamide antibiotic,antibiotic target alteration
+1782,,AE014075.1,23S rRNA with mutation conferring resistance to oxazolidinone antibiotics,oxazolidinone antibiotic,antibiotic target alteration
+1788,CDJ73082.1,HG738867.1,antibiotic-resistant cya adenylate cyclase,phosphonic acid antibiotic,antibiotic target alteration
+1793,AAC74177.1,U00096.3,antibiotic resistant fabG,,antibiotic target alteration
+1794,AAC74370.1,U00096.3,antibiotic resistant fabI,disinfecting agents and antiseptics;isoniazid-like antibiotic,antibiotic target alteration
+1795,AAC76209.2,U00096.3,sulfonamide resistant dihydropteroate synthase folP,,antibiotic target alteration
+1796,CDJ72593.1,HG738867.1,antibiotic-resistant GlpT,phosphonic acid antibiotic,antibiotic target alteration
+1798,AAC75291.1,U00096.3,triclosan resistant gyrA,disinfecting agents and antiseptics,antibiotic target alteration
+1800,BAB38442.1,BA000007.3,Sugar Porin (SP),fluoroquinolone antibiotic;tetracycline antibiotic,reduced permeability to antibiotic;resistance by absence
+1802,NP_310518.1,NC_002695.2,MipA-interacting Protein,aminoglycoside antibiotic;fluoroquinolone antibiotic,reduced permeability to antibiotic;resistance by absence
+1804,AAC73938.1,U00096.3,antibiotic resistant nfsA,nitrofuran antibiotic,antibiotic target alteration
+1805,AAC73679.1,U00096.3,Antibiotic resistant nfsB,nitrofuran antibiotic,antibiotic target alteration
+1808,BAE77086.1,AP009048.1,fluoroquinolone resistant parE,fluoroquinolone antibiotic,antibiotic target alteration
+1809,CAA38861.1,X55034.1,Penicillin-binding protein mutations conferring resistance to beta-lactam antibiotics,cephalosporin;monobactam,antibiotic target alteration
+1810,CDJ72759.1,HG738867.1,antibiotic-resistant ptsI phosphotransferase,phosphonic acid antibiotic,antibiotic target alteration
+1813,AAC77033.1,U00096.1,ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,antibiotic efflux;antibiotic target alteration
+1814,AAC77032.1,U00096.3,ATP-binding cassette (ABC) antibiotic efflux pump;General Bacterial Porin with reduced permeability to beta-lactams;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,antibiotic efflux;antibiotic target alteration;reduced permeability to antibiotic
+1815,CDJ73205.1,HG738867.1,antibiotic-resistant UhpT,phosphonic acid antibiotic,antibiotic target alteration
+1817,AJP77085.1,KP109681.1,ESP beta-lactamase,carbapenem,antibiotic inactivation
+1819,BAB36671.1,BA000007.3,major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;tetracycline antibiotic,antibiotic efflux
+1821,WP_122630823.1,NG_062205.1,EVM beta-lactamase,carbapenem,antibiotic inactivation
+1822,AAA26775.1,M28303.1,EXO beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1824,AAB81957.1,AF024601.1,FAR beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1829,CAB96921.1,Y17896.1,FEZ beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+1830,WP_041258349.1,NG_057437.1,FIA beta-lactamase,carbapenem,antibiotic inactivation
+1831,AFV91534.1,JX570731.1,FIM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1832,ATX60370.1,MG309750.1,FRI beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1834,BAA32493.1,AB016934.1,Fom phosphotransferase family,phosphonic acid antibiotic,antibiotic inactivation
+1836,CAB61635.1,AJ251239.1,FONA beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1849,AAG04518.1,AE004091.2,fosfomycin thiol transferase,phosphonic acid antibiotic,antibiotic inactivation
+1866,CAA83855.1,Z33413.1,fosC phosphotransferase family,phosphonic acid antibiotic,antibiotic inactivation
+1880,CAA54602.1,X77455.1,FOX beta-lactamase,cephalosporin,antibiotic inactivation
+1899,AJI75632.1,CP010019.1,FPH beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1912,ADA78299.1,CP001633.1,FTU beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1913,AAL12234.1,AY047358.1,Target protecting FusB-type protein conferring resistance to Fusidic acid,fusidane antibiotic,antibiotic target protection
+1917,CAA90432.1,Z50108.1,fusidic acid inactivation enzyme,fusidane antibiotic,antibiotic inactivation
+1920,AAF27723.1,AF156486.1,GES beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+1984,WP_063860521.1,NG_049142.1,GIL beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+1985,CAF05908.1,AJ620678.1,GIM beta-lactamase,carbapenem;cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+1988,CAA11707.1,AJ223970.1,gimA family macrolide glycosyltransferase,macrolide antibiotic,antibiotic inactivation
+1989,AHJ00703.1,CP007004.1,GMA beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+1991,WP_204376227.1,NG_073463.1,GMB beta-lactamase,carbapenem,antibiotic inactivation
+1992,AAF04458.1,AF090141.1,GOB beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2046,AWB15813.1,MH211206.1,GPC beta-lactamase,carbapenem,antibiotic inactivation
+2047,WP_122630835.1,NG_062239.1,GRD23 beta-lactamase,carbapenem,antibiotic inactivation
+2048,WP_122630834.1,NG_062238.1,GRD33 beta-lactamase,carbapenem,antibiotic inactivation
+2053,,KY084523.1,16S rRNA with mutation conferring resistance to pactamycin,pactamycin-like antibiotic,antibiotic target alteration
+2054,UNG16571.1,OM212391.1,HBL beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+2057,AAD07703.1,AE000511.1,Antibiotic resistant Helicobacter pylori nitroreductase,nitroimidazole antibiotic,antibiotic target alteration
+2065,CCA59315.1,FR845719.1,helicase-like RNA polymerase protection protein,rifamycin antibiotic,antibiotic target protection
+2066,AAL26797.1,AF311385.1,HER beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+2073,AMY61250.1,KU961660.2,HMB beta-lactamase,carbapenem,antibiotic inactivation
+2079,EGE18576.1,AERH01000018.1,intrinsic colistin resistant phosphoethanolamine transferase,peptide antibiotic,antibiotic target alteration
+2081,QIB98918.1,MN985649.1,IDC beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+2083,AAA93461.1,U50278.1,IMI beta-lactamase,carbapenem,antibiotic inactivation
+2111,CAA11471.1,AJ223604.1,IMP beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2210,AAD20273.1,AF099139.1,IND beta-lactamase,carbapenem,antibiotic inactivation
+2229,WKR28567.1,CP124778.1,Serine/threonine kinases,cephalosporin,reduced permeability to antibiotic
+2230,AAB41059.1,U56415.1,rifampin monooxygenase,rifamycin antibiotic,antibiotic inactivation
+2231,AAK38324.1,AY028464.1,JOHN beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2232,WP_063964000.1,NG_050561.1,16S rRNA methyltransferase (A1408),aminoglycoside antibiotic,antibiotic target alteration
+2233,BCL63355.1,LC579778.1,KBL beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+2234,CYF42523.1,FHDU01000010.1,kdpDE,aminoglycoside antibiotic,antibiotic efflux
+2236,BAF91108.1,AB364006.1,KHM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2239,CDO13981.1,FO834906.1,ATP-binding cassette (ABC) antibiotic efflux pump;pmr phosphoethanolamine transferase;transmembrane protein conferring colistin resistance,macrolide antibiotic;peptide antibiotic,antibiotic efflux;antibiotic target alteration;resistance by absence
+2253,WP_061284984.1,NG_049241.1,KLUC beta-lactamase,cephalosporin,antibiotic inactivation
+2260,ACS35345.1,GQ140348.1,KPC beta-lactamase,carbapenem;cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+2490,CAB75346.1,AJ272109.1,L1 family beta-lactamase,cephalosporin,antibiotic inactivation
+2491,ABK58097.1,EF026092.1,LAP beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2493,QXM27670.1,MZ497396.1,LAQ beta lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2495,CAA40146.1,X56809.1,LCR beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2496,CAA28198.1,X04515.1,LEN beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+2542,WP_081666691.1,NG_056482.1,LHK beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+2550,AEO25219.1,CP002003.1,lincosamide nucleotidyltransferase (LNU),lincosamide antibiotic,antibiotic inactivation
+2553,APB03216.1,KX531046.1,Llm 23S ribosomal RNA methyltransferase,lincosamide antibiotic,antibiotic target alteration
+2554,AYD68552.1,MH475146.1,LMB beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2571,ABG48543.1,DQ647421.1,Intrinsic peptide antibiotic resistant Lps,peptide antibiotic,reduced permeability to antibiotic
+2574,AJF82049.1,CP010781.1,Acinetobacter mutant Lpx gene conferring resistance to colistin,peptide antibiotic,antibiotic target alteration
+2577,ACH58980.1,EU408346.1,class A LRA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2578,ACH58999.1,EU408357.1,class C LRA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2579,ACH58990.1,EU408351.1,subclass B3 LRA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2580,ACH58991.1,EU408352.1,class C LRA beta-lactamase;class D LRA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2590,WP_063860827.1,NG_049283.1,LRG beta-lactamase,cephalosporin,antibiotic inactivation
+2591,AAO43110.1,AY225127.1,lsa-type ABC-F protein,lincosamide antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,antibiotic target protection
+2596,WP_041881964.1,NG_055472.1,LUS beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+2597,WP_010798607.1,NG_049284.1,LUT beta-lactamase,cephalosporin,antibiotic inactivation
+2603,ALP44181.1,KT159981.2,class A Mycobacterium abscessus beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2606,WP_063860833.1,NG_049290.1,MAL beta-lactamase,carbapenem,antibiotic inactivation
+2608,BAA15221.2,AP009048.1,General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,antibiotic efflux;reduced permeability to antibiotic
+2609,WP_063860835.1,NG_049292.1,MBL beta-lactamase,carbapenem,antibiotic inactivation
+2610,QDO66747.1,MN179494.1,MCR phosphoethanolamine transferase,peptide antibiotic,antibiotic target alteration
+2617,ATM29809.1,KY853650.2,,peptide antibiotic,antibiotic target alteration
+2732,AGC51118.1,KC243783.1,methicillin resistant PBP2,,antibiotic target replacement
+2748,AAL73129.1,AF227521.1,msr-type ABC-F protein,macrolide antibiotic;streptogramin antibiotic,antibiotic target protection
+2775,NP_415632.1,NC_000913.3,quinolone resistance protein (qnr),fluoroquinolone antibiotic,antibiotic target protection
+2777,BAB41874.1,BA000018.3,ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump,cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;penicillin beta-lactam;peptide antibiotic;tetracycline antibiotic,antibiotic efflux
+2778,NP_416340.1,NC_000913.3,transmembrane protein conferring colistin resistance,peptide antibiotic,resistance by absence
+2779,ABA28305.2,DQ185434.2,mgt macrolide glycotransferase,macrolide antibiotic,antibiotic inactivation
+2780,AAD22636.1,M37839.2,MIR beta-lactamase,cephalosporin;monobactam,antibiotic inactivation
+2814,WP_060874262.1,NG_051495.1,MOC beta-lactamase,carbapenem,antibiotic inactivation
+2815,WP_063860842.1,NG_049310.1,MOR beta-lactamase,cephalosporin,antibiotic inactivation
+2819,BAA02563.2,D13304.2,MOX beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+2844,BAA03776.1,D16251.1,macrolide phosphotransferase (MPH),macrolide antibiotic,antibiotic inactivation
+2861,AJP77057.1,KP109676.1,MSI beta-lactamase,carbapenem,antibiotic inactivation
+2862,AJP77058.1,KP109676.1,MSI-OXA family beta-lactamase,carbapenem,antibiotic inactivation
+2876,WVP99768.1,PP229523.1,MUN beta-lactamase,cephalosporin,antibiotic inactivation
+2878,AAN63647.1,AF441286.1,MUS beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+2884,ABC24999.1,DQ306899.1,antibiotic resistant ATP synthase,diarylquinoline antibiotic,antibiotic target alteration
+2890,CAC29732.1,AL450380.1,dapsone resistant dihydropteroate synthase folP,,antibiotic target alteration
+2896,,NC_000962.3,23s rRNA with mutation conferring resistance to aminoglycoside antibiotics,aminoglycoside antibiotic,antibiotic target alteration
+2897,NP_218309.1,NC_000962.3,ethambutol resistant aftA,polyamine antibiotic,antibiotic target alteration
+2898,NP_216944.1,NC_000962.3,Isoniazid resistant ahpC,isoniazid-like antibiotic,antibiotic target alteration
+2899,NP_217296.1,NC_000962.3,cycloserine resistant ald,cycloserine-like antibiotic,antibiotic target alteration
+2900,NP_217940.1,NC_000962.3,cycloserine resistant alr,cycloserine-like antibiotic,antibiotic target alteration
+2902,YP_177995.1,NC_000962.3,pyrazinamide resistant clpC1,pyrazine antibiotic,antibiotic target alteration
+2903,NP_217497.1,NC_000962.3,cycloserine resistant ddlA,,antibiotic target alteration
+2904,NP_218064.1,NC_000962.3,antibiotic resistant Mycobacterium tuberculosis nitroreductase,nitroimidazole antibiotic,antibiotic target alteration
+2905,NP_216298.1,NC_000962.3,fluoroquinolone resistant eccB5,fluoroquinolone antibiotic,antibiotic target alteration
+2906,YP_007410461.1,NC_000962.3,fluoroquinolone resistant eccC5,fluoroquinolone antibiotic,antibiotic target alteration
+2907,NP_216932.2,NC_000962.3,kanamycin resistant eis,aminoglycoside antibiotic,antibiotic target alteration
+2908,NP_218311.1,NC_000962.3,ethambutol resistant embA,polyamine antibiotic,antibiotic target alteration
+2909,NP_218312.1,NC_000962.3,ethambutol resistant embB,,antibiotic target alteration
+2910,NP_218312.1,NC_000962.3,rifamycin-resistant arabinosyltransferase,rifamycin antibiotic,antibiotic target alteration
+2911,NP_218310.1,NC_000962.3,ethambutol resistant embC,polyamine antibiotic,antibiotic target alteration
+2912,NP_215783.1,NC_000962.3,ethambutol resistant embR,polyamine antibiotic,antibiotic target alteration
+2913,NP_218371.1,NC_000962.3,isoniazid resistant ethA,isoniazid-like antibiotic,antibiotic target alteration
+2914,NP_218371.1,NC_000962.3,perchlozone resistant ethA,thiosemicarbazone antibiotic,antibiotic target alteration
+2915,NP_218371.1,NC_000962.3,prothionamide resistant ethA,,antibiotic target alteration
+2916,NP_218371.1,NC_000962.3,ethionamide resistant ethA,,antibiotic target alteration
+2917,NP_215999.1,NC_000962.3,ethionamide resistant fabG1,thioamide antibiotic,antibiotic target alteration
+2918,NP_215999.1,NC_000962.3,isoniazid resistant fabG1,isoniazid-like antibiotic,antibiotic target alteration
+2919,NP_215999.1,NC_000962.3,prothionamide resistant fabG1,thioamide antibiotic,antibiotic target alteration
+2920,NP_214921.1,NC_000962.3,delamanid-resistant fgd1,nitroimidazole antibiotic,antibiotic target alteration
+2921,NP_216963.1,NC_000962.3,aminosalicylate resistant dihydrofolate synthase,salicylic acid antibiotic,antibiotic target alteration
+2922,NP_216425.2,NC_000962.3,isoniazid resistant furA,isoniazid-like antibiotic,antibiotic target alteration
+2923,NP_218436.2,NC_000962.3,antibiotic resistant gidB,aminoglycoside antibiotic,antibiotic target alteration
+2924,NP_217299.1,NC_000962.3,pyrazinamide resistant gpsI,pyrazine antibiotic,antibiotic target alteration
+2928,YP_177706.1,NC_000962.3,isoniazid resistant inbR,isoniazid-like antibiotic,antibiotic target alteration
+2929,NP_216000.1,NC_000962.3,inhA with mutations with conferring resistance to ethionamide,thioamide antibiotic,antibiotic target alteration
+2930,NP_216000.1,NC_000962.3,isoniazid resistant inhA,,antibiotic target alteration
+2931,NP_214856.1,NC_000962.3,ethambutol resistant iniA,polyamine antibiotic,antibiotic efflux;antibiotic target alteration
+2932,NP_214856.1,NC_000962.3,isoniazid resistant iniA,isoniazid-like antibiotic,antibiotic efflux;antibiotic target alteration
+2933,NP_214855.1,NC_000962.3,Ethambutol resistant iniB,polyamine antibiotic,antibiotic efflux;antibiotic target alteration
+2934,NP_214857.1,NC_000962.3,Ethambutol resistant iniC,polyamine antibiotic,antibiotic efflux;antibiotic target alteration
+2936,NP_216761.1,NC_000962.3,antibiotic resistant kasA,isoniazid-like antibiotic,antibiotic target alteration
+2937,NP_216424.1,NC_000962.3,isoniazid resistant katG,isoniazid-like antibiotic,antibiotic target alteration
+2938,NP_216424.1,NC_000962.3,prothionamide resistant katG,thioamide antibiotic,antibiotic target alteration
+2939,NP_217456.1,NC_000962.3,pyrazinamide resistant mas,pyrazine antibiotic,antibiotic target alteration
+2940,NP_215157.1,NC_000962.3,isoniazid resistant mmaA3,isoniazid-like antibiotic,antibiotic target alteration
+2941,NP_215000.1,NC_000962.3,isoniazid resistant mshA,isoniazid-like antibiotic,antibiotic target alteration
+2942,NP_215000.1,NC_000962.3,prothionamide resistant mshA,thioamide antibiotic,antibiotic target alteration
+2943,NP_216646.1,NC_000962.3,ethionamide resistant mshC,thioamide antibiotic,antibiotic target alteration
+2944,NP_216646.1,NC_000962.3,isoniazid resistant mshC,isoniazid-like antibiotic,antibiotic target alteration
+2945,NP_217599.1,NC_000962.3,isoniazid resistant mymA,isoniazid-like antibiotic,antibiotic target alteration
+2946,YP_177989.1,NC_000962.3,isoniazid resistant nat,isoniazid-like antibiotic,antibiotic target alteration
+2947,NP_216370.1,NC_000962.3,antibiotic resistant ndh,isoniazid-like antibiotic,antibiotic target alteration
+2948,NP_217715.1,NC_000962.3,ethionamide resistant nudC,thioamide antibiotic,antibiotic target alteration
+2949,NP_217715.1,NC_000962.3,isoniazid resistant nudC,isoniazid-like antibiotic,antibiotic target alteration
+2950,NP_216559.1,NC_000962.3,Pyrazinamide resistant pncA,pyrazine antibiotic,antibiotic target alteration
+2951,YP_177687.1,NC_000962.3,rifamycin resistant ponA1,rifamycin antibiotic,antibiotic target alteration
+2952,NP_217449.1,NC_000962.3,antibiotic resistant polyketide synthase genes,pyrazine antibiotic,antibiotic target alteration
+2954,NP_217187.1,NC_000962.3,aminosalicylate resistant dihydrofolate reductase,salicylic acid antibiotic,antibiotic target replacement
+2955,NP_217974.1,NC_000962.3,rifampicin resistant rpoA,rifamycin antibiotic,antibiotic target alteration
+2957,NP_215182.1,NC_000962.3,rifampicin resistant rpoC,rifamycin antibiotic,antibiotic target alteration
+2958,NP_216146.1,NC_000962.3,pyrazinamide resistant rpsA,pyrazine antibiotic,antibiotic target alteration
+2959,NP_215196.1,NC_000962.3,antibiotic-resistant rpsL,aminoglycoside antibiotic,antibiotic target alteration
+2960,NP_214705.1,NC_000962.3,pyrazinamide resistant Rv0191,pyrazine antibiotic,antibiotic target alteration
+2961,NP_215079.1,NC_000962.3,Ethionamide resistant Rv0565c,thioamide antibiotic,antibiotic target alteration
+2962,NP_215192.1,NC_000962.3,bedaquiline resistant Rv0678,diarylquinoline antibiotic,antibiotic target alteration
+2963,NP_215192.1,NC_000962.3,clofazimine resistant Rv0678,fluoroquinolone antibiotic,antibiotic target alteration
+2964,NP_215774.1,NC_000962.3,multidrug resistant Rv1258c,aminoglycoside antibiotic;isoniazid-like antibiotic;polyamine antibiotic;pyrazine antibiotic,antibiotic target alteration
+2965,NP_215774.1,NC_000962.3,streptomycin resistant Rv1258c,aminoglycoside antibiotic,antibiotic target alteration
+2966,NP_216185.1,NC_000962.3,pyrazinamide resistant Rv1667,pyrazine antibiotic,antibiotic target alteration
+2967,NP_217051.1,NC_000962.3,bedaquiline resistant Rv2535c,diarylquinoline antibiotic;fluoroquinolone antibiotic,antibiotic target alteration
+2968,NP_217247.1,NC_000962.3,pyrazinamide resistant Rv2731,pyrazine antibiotic,antibiotic target alteration
+2969,NP_217685.1,NC_000962.3,pyrazinamide resistant Rv3169,pyrazine antibiotic,antibiotic target alteration
+2970,NP_215249.1,NC_000962.3,isoniazid resistant sigI,isoniazid-like antibiotic,antibiotic target alteration
+2971,NP_217280.1,NC_000962.3,aminosalicylate resistant thymidylate synthase,salicylic acid antibiotic,antibiotic target alteration
+2972,NP_216210.1,NC_000962.3,Antibiotic resistant tlyA,aminoglycoside antibiotic,antibiotic target alteration
+2973,NP_218323.1,NC_000962.3,ethambutol resistant ubiA,polyamine antibiotic,antibiotic target alteration
+2975,YP_177940.1,NC_000962.3,streptomycin resistant whib7,aminoglycoside antibiotic,antibiotic target alteration
+2976,YP_177940.1,NC_000962.3,Kanamycin resistant whib7,aminoglycoside antibiotic,antibiotic target alteration
+2989,,NC_004829.2,23S rRNA with mutation conferring resistance to pleuromutilin antibiotics,pleuromutilin antibiotic,antibiotic target alteration
+2997,WP_081048762.1,NG_059325.1,MYO beta-lactamase,carbapenem,antibiotic inactivation
+2999,WP_011550565.1,NG_057453.1,MYX beta-lactamase,carbapenem,antibiotic inactivation
+3002,CAZ39946.1,FN396876.1,NDM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3077,CNT74515.1,CQOZ01000008.1,Zoliflodacin resistant gyrB,zoliflodacin-like antibiotic,antibiotic target alteration
+3085,WP_003690088.1,AE004969.1,50S rRNA with mutation conferring resistance to macrolide antibiotics,macrolide antibiotic,antibiotic target alteration
+3107,AAK14791.1,AY027589.1,NPS beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3108,QXM27671.1,MZ497415.1,NWM beta-lactamase,carbapenem,antibiotic inactivation
+3109,CAC04522.1,AJ401618.1,OCH beta-lactamase,cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+3117,WP_063860895.1,NG_049352.1,OHIO beta-lactamase,cephalosporin,antibiotic inactivation
+3118,CAG25812.2,AJ635401.2,OKP beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3167,ABA42119.2,DQ195536.2,ole glycosyltransferase,macrolide antibiotic,antibiotic inactivation
+3169,CDO13836.1,FO834906.1,General Bacterial Porin with reduced permeability to peptide antibiotics,peptide antibiotic,reduced permeability to antibiotic
+3183,WP_004862397.1,NG_049386.1,ORN beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+3189,WP_109545042.1,NG_059317.1,ORR beta-lactamase,carbapenem,antibiotic inactivation
+3192,AFB82783.1,JN420336.1,OXA beta-lactamase;OXA-1-like beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3193,AAG45720.1,AF205943.1,OXA beta-lactamase;OXA-10-like beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3194,CAJ77817.2,AM231720.2,OXA beta-lactamase;OXA-51-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3195,QWA20199.1,MZ265752.1,OXA beta-lactamase;OXA-213-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3196,QWA20201.1,MZ265754.1,OXA beta-lactamase;OXA-229-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3199,QWA20204.1,MZ265757.1,OXA beta-lactamase;OXA-294-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3200,QWA20205.1,MZ265758.1,OXA beta-lactamase;OXA-134-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3201,QWA20206.1,MZ265759.1,OXA beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3208,QWQ82939.1,MZ368699.1,OXA beta-lactamase;OXA-48-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3210,QWY90351.1,MZ449317.1,OXA beta-lactamase;OXA-50-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3212,QWY90353.1,MZ449319.1,OXA beta-lactamase;OXA-372-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3213,QXJ78545.1,MZ497412.1,OXA beta-lactamase;OXA-2-like beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3226,ENV88740.1,APQF01000011.1,OXA beta-lactamase;OXA-23-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3238,UBS26085.1,OK271078.1,OXA beta-lactamase;OXA-24-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3242,UGY75799.1,OL809969.1,OXA beta-lactamase;OXA-211-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3250,UHO07590.1,OL901279.1,OXA beta-lactamase;OXA-679-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3254,UKC75978.1,OM460738.1,OXA beta-lactamase;OXA-198-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3301,UNN26059.1,OM977008.1,OXA beta-lactamase;OXA-63-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3346,UTS94248.1,ON651495.1,OXA beta-lactamase;OXA-143-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3352,UUM03678.1,OP131862.1,OXA beta-lactamase;OXA-286-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3356,UVA78447.1,CP102780.1,OXA beta-lactamase;OXA-62-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3357,ABX38721.1,EU188842.1,OXA beta-lactamase;OXA-114-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3388,BDS51121.1,LC732551.1,OXA beta-lactamase;OXA-12-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3409,BDT65866.1,LC739023.1,OXA beta-lactamase;OXA-60-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3410,BDT65865.1,LC739022.1,OXA beta-lactamase;OXA-22-like beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3411,UZZ47413.1,OP895673.1,OXA beta-lactamase;OXA-58-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3412,AAK55330.1,AF371964.1,OXA beta-lactamase;OXA-46-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3498,MDY6468282.1,JAXHPD010000006.1,VIM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+3527,CAP69660.1,AM932669.1,OXA beta-lactamase;OXA-5-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3607,AFO09968.1,JQ396378.1,OXA beta-lactamase;OXA-184-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3611,WP_002783228.1,NG_049489.1,OXA beta-lactamase;OXA-61-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3635,AEV91553.1,JN861782.1,OXA beta-lactamase;OXA-214-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3686,ENV38192.1,APPO01000008.1,OXA beta-lactamase;OXA-266-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3695,EPH38243.1,ASQG01000007.1,OXA beta-lactamase;OXA-274-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3789,AFR53898.2,JX306689.2,OXA beta-lactamase;OXA-364-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3841,CAD32564.1,AJ488302.1,OXA beta-lactamase;OXA-42-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3849,ARO85965.1,KX827604.1,OXA beta-lactamase;OXA-427-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+3909,WP_012662081.1,NG_049772.1,OXA beta-lactamase;OXA-493-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3968,WP_087587939.1,NG_054953.1,OXA beta-lactamase;OXA-548-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+3970,AAR03105.1,AY343493.1,OXA beta-lactamase;OXA-55-like beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+4166,WP_114272532.1,NG_061621.1,OXA beta-lactamase;OXA-727-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+4350,WP_156404658.1,NG_067158.1,OXA beta-lactamase;OXA-9-like beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+4465,PXW47003.1,QJJG01000004.1,OXY beta-lactamase,cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+4537,APM84516.1,KY285014.1,PAC beta-lactamase,cephalosporin,antibiotic inactivation
+4538,KXF74838.1,LNTU01000040.1,PAD beta-lactamase,carbapenem,antibiotic inactivation
+4539,BAO01151.1,AB858498.1,PAM beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+4543,AAG05188.1,AE004091.2,Outer Membrane Porin (Opr);resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,antibiotic efflux;reduced permeability to antibiotic
+4548,WP_148044424.1,NG_065882.1,PAU beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+4551,ACQ82807.1,FJ666065.1,PDC beta-lactamase,carbapenem;cephalosporin;monobactam,antibiotic inactivation
+5190,AJP77059.1,KP109677.1,subclass B3 PEDO beta-lactamase,carbapenem,antibiotic inactivation
+5192,AJP77076.1,KP109679.1,subclass B1 PEDO beta-lactamase,carbapenem,antibiotic inactivation
+5193,BAG46675.1,AP009386.1,PEN-A beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+5228,ACJ63454.1,EU872211.1,PEN-B beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+5232,CAA79968.1,Z21957.1,PER beta-lactamase,carbapenem;cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+5251,WP_148044470.1,NG_065936.1,PFM beta-lactamase,carbapenem,antibiotic inactivation
+5255,BAG33043.1,AP009380.1,lipid A phosphatase,peptide antibiotic,antibiotic target alteration
+5256,WP_213603971.1,NG_080789.1,PJM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5258,WP_032699754.1,NG_049969.1,PLA beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5266,WP_041884311.1,NG_055471.1,PLN beta-lactamase,carbapenem,antibiotic inactivation
+5267,WP_063864599.1,NG_049973.1,PME beta-lactamase,carbapenem,antibiotic inactivation
+5271,BFD45354.1,LC795949.1,PNC beta-lactamase,cephalosporin,antibiotic inactivation
+5274,AWN09461.1,MF445022.1,PNGM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5275,WP_044403015.1,NG_049974.1,POM beta-lactamase,carbapenem,antibiotic inactivation
+5280,QTV22830.1,MW854031.1,PRC beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5282,P24734.3,AE004091.2,PDC beta-lactamase;ampR transcriptional regulator with mutation conferring resistance to monobactam antibiotics,carbapenem;cephalosporin;monobactam,antibiotic inactivation;antibiotic target alteration
+5294,WP_043942497.1,NG_057439.1,PST beta-lactamase,carbapenem,antibiotic inactivation
+5296,WP_075226241.1,NG_052626.1,PSV beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5297,WGF22896.1,OQ725878.1,PSZ beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5298,NP_217372.1,NC_000962.3,metal transporters with antibiotic efflux,aminoglycoside antibiotic;fluoroquinolone antibiotic;isoniazid-like antibiotic,antibiotic efflux
+5299,AAM15533.1,AF482691.2,phenotypic variant regulator,aminoglycoside antibiotic;penicillin beta-lactam;tetracycline antibiotic,resistance by absence
+5418,CAA37699.1,X53650.1,R39 beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+5419,QWY17602.1,MZ424297.1,RAA beta-lactamase,cephalosporin,antibiotic inactivation
+5420,UWS41116.1,CP104076.1,RAD beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5421,WP_063864600.1,NG_049975.1,RAHN beta-lactamase,cephalosporin,antibiotic inactivation
+5430,AKP72088.1,CP007504.1,RASA beta-lactamase,cephalosporin,antibiotic inactivation
+5431,WFS34552.1,CP121209.1,RATA beta-lactamase,carbapenem,antibiotic inactivation
+5433,ADV91011.1,HQ203032.1,RbpA bacterial RNA polymerase-binding protein,rifamycin antibiotic,antibiotic target protection
+5434,CAA33795.1,X15791.1,RCP beta-lactamase,penicillin beta-lactam,antibiotic inactivation
+5435,AFO53532.1,JX028276.1,rifampin glycosyltransferase,rifamycin antibiotic,antibiotic inactivation
+5439,AGU01679.2,KF485393.2,Rm3 family beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5450,CAA37052.1,X52872.1,ROB beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5464,AIA08936.1,KJ151292.1,rifampin phosphotransferase,rifamycin antibiotic,antibiotic inactivation
+5467,AAW90462.1,AE004969.1,tetracycline-resistant ribosomal protection protein,tetracycline antibiotic,antibiotic target protection
+5468,AUW34365.1,MG739510.1,RSA beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5469,WP_128268281.1,NG_063889.1,RSA2 beta-lactamase,carbapenem,antibiotic inactivation
+5470,AUW34363.1,MG739508.1,RSC1 beta-lactamase,cephalosporin,antibiotic inactivation
+5471,AUW34360.1,MG739505.1,RSD1,penicillin beta-lactam,antibiotic inactivation
+5472,WP_128268284.1,NG_063892.1,RSD2 beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5475,WP_072186106.1,NG_054671.1,RUB beta-lactamase,cephalosporin,antibiotic inactivation
+5477,AGN74946.1,KC693025.1,sal-type ABC-F protein,lincosamide antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,antibiotic target protection
+5495,BAD95494.1,AB211124.1,streptothricin acetyltransferase (SAT),nucleoside antibiotic,antibiotic inactivation
+5500,ABL75133.1,EF063111.1,SCO beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5503,AAK63223.1,AF321608.1,SED beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5507,AAT90847.1,AY590119.1,SHW beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5508,WP_024531321.1,NG_049980.1,SFC beta-lactamase,carbapenem,antibiotic inactivation
+5510,QUF57747.1,MW896115.1,SFDC beta-lactamase,cephalosporin,antibiotic inactivation
+5511,AAF09244.1,AF197943.1,SFH beta-lactamase,carbapenem,antibiotic inactivation
+5512,WP_032489477.1,NG_049982.1,SFO beta-lactamase,carbapenem,antibiotic inactivation
+5514,WP_009821475.1,NG_049983.1,SGM beta-lactamase,carbapenem,antibiotic inactivation
+5521,WP_011495276.1,NG_077967.1,SHD beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5525,WP_011497575.1,NG_059313.1,SHN beta-lactamase,carbapenem,antibiotic inactivation
+5526,ACR66323.1,FJ668814.1,SHV beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5744,APL95059.1,CP013070.1,SIE beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+5745,ACT66697.1,GQ288397.1,SIM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5748,BAL14456.1,AB636283.1,SMB beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5749,CAA82281.1,Z28968.1,SME beta-lactamase,carbapenem,antibiotic inactivation
+5763,AJP77080.1,KP109680.1,SPG beta-lactamase,carbapenem,antibiotic inactivation
+5764,CAD37801.1,AJ492820.1,SPM beta-lactamase,carbapenem,antibiotic inactivation
+5765,WP_122630830.1,NG_062234.1,SPN79 beta-lactamase,carbapenem,antibiotic inactivation
+5766,WP_012145975.1,NG_052102.1,SPR beta-lactamase,carbapenem,antibiotic inactivation
+5767,WP_013255389.1,NG_059316.1,SPS beta-lactamase,carbapenem,antibiotic inactivation
+5768,WP_063864748.1,NG_050141.1,SPU beta-lactamase,carbapenem,antibiotic inactivation
+5770,BAA23130.1,AB008454.1,SRT beta-lactamase,cephalosporin,antibiotic inactivation
+5774,CBI71171.1,FN640464.1,SSA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+5775,WP_063864750.1,NG_050144.1,SST beta-lactamase,cephalosporin,antibiotic inactivation
+5777,WP_109545039.1,NG_057419.1,STA beta-lactamase,carbapenem,antibiotic inactivation
+5778,,NZ_CP009828.1,23S rRNA with mutation conferring resistance to linezolid antibiotics,lincosamide antibiotic;oxazolidinone antibiotic,antibiotic target alteration
+5779,CAG41107.1,BX571856.1,daptomycin resistant agrA,peptide antibiotic,antibiotic target alteration
+5782,CAG39573.1,BX571856.1,antibiotic resistant fusA,fusidane antibiotic,antibiotic target alteration
+5783,ADL24064.1,CP002114.2,antibiotic resistant fusE,fusidane antibiotic,antibiotic target alteration
+5789,ABD30105.1,CP000253.1,lysocin resistant menA,peptide antibiotic,antibiotic target alteration
+5791,ADJ67256.1,HM140977.1,daptomycin resistant mprF,peptide antibiotic,antibiotic target alteration
+5797,BAA11086.1,D67075.1,aminocoumarin resistant parE,,antibiotic target alteration
+5799,CAG39568.1,BX571856.1,daptomycin-resistant beta-subunit of RNA polymerase (rpoB),peptide antibiotic;rifamycin antibiotic,antibiotic target alteration
+5801,CAG39569.1,BX571856.1,daptomycin-resistant beta prime subunit of RNA polymerase (rpoC),peptide antibiotic,antibiotic target alteration
+5803,CAG39047.1,BX571856.1,daptomycin resistant walK,peptide antibiotic,antibiotic target alteration
+5806,AQA08261.1,CP019562.1,daptomycin resistant CdsA,peptide antibiotic,antibiotic target alteration
+5807,,NZ_CP018138.1,23S rRNA with mutation conferring resistance to macrolide antibiotics;23S rRNA with mutation conferring resistance to streptogramins antibiotics,streptogramin antibiotic,antibiotic target alteration
+5821,AAO47226.2,AF235050.4,aminocoumarin resistant parY,,antibiotic target alteration
+5823,AEJ33969.1,JF969163.1,sulfonamide resistant sul,,antibiotic target replacement
+5831,CAD09800.1,AL513383.1,TEM beta-lactamase,cephalosporin;monobactam;penicillin beta-lactam,antibiotic inactivation
+6047,WP_063865145.1,NG_050309.1,TER beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+6053,BAB59035.1,AB061440.1,tetracycline inactivation enzyme,tetracycline antibiotic,antibiotic inactivation;antibiotic target alteration
+6125,AAS81670.1,AE017221.1,Ribosomal protein mutation conferring resistance to pleuromutilin antibiotics,pleuromutilin antibiotic,antibiotic target alteration
+6126,QCK45398.1,CP035438.1,ECF transporter S component,sulfonamide antibiotic,resistance by host-dependent nutrient acquisition
+6127,CAC33832.1,AJ250876.1,THIN-B beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6128,AAD37403.1,AF148067.1,TLA beta-lactamase,cephalosporin;monobactam,antibiotic inactivation
+6133,CBY88906.1,FR771847.1,TMB beta-lactamase,carbapenem;cephalosporin,antibiotic inactivation
+6135,CAB12108.2,AL009126.3,tunicamycin resistance protein,nucleoside antibiotic,reduced permeability to antibiotic
+6143,ABW05394.1,EU046614.1,TRU beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6144,AAA99931.1,L39157.1,non-erm 23S ribosomal RNA methyltransferase (A1067),peptide antibiotic,antibiotic target alteration
+6145,WP_015818996.1,NG_059314.1,TTU beta-lactamase,carbapenem,antibiotic inactivation
+6146,AAN63648.1,AF441287.1,TUS beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6154,QTJ60982.1,MW827739.1,VAM beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam;tetracycline antibiotic,antibiotic inactivation
+6155,AAA65956.1,M97297.1,Van ligase;glycopeptide resistance gene cluster,glycopeptide antibiotic,antibiotic target alteration
+6162,AAA65955.1,M97297.1,glycopeptide resistance gene cluster;vanH,glycopeptide antibiotic,antibiotic target alteration
+6170,CAB45459.1,AL939117.1,vanJ membrane protein,glycopeptide antibiotic,antibiotic target alteration
+6171,BAE85481.1,AP008230.1,glycopeptide resistance gene cluster;vanK,glycopeptide antibiotic,antibiotic target alteration
+6177,AAA65953.1,M97297.1,glycopeptide resistance gene cluster;vanR,glycopeptide antibiotic,antibiotic target alteration
+6190,AAA65954.1,M97297.1,glycopeptide resistance gene cluster;vanS,glycopeptide antibiotic,antibiotic target alteration
+6203,AAD22403.1,AF162694.1,glycopeptide resistance gene cluster;vanT,glycopeptide antibiotic,antibiotic target alteration
+6209,ABA71726.1,DQ212986.1,glycopeptide resistance gene cluster;vanU,glycopeptide antibiotic,antibiotic target alteration
+6210,AAO82019.1,AE016830.1,glycopeptide resistance gene cluster;vanV,glycopeptide antibiotic,antibiotic target alteration
+6211,AAB05625.1,U35369.1,glycopeptide resistance gene cluster;vanW,glycopeptide antibiotic,antibiotic target alteration
+6214,AAA65957.1,M97297.1,glycopeptide resistance gene cluster;vanX,glycopeptide antibiotic,antibiotic target alteration
+6222,AAF61331.1,AF162694.1,glycopeptide resistance gene cluster;vanXY,glycopeptide antibiotic,antibiotic target alteration
+6227,AAA65958.1,M97297.1,glycopeptide resistance gene cluster;vanY,glycopeptide antibiotic,antibiotic target alteration
+6233,AAA65959.1,M97297.1,glycopeptide resistance gene cluster;vanZ,glycopeptide antibiotic,antibiotic target alteration
+6235,AAA26683.1,L07778.1,streptogramin vat acetyltransferase,streptogramin A antibiotic;streptogramin antibiotic,antibiotic inactivation
+6243,ALU64000.1,KT818596.1,VCC beta-lactamase,carbapenem;monobactam;penicillin beta-lactam,antibiotic inactivation
+6244,CAM88398.1,CU459141.1,VEB beta-lactamase,cephalosporin;monobactam,antibiotic inactivation
+6283,AAA26684.1,M90056.1,vga-type ABC-F protein,lincosamide antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,antibiotic target protection
+6290,AAA98349.1,M20129.1,streptogramin vgb lyase,streptogramin B antibiotic;streptogramin antibiotic,antibiotic inactivation
+6293,WP_063865164.1,NG_050334.1,VHH beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6294,WP_063865165.1,NG_050335.1,VHW beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6298,AAF94716.1,AE003852.1,Subclass B1 Vibrio cholerae varG beta-lactamase,carbapenem,antibiotic inactivation
+6389,QGQ32905.1,MN719868.1,VMB beta-lactamase,carbapenem;cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6391,CAA26235.1,X02393.1,viomycin phosphotransferase,peptide antibiotic,antibiotic inactivation
+6393,UPP01678.1,OL872181.1,WUS beta-lactamase,carbapenem;penicillin beta-lactam,antibiotic inactivation
+6394,AAX55643.1,AY954728.1,BlaA beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6396,WP_004874166.1,NG_070759.1,YEM beta-lactamase,carbapenem,antibiotic inactivation
+6399,QIU91361.1,CP050811.1,YOC beta-lactamase,cephalosporin,antibiotic inactivation
+6401,ABA70720.1,DQ185144.1,YRC beta-lactamase,cephalosporin;penicillin beta-lactam,antibiotic inactivation
+6402,WP_013992183.1,NG_057434.1,ZOG beta-lactamase,carbapenem,antibiotic inactivation
