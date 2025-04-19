@@ -1,0 +1,2862 @@
+,Pathogen,Frequency Count,Percent of Total Frequency,Year,Population Group
+0,Escherichia coli,19411,17.314553823,2018,Adult
+1,Staphylococcus aureus,13566,12.100831341,2018,Adult
+2,Enterococcus faecalis,8938,7.972669212,2018,Adult
+3,Pseudomonas aeruginosa,8905,7.943233311,2018,Adult
+4,Klebsiella pneumoniae,7208,6.429514397,2018,Adult
+5,Enterococcus faecium,4059,3.620615835,2018,Adult
+6,Staphylococcus epidermidis,3784,3.375316659,2018,Adult
+7,Candida albicans,3532,3.150533414,2018,Adult
+8,Proteus mirabilis,3305,2.948050095,2018,Adult
+9,Enterobacter cloacae,2697,2.405715917,2018,Adult
+10,"Staphylococcus, coagulase negative",2199,1.961501409,2018,Adult
+11,Genus Enterococcus,2016,1.798265958,2018,Adult
+12,Candida glabrata,1709,1.524422878,2018,Adult
+13,Serratia marcescens,1572,1.402219289,2018,Adult
+14,Bacteroides fragilis,1556,1.387947336,2018,Adult
+15,Klebsiella oxytoca,1413,1.260391765,2018,Adult
+16,Enterobacter aerogenes,1311,1.169408071,2018,Adult
+17,Enterobacter cloacae complex,1202,1.072180397,2018,Adult
+18,Group B streptococcus,805,0.718057587,2018,Adult
+19,Citrobacter freundii,768,0.685053698,2018,Adult
+20,Morganella morganii,756,0.674349734,2018,Adult
+21,Candida parapsilosis,737,0.657401791,2018,Adult
+22,"Streptococcus, viridans group",635,0.566418097,2018,Adult
+23,Klebsiella pneumoniae ss. pneumoniae,633,0.564634103,2018,Adult
+24,Acinetobacter baumannii,564,0.50308631,2018,Adult
+25,Candida tropicalis,546,0.487030364,2018,Adult
+26,Stenotrophomonas maltophilia,516,0.460270453,2018,Adult
+27,Bacteroides thetaiotaomicron,481,0.429050558,2018,Adult
+28,Yeast,477,0.42548257,2018,Adult
+29,Streptococcus anginosus,435,0.388018696,2018,Adult
+30,Citrobacter koseri,424,0.378206729,2018,Adult
+31,Staphylococcus lugdunensis,391,0.348770828,2018,Adult
+32,Lactobacillus,380,0.338958861,2018,Adult
+33,Enterococcus avium,373,0.332714882,2018,Adult
+34,Propionibacterium acnes,360,0.321118921,2018,Adult
+35,Corynebacterium,328,0.292575017,2018,Adult
+36,Bacteroides fragilis group,297,0.26492311,2018,Adult
+37,Diphtheroids,285,0.254219146,2018,Adult
+38,Staphylococcus,285,0.254219146,2018,Adult
+39,Streptococcus mitis,268,0.239055197,2018,Adult
+40,Gram-negative bacillus,263,0.234595212,2018,Adult
+41,Streptococcus anginosus group,260,0.231919221,2018,Adult
+42,Streptococcus mitis group,260,0.231919221,2018,Adult
+43,Gram-positive coccus,239,0.213187284,2018,Adult
+44,Streptococcus,212,0.189103365,2018,Adult
+45,Candida dubliniensis,208,0.185535377,2018,Adult
+46,Enterococcus gallinarum,198,0.176615407,2018,Adult
+47,Clostridium perfringens,197,0.17572341,2018,Adult
+48,Candida,192,0.171263425,2018,Adult
+49,Staphylococcus haemolyticus,189,0.168587434,2018,Adult
+50,Bacteroides ovatus,185,0.165019446,2018,Adult
+51,Haemophilus influenzae,183,0.163235452,2018,Adult
+52,Providencia stuartii,178,0.158775467,2018,Adult
+53,Corynebacterium striatum,171,0.152531487,2018,Adult
+54,Prevotella bivia,170,0.15163949,2018,Adult
+55,Staphylococcus capitis,168,0.149855496,2018,Adult
+56,Clostridium,165,0.147179505,2018,Adult
+57,Finegoldia magna,160,0.14271952,2018,Adult
+58,Candida krusei,156,0.139151532,2018,Adult
+59,Proteus vulgaris,149,0.132907553,2018,Adult
+60,Streptococcus pneumoniae,145,0.129339565,2018,Adult
+61,Prevotella,144,0.128447568,2018,Adult
+62,Streptococcus pyogenes,141,0.125771577,2018,Adult
+63,Bacteroides vulgatus,137,0.122203589,2018,Adult
+64,Bacteroides,136,0.121311592,2018,Adult
+65,Gram-positive bacillus,132,0.117743604,2018,Adult
+66,Staphylococcus hominis,130,0.11595961,2018,Adult
+67,Streptococcus constellatus,130,0.11595961,2018,Adult
+68,Enterococcus raffinosus,124,0.110607628,2018,Adult
+69,Peptostreptococcus,114,0.101687658,2018,Adult
+70,Alpha-hemolytic streptococcus,111,0.099011667,2018,Adult
+71,Clostridium ramosum,106,0.094551682,2018,Adult
+72,Propionibacterium,103,0.091875691,2018,Adult
+73,Fusobacterium nucleatum .,102,0.090983694,2018,Adult
+74,Haemophilus parainfluenzae,102,0.090983694,2018,Adult
+75,Granulicatella adiacens,97,0.086523709,2018,Adult
+76,Rothia mucilaginosa,91,0.081171727,2018,Adult
+77,Candida lusitaniae,90,0.08027973,2018,Adult
+78,Eggerthella lenta,89,0.079387733,2018,Adult
+79,Beta-hemolytic streptococcus,86,0.076711742,2018,Adult
+80,Citrobacter amalonaticus,85,0.075819745,2018,Adult
+81,Acinetobacter calcoaceticus-Acinetobacter baumannii complex,84,0.074927748,2018,Adult
+82,Bacillus,83,0.074035751,2018,Adult
+83,Hafnia alvei,82,0.073143754,2018,Adult
+84,Streptococcus intermedius,75,0.066899775,2018,Adult
+85,Klebsiella,74,0.066007778,2018,Adult
+86,Parabacteroides distasonis,73,0.065115781,2018,Adult
+87,Providencia rettgeri,73,0.065115781,2018,Adult
+88,Enterobacter,72,0.064223784,2018,Adult
+89,"Streptococcus, group G",71,0.063331787,2018,Adult
+90,Bacteroides uniformis,69,0.0615478,2018,Adult
+91,Pseudomonas,69,0.0615478,2018,Adult
+92,Actinomyces,68,0.0606558,2018,Adult
+93,Burkholderia cepacia,68,0.0606558,2018,Adult
+94,Gemella haemolysans,68,0.0606558,2018,Adult
+95,Anaerobe,67,0.0597638,2018,Adult
+96,Bacteroides caccae,67,0.0597638,2018,Adult
+97,Prevotella melaninogenica,66,0.0588718,2018,Adult
+98,"Streptococcus, group C",66,0.0588718,2018,Adult
+99,Clostridium clostridioforme,65,0.0579798,2018,Adult
+100,Klebsiella variicola,64,0.0570878,2018,Adult
+101,Clostridium innocuum,61,0.0544118,2018,Adult
+102,Enterococcus casseliflavus,60,0.0535198,2018,Adult
+103,"Staphylococcus, coagulase positive",59,0.0526278,2018,Adult
+104,Citrobacter braakii,57,0.0508438,2018,Adult
+105,Citrobacter,56,<0.1,2018,Adult
+106,Pseudomonas fluorescens,56,<0.1,2018,Adult
+107,Staphylococcus simulans,55,<0.1,2018,Adult
+108,Peptostreptococcus anaerobius,54,<0.1,2018,Adult
+109,Raoultella ornithinolytica,54,<0.1,2018,Adult
+110,Anaerobic Gram-negative bacillus,53,<0.1,2018,Adult
+111,Acinetobacter,52,<0.1,2018,Adult
+112,Proteus penneri,52,<0.1,2018,Adult
+113,Citrobacter youngae,51,<0.1,2018,Adult
+114,Clostridium tertium,51,<0.1,2018,Adult
+115,Fusobacterium,50,<0.1,2018,Adult
+116,Streptococcus salivarius,48,<0.1,2018,Adult
+117,Gardnerella vaginalis,47,<0.1,2018,Adult
+118,Proteus,47,<0.1,2018,Adult
+119,Achromobacter xylosoxidans,46,<0.1,2018,Adult
+120,Enterobacter asburiae,46,<0.1,2018,Adult
+121,Lactobacillus rhamnosus,46,<0.1,2018,Adult
+122,Saccharomyces cerevisiae,46,<0.1,2018,Adult
+123,Actinomyces odontolyticus,45,<0.1,2018,Adult
+124,Streptococcus oralis,45,<0.1,2018,Adult
+125,Clostridium difficile,44,<0.1,2018,Adult
+126,Veillonella,44,<0.1,2018,Adult
+127,Klebsiella pneumoniae ss. ozaenae,43,<0.1,2018,Adult
+128,Staphylococcus hominis hominis,43,<0.1,2018,Adult
+129,Staphylococcus warneri,43,<0.1,2018,Adult
+130,Streptococcus dysgalactiae,43,<0.1,2018,Adult
+131,"Streptococcus, group F",42,<0.1,2018,Adult
+132,Aerococcus urinae,41,<0.1,2018,Adult
+133,Bifidobacterium,41,<0.1,2018,Adult
+134,Pseudomonas putida,41,<0.1,2018,Adult
+135,"Beta-hemolytic streptococcus, non-Group A, non-Group B",41,<0.1,2018,Adult
+136,Acinetobacter lwoffi,39,<0.1,2018,Adult
+137,Prevotella oralis,38,<0.1,2018,Adult
+138,gamma-hemolytic streptococcus,37,<0.1,2018,Adult
+139,Moraxella catarrhalis,36,<0.1,2018,Adult
+140,Streptococcus parasanguinis,36,<0.1,2018,Adult
+141,Candida auris,35,<0.1,2018,Adult
+142,Pantoea agglomerans,35,<0.1,2018,Adult
+143,Candida  guilliermondii,34,<0.1,2018,Adult
+144,"Streptococcus, group D",34,<0.1,2018,Adult
+145,Pantoea,34,<0.1,2018,Adult
+146,Prevotella buccae,34,<0.1,2018,Adult
+147,Anaerobic Gram-positive bacillus,33,<0.1,2018,Adult
+148,Anaerobic Gram-positive coccus,32,<0.1,2018,Adult
+149,Citrobacter farmeri,32,<0.1,2018,Adult
+150,Leptotrichia,32,<0.1,2018,Adult
+151,Eikenella corrodens,29,<0.1,2018,Adult
+152,Clostridium septicum,28,<0.1,2018,Adult
+153,Peptoniphilus asaccharolyticus,28,<0.1,2018,Adult
+154,Alpha-hemolytic Streptococcus species not Streptococcus pneumoniae,27,<0.1,2018,Adult
+155,Gemella,27,<0.1,2018,Adult
+156,"Beta-hemolytic Streptococcus, group A",27,<0.1,2018,Adult
+157,Streptococcus sanguinis,27,<0.1,2018,Adult
+158,Enterobacteriaceae,26,<0.1,2018,Adult
+159,Serratia,26,<0.1,2018,Adult
+160,Staphylococcus caprae,26,<0.1,2018,Adult
+161,Staphylococcus pseudintermedius,26,<0.1,2018,Adult
+162,Streptococcus bovis group,26,<0.1,2018,Adult
+163,Enterobacter hormaechei,25,<0.1,2018,Adult
+164,"Escherichia coli, inactive",25,<0.1,2018,Adult
+165,Raoultella planticola,25,<0.1,2018,Adult
+166,Serratia liquefaciens,25,<0.1,2018,Adult
+167,Candida stellatoidea,24,<0.1,2018,Adult
+168,Capnocytophaga,24,<0.1,2018,Adult
+169,Enterococcus durans,24,<0.1,2018,Adult
+170,Lactobacillus casei,23,<0.1,2018,Adult
+171,Prevotella denticola,23,<0.1,2018,Adult
+172,Propionibacterium avidum,23,<0.1,2018,Adult
+173,Anaerococcus prevotii,22,<0.1,2018,Adult
+174,Aspergillus fumigatus,22,<0.1,2018,Adult
+175,Streptococcus salivarius group,22,<0.1,2018,Adult
+176,Fermentative Gram-negative bacillus,21,<0.1,2018,Adult
+177,Pasteurella multocida,21,<0.1,2018,Adult
+178,Peptostreptococcus asaccharolyticus,21,<0.1,2018,Adult
+179,Enteropathogenic Escherichia coli,20,<0.1,2018,Adult
+180,Pseudomonas stutzeri,20,<0.1,2018,Adult
+181,Sphingomonas paucimobilis,20,<0.1,2018,Adult
+182,Micrococcus,19,<0.1,2018,Adult
+183,Parvimonas micra,19,<0.1,2018,Adult
+184,Prevotella loescheii,19,<0.1,2018,Adult
+185,Alpha non-hemolytic streptococcus,19,<0.1,2018,Adult
+186,Veillonella parvula,19,<0.1,2018,Adult
+187,Achromobacter,18,<0.1,2018,Adult
+188,Chryseobacterium indologenes,18,<0.1,2018,Adult
+189,Clostridium subterminale,18,<0.1,2018,Adult
+190,Corynebacterium amycolatum,18,<0.1,2018,Adult
+191,Coryneform bacteria,18,<0.1,2018,Adult
+192,Aeromonas hydrophila,17,<0.1,2018,Adult
+193,Citrobacter sedlakii,17,<0.1,2018,Adult
+194,Corynebacterium jeikeium,17,<0.1,2018,Adult
+195,Escherichia,17,<0.1,2018,Adult
+196,Mycobacterium abscessus,17,<0.1,2018,Adult
+197,Prevotella oris,17,<0.1,2018,Adult
+198,Actinomyces neuii,16,<0.1,2018,Adult
+199,Bacillus cereus,16,<0.1,2018,Adult
+200,Candida kefyr,16,<0.1,2018,Adult
+201,Enterococcus hirae,16,<0.1,2018,Adult
+202,Leptotrichia buccalis,16,<0.1,2018,Adult
+203,Neisseria,16,<0.1,2018,Adult
+204,Proteus hauseri,16,<0.1,2018,Adult
+205,Staphylococcus intermedius,16,<0.1,2018,Adult
+206,Streptococcus gallolyticus,16,<0.1,2018,Adult
+207,Streptococcus gordonii,16,<0.1,2018,Adult
+208,Acinetobacter haemolyticus,15,<0.1,2018,Adult
+209,Delftia acidovorans,15,<0.1,2018,Adult
+210,Eubacterium,15,<0.1,2018,Adult
+211,Gemella morbillorum,15,<0.1,2018,Adult
+212,Acinetobacter ursingii,14,<0.1,2018,Adult
+213,Bacteroides stercoris,14,<0.1,2018,Adult
+214,Burkholderia cepacia complex,14,<0.1,2018,Adult
+215,Fusobacterium necrophorum,14,<0.1,2018,Adult
+216,Leuconostoc,14,<0.1,2018,Adult
+217,Peptoniphilus harei,14,<0.1,2018,Adult
+218,Peptostreptococcus micros,14,<0.1,2018,Adult
+219,Acinetobacter calcoaceticus,13,<0.1,2018,Adult
+220,Acinetobacter radioresistens,13,<0.1,2018,Adult
+221,Actinomyces turicensis,13,<0.1,2018,Adult
+222,Bacillus species not Bacillus anthracis,13,<0.1,2018,Adult
+223,Clostridium cadaveris,13,<0.1,2018,Adult
+224,Enterobacter cancerogenus,13,<0.1,2018,Adult
+225,Gemella sanguinis,13,<0.1,2018,Adult
+226,Kluyvera ascorbata,13,<0.1,2018,Adult
+227,Prevotella disiens,13,<0.1,2018,Adult
+228,Small-colony-forming beta-hemolytic group G streptococci,13,<0.1,2018,Adult
+229,Enterobacter gergoviae,12,<0.1,2018,Adult
+230,Fusobacterium varium,12,<0.1,2018,Adult
+231,Morganella morganii  subsp sibonii,12,<0.1,2018,Adult
+232,Ochrobactrum anthropi,12,<0.1,2018,Adult
+233,Staphylococcus schleiferi,12,<0.1,2018,Adult
+234,Abiotrophia defectiva,12,<0.1,2018,Adult
+235,Aeromonas,11,<0.1,2018,Adult
+236,Candida famata,11,<0.1,2018,Adult
+237,Eubacterium limosum,11,<0.1,2018,Adult
+238,Haemophilus,11,<0.1,2018,Adult
+239,Klebsiella pneumoniae ss. rhinoscleromatis,11,<0.1,2018,Adult
+240,Morganella,11,<0.1,2018,Adult
+241,Propionibacterium granulosum,11,<0.1,2018,Adult
+242,Salmonella,11,<0.1,2018,Adult
+243,Serratia fonticola,11,<0.1,2018,Adult
+244,Staphylococcus auricularis,11,<0.1,2018,Adult
+245,Staphylococcus capitis ss capitis,11,<0.1,2018,Adult
+246,Streptococcus dysgalactiae subsp. equisimilis,11,<0.1,2018,Adult
+247,Aerococcus viridans,10,<0.1,2018,Adult
+248,Granulicatella,10,<0.1,2018,Adult
+249,Lactobacillus gasseri,10,<0.1,2018,Adult
+250,Leclercia adecarboxylata,10,<0.1,2018,Adult
+251,Mycobacterium fortuitum,10,<0.1,2018,Adult
+252,Parabacteroides,10,<0.1,2018,Adult
+253,Rhodotorula rubra,10,<0.1,2018,Adult
+254,Staphylococcus cohnii,10,<0.1,2018,Adult
+255,Stenotrophomonas,10,<0.1,2018,Adult
+256,Aerobic bacteria,9,<0.1,2018,Adult
+257,Bacillus cereus group,9,<0.1,2018,Adult
+258,Candida guilliermondii var membranaefaciens,9,<0.1,2018,Adult
+259,Chryseomonas luteola,9,<0.1,2018,Adult
+260,Clostridium baratii,9,<0.1,2018,Adult
+261,Cronobacter sakazakii,9,<0.1,2018,Adult
+262,Eggerthella,9,<0.1,2018,Adult
+263,Fusarium,9,<0.1,2018,Adult
+264,Moraxella,9,<0.1,2018,Adult
+265,Mycobacterium mucogenicum,9,<0.1,2018,Adult
+266,Peptoniphilus,9,<0.1,2018,Adult
+267,Porphyromonas,9,<0.1,2018,Adult
+268,Prevotella intermedia,9,<0.1,2018,Adult
+269,Rothia,9,<0.1,2018,Adult
+270,Ruminococcus,9,<0.1,2018,Adult
+271,Serratia rubidaea,9,<0.1,2018,Adult
+272,Staphylococcus saprophyticus,9,<0.1,2018,Adult
+273,Abiotrophia,8,<0.1,2018,Adult
+274,Acinetobacter junii,8,<0.1,2018,Adult
+275,Actinomyces meyeri,8,<0.1,2018,Adult
+276,Aspergillus,8,<0.1,2018,Adult
+277,Bacteroides eggerthii,8,<0.1,2018,Adult
+278,Capnocytophaga sputigena,8,<0.1,2018,Adult
+279,Elizabethkingia meningoseptica,8,<0.1,2018,Adult
+280,Finegoldia,8,<0.1,2018,Adult
+281,Influenza A virus,8,<0.1,2018,Adult
+282,Lactobacillus acidophilus,8,<0.1,2018,Adult
+283,Mycoplasma hominis,8,<0.1,2018,Adult
+284,Prevotella nigrescens,8,<0.1,2018,Adult
+285,Streptococcus alactolyticus,8,<0.1,2018,Adult
+286,Small-colony-forming beta-hemolytic group C streptococci,8,<0.1,2018,Adult
+287,Aerococcus,7,<0.1,2018,Adult
+288,Acid-fast bacillus,7,<0.1,2018,Adult
+289,Bifidobacterium breve,7,<0.1,2018,Adult
+290,Citrobacter werkmanii,7,<0.1,2018,Adult
+291,Clostridium bifermentans,7,<0.1,2018,Adult
+292,Clostridium paraputrificum,7,<0.1,2018,Adult
+293,Corynebacterium pseudodiphtheriticum,7,<0.1,2018,Adult
+294,Coliform  bacteria,7,<0.1,2018,Adult
+295,Anaerobic diphtheroids,7,<0.1,2018,Adult
+296,Escherichia fergusonii,7,<0.1,2018,Adult
+297,Non-fermentative Gram-negative bacillus,7,<0.1,2018,Adult
+298,Mold,7,<0.1,2018,Adult
+299,Neisseria sicca,7,<0.1,2018,Adult
+300,Pseudomonas oryzihabitans,7,<0.1,2018,Adult
+301,Serratia plymuthica,7,<0.1,2018,Adult
+302,Staphylococcus capitis subspecies urealyticus,7,<0.1,2018,Adult
+303,Staphylococcus saccharolyticus,7,<0.1,2018,Adult
+304,Streptococcus gallolyticus subspecies pasteurianus,7,<0.1,2018,Adult
+305,Streptococcus vestibularis,7,<0.1,2018,Adult
+306,Actinomyces israelii,6,<0.1,2018,Adult
+307,Alcaligenes faecalis,6,<0.1,2018,Adult
+308,Anaerococcus tretradius,6,<0.1,2018,Adult
+309,Clostridium sordellii,6,<0.1,2018,Adult
+310,Corynebacterium diphtheriae,6,<0.1,2018,Adult
+311,Aerobic diphtheroids,6,<0.1,2018,Adult
+312,Escherichia hermannii,6,<0.1,2018,Adult
+313,Kocuria kristinae,6,<0.1,2018,Adult
+314,Lactobacillus fermentum,6,<0.1,2018,Adult
+315,Lactobacillus paracasei,6,<0.1,2018,Adult
+316,Moraxella nonliquefaciens,6,<0.1,2018,Adult
+317,Penicillium,6,<0.1,2018,Adult
+318,Peptococcus,6,<0.1,2018,Adult
+319,Raoultella,6,<0.1,2018,Adult
+320,Rhizobium radiobacter,6,<0.1,2018,Adult
+321,Serratia odorifera,6,<0.1,2018,Adult
+322,Trueperella bernardiae,6,<0.1,2018,Adult
+323,Adenoviridae,5,<0.1,2018,Adult
+324,Anaerobic Gram-negative coccus,5,<0.1,2018,Adult
+325,Anaerococcus spp.,5,<0.1,2018,Adult
+326,Anaerococcus vaginalis,5,<0.1,2018,Adult
+327,Burkholderia,5,<0.1,2018,Adult
+328,Chryseobacterium,5,<0.1,2018,Adult
+329,Dermabacter hominis,5,<0.1,2018,Adult
+330,Fungus,5,<0.1,2018,Adult
+331,Fusobacterium nucleatum  nucleatum,5,<0.1,2018,Adult
+332,Gram-variable bacillus,5,<0.1,2018,Adult
+333,Haemophilus influenzae type b,5,<0.1,2018,Adult
+334,Kluyvera cryocrescens,5,<0.1,2018,Adult
+335,Lactococcus,5,<0.1,2018,Adult
+336,Micrococcus luteus,5,<0.1,2018,Adult
+337,"Morganella morganii, biogroup 1",5,<0.1,2018,Adult
+338,Pediococcus,5,<0.1,2018,Adult
+339,Prevotella corporis,5,<0.1,2018,Adult
+340,Pseudomonas mendocina,5,<0.1,2018,Adult
+341,Rothia dentocariosa,5,<0.1,2018,Adult
+342,"Serratia marcescens, Biogroup I",5,<0.1,2018,Adult
+343,Elastase-producing strain Staphylococcus epidermidis,5,<0.1,2018,Adult
+344,Staphylococcus sciuri,5,<0.1,2018,Adult
+345,Streptococcus constellatus subspecies constellatus,5,<0.1,2018,Adult
+346,Streptococcus infantarius,5,<0.1,2018,Adult
+347,Streptococcus mutans,5,<0.1,2018,Adult
+348,Tissierella praeacuta,5,<0.1,2018,Adult
+349,Trichosporon asahii,5,<0.1,2018,Adult
+350,Trichosporon,5,<0.1,2018,Adult
+351,Achromobacter denitrificans,4,<0.1,2018,Adult
+352,Achromobacter xylosoxidans xylosoxidans,4,<0.1,2018,Adult
+353,Aspergillus terreus,4,<0.1,2018,Adult
+354,Bacteroides pyogenes,4,<0.1,2018,Adult
+355,Cladosporium,4,<0.1,2018,Adult
+356,Clostridium butyricum,4,<0.1,2018,Adult
+357,Clostridium hathewayi,4,<0.1,2018,Adult
+358,Clostridium sporogenes,4,<0.1,2018,Adult
+359,Corynebacterium  species not Corynebacterium diphtheriae,4,<0.1,2018,Adult
+360,Eikenella,4,<0.1,2018,Adult
+361,Enterobacter amnigenus,4,<0.1,2018,Adult
+362,Enterobacter intermedius,4,<0.1,2018,Adult
+363,Fusobacterium mortiferum,4,<0.1,2018,Adult
+364,Gardnerella,4,<0.1,2018,Adult
+365,"Haemophilus influenzae, not b",4,<0.1,2018,Adult
+366,Kluyveromyces marxianus,4,<0.1,2018,Adult
+367,Lactobacillus plantarum,4,<0.1,2018,Adult
+368,Leuconostoc lactis,4,<0.1,2018,Adult
+369,Mycobacterium goodii,4,<0.1,2018,Adult
+370,Mycobacterium,4,<0.1,2018,Adult
+371,Neisseria mucosa,4,<0.1,2018,Adult
+372,Ochrobactrum,4,<0.1,2018,Adult
+373,Parvimonas,4,<0.1,2018,Adult
+374,Prevotella oralis group,4,<0.1,2018,Adult
+375,Providencia,4,<0.1,2018,Adult
+376,Rhizopus,4,<0.1,2018,Adult
+377,Rhodotorula,4,<0.1,2018,Adult
+378,Shewanella putrefaciens,4,<0.1,2018,Adult
+379,Streptococcus anginosus-constellatus,4,<0.1,2018,Adult
+380,Streptococcus dysgalactiae subsp. dysgalactiae,4,<0.1,2018,Adult
+381,Actinomyces naeslundii,3,<0.1,2018,Adult
+382,Actinomyces radingae,3,<0.1,2018,Adult
+383,Aeromonas sobria,3,<0.1,2018,Adult
+384,Parabacteroides merdae,3,<0.1,2018,Adult
+385,Bilophila wadsworthia,3,<0.1,2018,Adult
+386,Burkholderia gladioli,3,<0.1,2018,Adult
+387,Campylobacter ureolyticus,3,<0.1,2018,Adult
+388,Candida lipolytica,3,<0.1,2018,Adult
+389,Candida pelliculosa,3,<0.1,2018,Adult
+390,Candida utilis,3,<0.1,2018,Adult
+391,Candida zeylanoides,3,<0.1,2018,Adult
+392,Clostridium glycolicum,3,<0.1,2018,Adult
+393,Clostridium symbiosum,3,<0.1,2018,Adult
+394,Corynebacterium aurimucosum,3,<0.1,2018,Adult
+395,Corynebacterium species not Corynebacterium jeikeium,3,<0.1,2018,Adult
+396,Corynebacterium propinquum,3,<0.1,2018,Adult
+397,Corynebacterium simulans,3,<0.1,2018,Adult
+398,Corynebacterium urealyticum,3,<0.1,2018,Adult
+399,Flavobacterium,3,<0.1,2018,Adult
+400,Flavonifractor plautii,3,<0.1,2018,Adult
+401,Fusobacterium naviforme,3,<0.1,2018,Adult
+402,Gram positive coccobacillus,3,<0.1,2018,Adult
+403,Gram-positive diplococcus,3,<0.1,2018,Adult
+404,Aggregatibacter aphrophilus,3,<0.1,2018,Adult
+405,Haemophilus haemolyticus,3,<0.1,2018,Adult
+406,Hafnia,3,<0.1,2018,Adult
+407,Lactococcus garvieae,3,<0.1,2018,Adult
+408,Lactococcus lactis,3,<0.1,2018,Adult
+409,Leptotrichia trevisanii,3,<0.1,2018,Adult
+410,Mobiluncus mulieris,3,<0.1,2018,Adult
+411,"Mycobacterium, avium-intracellulare group",3,<0.1,2018,Adult
+412,Pasteurella canis,3,<0.1,2018,Adult
+413,Pediococcus acidilactici,3,<0.1,2018,Adult
+414,Kodamaea ohmeri,3,<0.1,2018,Adult
+415,Prevotella buccalis,3,<0.1,2018,Adult
+416,Propionimicrobium,3,<0.1,2018,Adult
+417,Staphylococcus hyicus,3,<0.1,2018,Adult
+418,Streptococcus cristatus,3,<0.1,2018,Adult
+419,Streptococcus equinus,3,<0.1,2018,Adult
+420,Streptococcus gallolyticus subspecies gallolyticus,3,<0.1,2018,Adult
+421,Streptococcus sanguinis group,3,<0.1,2018,Adult
+422,Streptococcus salivarius subsp. salivarius,3,<0.1,2018,Adult
+423,Streptococcus acidominimus,3,<0.1,2018,Adult
+424,Virus,3,<0.1,2018,Adult
+425,Acinetobacter johnsonii,2,<0.1,2018,Adult
+426,Aeromonas punctata,2,<0.1,2018,Adult
+427,Aerococcus sanguicola,2,<0.1,2018,Adult
+428,Aggregatibacter segnis,2,<0.1,2018,Adult
+429,Agrobacterium,2,<0.1,2018,Adult
+430,Alloscardovia omnicolens,2,<0.1,2018,Adult
+431,Alcaligenes,2,<0.1,2018,Adult
+432,Arcanobacterium haemolyticum,2,<0.1,2018,Adult
+433,Aspergillus niger,2,<0.1,2018,Adult
+434,Aspergillus versicolor,2,<0.1,2018,Adult
+435,Atopobium vaginae,2,<0.1,2018,Adult
+436,Bacillus megaterium,2,<0.1,2018,Adult
+437,Odoribacter splanchnicus,2,<0.1,2018,Adult
+438,Bifidobacterium longum,2,<0.1,2018,Adult
+439,Blastoschizomyces pseudotrichosporon,2,<0.1,2018,Adult
+440,Blautia producta,2,<0.1,2018,Adult
+441,Brevundimonas,2,<0.1,2018,Adult
+442,Brevibacterium,2,<0.1,2018,Adult
+443,Bacillus subtilis,2,<0.1,2018,Adult
+444,Family Caliciviridae,2,<0.1,2018,Adult
+445,Campylobacter gracilis,2,<0.1,2018,Adult
+446,Candida haemulonii,2,<0.1,2018,Adult
+447,Candida norvegensis,2,<0.1,2018,Adult
+448,Candida pararugosa,2,<0.1,2018,Adult
+449,Corynebacterium minutissimum,2,<0.1,2018,Adult
+450,Corynebacterium tuberculostearicum,2,<0.1,2018,Adult
+451,Cupriavidus metallidurans,2,<0.1,2018,Adult
+452,Cupriavidus pauculus,2,<0.1,2018,Adult
+453,Curvularia,2,<0.1,2018,Adult
+454,Desulfovibrio desulfuricans,2,<0.1,2018,Adult
+455,Desulfovibrio,2,<0.1,2018,Adult
+456,Edwardsiella tarda,2,<0.1,2018,Adult
+457,Elizabethkingia,2,<0.1,2018,Adult
+458,Empedobacter brevis,2,<0.1,2018,Adult
+459,Enterobacter amnigenus Bbiogroup  II,2,<0.1,2018,Adult
+460,Enterobacter kobei,2,<0.1,2018,Adult
+461,Eubacterium saburreum,2,<0.1,2018,Adult
+462,Ewingella americana,2,<0.1,2018,Adult
+463,Globicatella sanguinis,2,<0.1,2018,Adult
+464,Gram-negative coccus,2,<0.1,2018,Adult
+465,Gram-negative diplococcus,2,<0.1,2018,Adult
+466,"Haemophilus parainfluenzae, biotype I",2,<0.1,2018,Adult
+467,Haemophilus influenzae type a,2,<0.1,2018,Adult
+468,Human metapneumovirus,2,<0.1,2018,Adult
+469,Inquilinus limosus,2,<0.1,2018,Adult
+470,Kluyvera intermedia,2,<0.1,2018,Adult
+471,Lactobacillus salivarius,2,<0.1,2018,Adult
+472,Leuconostoc pseudomesenteroides,2,<0.1,2018,Adult
+473,Methylobacterium spp.,2,<0.1,2018,Adult
+474,Microbacterium,2,<0.1,2018,Adult
+475,Moraxella osloensis,2,<0.1,2018,Adult
+476,Mucor,2,<0.1,2018,Adult
+477,Mycobacterium chelonae,2,<0.1,2018,Adult
+478,Mycobacterium fortuitum complex,2,<0.1,2018,Adult
+479,Mycobacterium haemophilum,2,<0.1,2018,Adult
+480,Mycobacterium intracellulare,2,<0.1,2018,Adult
+481,Genus Mycoplasma,2,<0.1,2018,Adult
+482,Mycoplasma salivarium,2,<0.1,2018,Adult
+483,Neisseria elongata,2,<0.1,2018,Adult
+484,Neisseria subflava,2,<0.1,2018,Adult
+485,Neisseria meningitidis,2,<0.1,2018,Adult
+486,Nocardia,2,<0.1,2018,Adult
+487,Paenibacillus,2,<0.1,2018,Adult
+488,Paracoccus yeei,2,<0.1,2018,Adult
+489,Pediococcus pentosaceus,2,<0.1,2018,Adult
+490,Porphyromonas gingivalis,2,<0.1,2018,Adult
+491,Pseudallescheria,2,<0.1,2018,Adult
+492,Pseudomonas alcaligenes,2,<0.1,2018,Adult
+493,Rhizobium,2,<0.1,2018,Adult
+494,Human respiratory syncytial virus,2,<0.1,2018,Adult
+495,Scedosporium boydii,2,<0.1,2018,Adult
+496,Sphingobacterium multivorum,2,<0.1,2018,Adult
+497,Sphingomonas parapaucimobilis,2,<0.1,2018,Adult
+498,Sphingomonas,2,<0.1,2018,Adult
+499,Staphylococcus schleiferi sscoagulans,2,<0.1,2018,Adult
+500,Staphylococcus pettenkoferi,2,<0.1,2018,Adult
+501,Staphylococcus saprophyticus sssaprophyticus,2,<0.1,2018,Adult
+502,Staphylococcus xylosus,2,<0.1,2018,Adult
+503,Streptomyces,2,<0.1,2018,Adult
+504,Weissella confusa,2,<0.1,2018,Adult
+505,Weissella,2,<0.1,2018,Adult
+506,Yersinia enterocolitica,2,<0.1,2018,Adult
+507,Acholeplasma laidlawii,1,<0.1,2018,Adult
+508,Achromobacter piechaudii,1,<0.1,2018,Adult
+509,Achromobacter ruhlandii,1,<0.1,2018,Adult
+510,Actinobaculum schaalii,1,<0.1,2018,Adult
+511,Aeromonas hydrophila complex,1,<0.1,2018,Adult
+512,Aeromonas veronii biovar veronii,1,<0.1,2018,Adult
+513,Aeromonas veronii,1,<0.1,2018,Adult
+514,Aspergillus flavus,1,<0.1,2018,Adult
+515,Alistipes,1,<0.1,2018,Adult
+516,Alloiococcus otitis,1,<0.1,2018,Adult
+517,Alternaria.,1,<0.1,2018,Adult
+518,Alternaria infectoria,1,<0.1,2018,Adult
+519,Alcaligenes xylosoxidans ss. xylosoxidans,1,<0.1,2018,Adult
+520,Anaerobic Gram negative coccobacillus,1,<0.1,2018,Adult
+521,Anaerobic Gram positive coccobacillus,1,<0.1,2018,Adult
+522,Anaerococcus octavius,1,<0.1,2018,Adult
+523,Anaerococcus tetradius,1,<0.1,2018,Adult
+524,Aneurinibacillus,1,<0.1,2018,Adult
+525,Arthrographis,1,<0.1,2018,Adult
+526,Arthrobacter,1,<0.1,2018,Adult
+527,Arthrobacter woluwensis,1,<0.1,2018,Adult
+528,Aspergillus sydowii,1,<0.1,2018,Adult
+529,Atopobium minutum,1,<0.1,2018,Adult
+530,Atopobium parvulum,1,<0.1,2018,Adult
+531,Aureobasidium,1,<0.1,2018,Adult
+532,Bacillus anthracis,1,<0.1,2018,Adult
+533,Babesia microti,1,<0.1,2018,Adult
+534,Bacillus circulans,1,<0.1,2018,Adult
+535,Bacteroides nordii,1,<0.1,2018,Adult
+536,Bacteroides tectum,1,<0.1,2018,Adult
+537,Bartonella,1,<0.1,2018,Adult
+538,Bipolaris,1,<0.1,2018,Adult
+539,Bordetella trematum,1,<0.1,2018,Adult
+540,Brevundimonas diminuta,1,<0.1,2018,Adult
+541,Brevundimonas vesicularis,1,<0.1,2018,Adult
+542,Brevibacillus,1,<0.1,2018,Adult
+543,Bacillus subtilis spizizenii,1,<0.1,2018,Adult
+544,Bulleidia,1,<0.1,2018,Adult
+545,Burkholderia cenocepacia,1,<0.1,2018,Adult
+546,Burkholderia multivorans,1,<0.1,2018,Adult
+547,Campylobacter,1,<0.1,2018,Adult
+548,Candida intermedia,1,<0.1,2018,Adult
+549,Candida rugosa,1,<0.1,2018,Adult
+550,Capnocytophaga haemolytica,1,<0.1,2018,Adult
+551,Capnocytophaga ochracea,1,<0.1,2018,Adult
+552,Cedecea neteri,1,<0.1,2018,Adult
+553,Cedecea,1,<0.1,2018,Adult
+554,Chryseobacterium gleum,1,<0.1,2018,Adult
+555,Chryseomonas,1,<0.1,2018,Adult
+556,Citrobacter gillenii,1,<0.1,2018,Adult
+557,Citrobacter murliniae,1,<0.1,2018,Adult
+558,Clostridium bolteae,1,<0.1,2018,Adult
+559,Clostridium disporicum,1,<0.1,2018,Adult
+560,Clostridium fallax,1,<0.1,2018,Adult
+561,Clostridium histolyticum,1,<0.1,2018,Adult
+562,Clostridium hastiforme,1,<0.1,2018,Adult
+563,Clostridium indolis,1,<0.1,2018,Adult
+564,Clostridium sardiniense,1,<0.1,2018,Adult
+565,Clostridium tetani,1,<0.1,2018,Adult
+566,Corynebacterium afermentans,1,<0.1,2018,Adult
+567,Corynebacterium coyleae,1,<0.1,2018,Adult
+568,Corynebacterium kroppenstedtii,1,<0.1,2018,Adult
+569,Corynebacterium macginleyi,1,<0.1,2018,Adult
+570,Corynebacterium sphenisci,1,<0.1,2018,Adult
+571,Corynebacterium spheniscorum,1,<0.1,2018,Adult
+572,Coronavirus,1,<0.1,2018,Adult
+573,Corynebacterium ulcerans,1,<0.1,2018,Adult
+574,Cryptobacterium,1,<0.1,2018,Adult
+575,Cryptosporidium,1,<0.1,2018,Adult
+576,Dermacoccus nishinomiyaensis,1,<0.1,2018,Adult
+577,Dolosigranulum pigrum,1,<0.1,2018,Adult
+578,Dysgonomonas capnocytophagoides,1,<0.1,2018,Adult
+579,Dysgonomonas,1,<0.1,2018,Adult
+580,"EHEC, serotype O157:H7",1,<0.1,2018,Adult
+581,Enterobacter amnigenus Bbiogroup  I,1,<0.1,2018,Adult
+582,Enterococcus canis,1,<0.1,2018,Adult
+583,Enterococcus cecorum,1,<0.1,2018,Adult
+584,Enterobacter cowanii,1,<0.1,2018,Adult
+585,Enterococcus pallens,1,<0.1,2018,Adult
+586,Enterococcus saccharolyticus,1,<0.1,2018,Adult
+587,Genus Enterovirus,1,<0.1,2018,Adult
+588,Escherichia blattae,1,<0.1,2018,Adult
+589,Escherichia vulneris,1,<0.1,2018,Adult
+590,Eubacterium saphenum,1,<0.1,2018,Adult
+591,Exophiala,1,<0.1,2018,Adult
+592,Exophiala werneckii,1,<0.1,2018,Adult
+593,Facklamia,1,<0.1,2018,Adult
+594,Flavonifractor,1,<0.1,2018,Adult
+595,Fusobacterium canifelinum,1,<0.1,2018,Adult
+596,Geobacillus,1,<0.1,2018,Adult
+597,Geotrichum,1,<0.1,2018,Adult
+598,Gram-negative coccobacillus,1,<0.1,2018,Adult
+599,Gram-negative pleomorphic bacillus,1,<0.1,2018,Adult
+600,Gordonia bronchialis,1,<0.1,2018,Adult
+601,Gordonia,1,<0.1,2018,Adult
+602,Gordonia sputi,1,<0.1,2018,Adult
+603,Gram-variable coccus,1,<0.1,2018,Adult
+604,Aggregatibacter actinomycetemcomitans,1,<0.1,2018,Adult
+605,Haemophilus paraphrophilus,1,<0.1,2018,Adult
+606,"Haemophilus parainfluenzae, biotype II",1,<0.1,2018,Adult
+607,Haemophilus parahaemolyticus,1,<0.1,2018,Adult
+608,Helcococcus,1,<0.1,2018,Adult
+609,Herbaspirillum,1,<0.1,2018,Adult
+610,Kluyvera,1,<0.1,2018,Adult
+611,Kocuria rosea,1,<0.1,2018,Adult
+612,Kocuria,1,<0.1,2018,Adult
+613,Kocuria varians,1,<0.1,2018,Adult
+614,Kodamaea,1,<0.1,2018,Adult
+615,Eggerthia catenaformis,1,<0.1,2018,Adult
+616,Lactobacillus iners,1,<0.1,2018,Adult
+617,Lactobacillus jensenii,1,<0.1,2018,Adult
+618,Lactobacillus reuteri,1,<0.1,2018,Adult
+619,Leclercia,1,<0.1,2018,Adult
+620,Leuconostoc mesenteroides,1,<0.1,2018,Adult
+621,Legionella pneumophila,1,<0.1,2018,Adult
+622,Malassezia pachydermatis,1,<0.1,2018,Adult
+623,Mobiluncus,1,<0.1,2018,Adult
+624,Moellerella wisconsensis,1,<0.1,2018,Adult
+625,Moraxella atlantae,1,<0.1,2018,Adult
+626,Moraxella canis,1,<0.1,2018,Adult
+627,Mycoplasma pneumoniae,1,<0.1,2018,Adult
+628,Myroides,1,<0.1,2018,Adult
+629,Mycobacterium abscessus subspecies bolletii,1,<0.1,2018,Adult
+630,Mycobacterium flavescens,1,<0.1,2018,Adult
+631,Mycobacterium gordonae,1,<0.1,2018,Adult
+632,Mycobacterium kansasii,1,<0.1,2018,Adult
+633,Mycobacterium margeritense,1,<0.1,2018,Adult
+634,Mycobacterium peregrinum,1,<0.1,2018,Adult
+635,Mycobacterium senegalense,1,<0.1,2018,Adult
+636,Mycobacterium septicum,1,<0.1,2018,Adult
+637,Mycobacterium avium,1,<0.1,2018,Adult
+638,Neisseria cinerea,1,<0.1,2018,Adult
+639,Neisseria flavescens,1,<0.1,2018,Adult
+640,Nocardia asteroides,1,<0.1,2018,Adult
+641,Nocardia farcinica,1,<0.1,2018,Adult
+642,Nocardia nova,1,<0.1,2018,Adult
+643,Obesumbacterium proteus,1,<0.1,2018,Adult
+644,Ochrobactrum intermedium,1,<0.1,2018,Adult
+645,Oligella ureolytica,1,<0.1,2018,Adult
+646,Oligella urethralis,1,<0.1,2018,Adult
+647,Pantoea dispersa,1,<0.1,2018,Adult
+648,Pandoraea,1,<0.1,2018,Adult
+649,Parabacteroides goldsteinii,1,<0.1,2018,Adult
+650,Pasteurella multocida ss. multocida,1,<0.1,2018,Adult
+651,Peptococcus niger,1,<0.1,2018,Adult
+652,Pithomyces,1,<0.1,2018,Adult
+653,Porphyromonas asaccharolyticus,1,<0.1,2018,Adult
+654,Prototheca,1,<0.1,2018,Adult
+655,Propionibacterium australiense,1,<0.1,2018,Adult
+656,Propionibacterium propionicum,1,<0.1,2018,Adult
+657,Proteus myxofaciens,1,<0.1,2018,Adult
+658,Providencia alcalifaciens,1,<0.1,2018,Adult
+659,Providencia rustigianii,1,<0.1,2018,Adult
+660,Pseudallescheria boydii,1,<0.1,2018,Adult
+661,Pseudomonas chlororaphis,1,<0.1,2018,Adult
+662,Pseudomonas pseudoalcaligenes,1,<0.1,2018,Adult
+663,Ralstonia mannitolilytica,1,<0.1,2018,Adult
+664,Ralstonia paucula,1,<0.1,2018,Adult
+665,Ralstonia picketti,1,<0.1,2018,Adult
+666,Ralstonia,1,<0.1,2018,Adult
+667,Rapid growing mycobacteria,1,<0.1,2018,Adult
+668,Human rhinovirus,1,<0.1,2018,Adult
+669,Rhodococcus equi,1,<0.1,2018,Adult
+670,Saccharomyces,1,<0.1,2018,Adult
+671,Saccharomonospora,1,<0.1,2018,Adult
+672,"Salmonella, serogroup D",1,<0.1,2018,Adult
+673,Salmonella enterica subsp. diarizonae,1,<0.1,2018,Adult
+674,Salmonella enterica,1,<0.1,2018,Adult
+675,Salmonella enterica subsp. enterica,1,<0.1,2018,Adult
+676,Serratia odorifera biogroup 1,1,<0.1,2018,Adult
+677,Sphingobacterium,1,<0.1,2018,Adult
+678,Sphingobacterium spiritivorum,1,<0.1,2018,Adult
+679,Sporothrix,1,<0.1,2018,Adult
+680,Staphylococcus arlettae,1,<0.1,2018,Adult
+681,Staphylococcus carnosus,1,<0.1,2018,Adult
+682,Staphylococcus kloosii,1,<0.1,2018,Adult
+683,Staphylococcus lentus,1,<0.1,2018,Adult
+684,Staphylococcus pasteuri,1,<0.1,2018,Adult
+685,Staphylococcus schleiferi ss. schleiferi,1,<0.1,2018,Adult
+686,Staphylococcus cohnii sscohnii,1,<0.1,2018,Adult
+687,Staphylococcus cohnii subspecies urealyticus,1,<0.1,2018,Adult
+688,Staphylococcus vitulinus,1,<0.1,2018,Adult
+689,Streptobacillus moniliformis,1,<0.1,2018,Adult
+690,Streptobacillus,1,<0.1,2018,Adult
+691,Streptococcus canis,1,<0.1,2018,Adult
+692,Streptococcus constellatus subspecies pharyngis,1,<0.1,2018,Adult
+693,Streptococcus equi,1,<0.1,2018,Adult
+694,Streptococcus lutetiensis,1,<0.1,2018,Adult
+695,Streptococcus uberis,1,<0.1,2018,Adult
+696,Streptococcus equi subsp. zooepidemicus,1,<0.1,2018,Adult
+697,Tissierella,1,<0.1,2018,Adult
+698,Tsukamurella,1,<0.1,2018,Adult
+699,Veillonella atypica,1,<0.1,2018,Adult
+700,Weeksella virosa,1,<0.1,2018,Adult
+701,Wolinella,1,<0.1,2018,Adult
+702,Xenotropic murine leukemia virus-related virus,1,<0.1,2018,Adult
+703,Yokenella regensburgei,1,<0.1,2018,Adult
+704,Escherichia coli,18193,16.402946454,2019,Adult
+705,Staphylococcus aureus,13567,12.232109852,2019,Adult
+706,Pseudomonas aeruginosa,8678,7.82415046,2019,Adult
+707,Enterococcus faecalis,8644,7.793495803,2019,Adult
+708,Klebsiella pneumoniae,6593,5.944298685,2019,Adult
+709,Staphylococcus epidermidis,4077,3.675854048,2019,Adult
+710,Enterococcus faecium,3872,3.491024497,2019,Adult
+711,Candida albicans,3780,3.408076601,2019,Adult
+712,Proteus mirabilis,3260,2.939240666,2019,Adult
+713,Enterobacter cloacae,2402,2.165661374,2019,Adult
+714,"Staphylococcus, coagulase negative",2083,1.878048561,2019,Adult
+715,Candida glabrata,1720,1.550765014,2019,Adult
+716,Serratia marcescens,1622,1.462407473,2019,Adult
+717,Bacteroides fragilis,1487,1.340690451,2019,Adult
+718,Klebsiella oxytoca,1480,1.334379198,2019,Adult
+719,Enterobacter cloacae complex,1407,1.268561846,2019,Adult
+720,Genus Enterococcus,1387,1.250529694,2019,Adult
+721,Enterobacter aerogenes,1333,1.201842886,2019,Adult
+722,Group B streptococcus,864,0.778988937,2019,Adult
+723,Morganella morganii,846,0.762760001,2019,Adult
+724,Klebsiella pneumoniae ss. pneumoniae,787,0.709565155,2019,Adult
+725,Candida parapsilosis,728,0.656370308,2019,Adult
+726,Citrobacter freundii,710,0.640141372,2019,Adult
+727,Stenotrophomonas maltophilia,525,0.473343972,2019,Adult
+728,"Streptococcus, viridans group",516,0.465229504,2019,Adult
+729,Bacteroides thetaiotaomicron,513,0.462524682,2019,Adult
+730,Streptococcus anginosus,510,0.459819859,2019,Adult
+731,Acinetobacter baumannii,502,0.452606998,2019,Adult
+732,Candida tropicalis,487,0.439082885,2019,Adult
+733,Staphylococcus lugdunensis,477,0.430066809,2019,Adult
+734,Citrobacter koseri,466,0.420149126,2019,Adult
+735,Propionibacterium acnes,441,0.397608937,2019,Adult
+736,Yeast,439,0.395805722,2019,Adult
+737,Enterococcus avium,402,0.362446242,2019,Adult
+738,Lactobacillus,379,0.341709268,2019,Adult
+739,Streptococcus mitis,324,0.292120851,2019,Adult
+740,Corynebacterium,316,0.284907991,2019,Adult
+741,Staphylococcus,313,0.282203168,2019,Adult
+742,Gram-negative bacillus,292,0.263269409,2019,Adult
+743,Bacteroides fragilis group,291,0.262367802,2019,Adult
+744,Streptococcus anginosus group,271,0.24433565,2019,Adult
+745,Streptococcus mitis group,265,0.238926005,2019,Adult
+746,Diphtheroids,257,0.231713145,2019,Adult
+747,Gram-positive coccus,234,0.210976171,2019,Adult
+748,Haemophilus influenzae,230,0.20736974,2019,Adult
+749,Candida dubliniensis,225,0.202861702,2019,Adult
+750,Prevotella bivia,223,0.201058487,2019,Adult
+751,Finegoldia magna,211,0.190239196,2019,Adult
+752,Bacteroides ovatus,209,0.188435981,2019,Adult
+753,Enterococcus gallinarum,207,0.186632766,2019,Adult
+754,Corynebacterium striatum,206,0.185731159,2019,Adult
+755,Staphylococcus haemolyticus,206,0.185731159,2019,Adult
+756,Candida krusei,205,0.184829551,2019,Adult
+757,Streptococcus,203,0.183026336,2019,Adult
+758,Streptococcus constellatus,194,0.174911868,2019,Adult
+759,Prevotella,177,0.159584539,2019,Adult
+760,Proteus vulgaris,167,0.150568464,2019,Adult
+761,Candida,166,0.149666856,2019,Adult
+762,Staphylococcus capitis,166,0.149666856,2019,Adult
+763,Clostridium perfringens,165,0.148765248,2019,Adult
+764,Streptococcus pyogenes,156,0.14065078,2019,Adult
+765,Staphylococcus hominis,155,0.139749173,2019,Adult
+766,Bacteroides vulgatus,151,0.136142743,2019,Adult
+767,Providencia stuartii,139,0.125323452,2019,Adult
+768,Klebsiella variicola,138,0.124421844,2019,Adult
+769,Bacteroides,137,0.123520237,2019,Adult
+770,Streptococcus pneumoniae,136,0.122618629,2019,Adult
+771,Clostridium,132,0.119012199,2019,Adult
+772,Gram-positive bacillus,131,0.118110591,2019,Adult
+773,Alpha-hemolytic streptococcus,126,0.113602553,2019,Adult
+774,Klebsiella,118,0.106389693,2019,Adult
+775,Eggerthella lenta,113,0.101881655,2019,Adult
+776,Streptococcus intermedius,110,0.099176832,2019,Adult
+777,Granulicatella adiacens,109,0.098275225,2019,Adult
+778,Propionibacterium,109,0.098275225,2019,Adult
+779,Clostridium innocuum,107,0.09647201,2019,Adult
+780,Candida lusitaniae,101,0.091062364,2019,Adult
+781,Enterococcus raffinosus,101,0.091062364,2019,Adult
+782,Rothia mucilaginosa,100,0.090160757,2019,Adult
+783,Haemophilus parainfluenzae,99,0.089259149,2019,Adult
+784,Pseudomonas,99,0.089259149,2019,Adult
+785,Citrobacter braakii,97,0.087455934,2019,Adult
+786,Fusobacterium nucleatum,94,0.084751111,2019,Adult
+787,Bacillus,93,0.083849504,2019,Adult
+788,Beta-hemolytic streptococcus,91,0.082046289,2019,Adult
+789,Peptostreptococcus,90,0.081144681,2019,Adult
+790,Clostridium ramosum,89,0.080243073,2019,Adult
+791,Citrobacter amalonaticus,88,0.079341466,2019,Adult
+792,Anaerobe,86,0.077538251,2019,Adult
+793,Actinomyces,81,0.073030213,2019,Adult
+794,Acinetobacter,79,0.071226998,2019,Adult
+795,Parabacteroides distasonis,76,0.068522175,2019,Adult
+796,Gemella haemolysans,76,0.068522175,2019,Adult
+797,Hafnia alvei,76,0.068522175,2019,Adult
+798,Enterobacter,75,0.067620567,2019,Adult
+799,"Streptococcus, group G",74,0.06671896,2019,Adult
+800,Clostridium tertium,72,0.064915745,2019,Adult
+801,Proteus,70,0.06311253,2019,Adult
+802,"Streptococcus, group C",70,0.06311253,2019,Adult
+803,Clostridium clostridioforme,68,0.0613093,2019,Adult
+804,Gardnerella vaginalis,68,0.0613093,2019,Adult
+805,Actinomyces odontolyticus,65,0.0586045,2019,Adult
+806,Bacteroides uniformis,63,0.0568013,2019,Adult
+807,Eikenella corrodens,63,0.0568013,2019,Adult
+808,Lactobacillus rhamnosus,62,0.0558997,2019,Adult
+809,Proteus penneri,62,0.0558997,2019,Adult
+810,Anaerobic Gram-negative bacillus,60,0.0540965,2019,Adult
+811,Anaerobic Gram-positive coccus,60,0.0540965,2019,Adult
+812,Citrobacter,60,0.0540965,2019,Adult
+813,Raoultella ornithinolytica,60,0.0540965,2019,Adult
+814,Staphylococcus simulans,60,0.0540965,2019,Adult
+815,Streptococcus dysgalactiae,60,0.0540965,2019,Adult
+816,Bacteroides caccae,59,0.0531948,2019,Adult
+817,Prevotella buccae,59,0.0531948,2019,Adult
+818,Prevotella melaninogenica,59,0.0531948,2019,Adult
+819,Clostridium difficile,58,0.0522932,2019,Adult
+820,Achromobacter xylosoxidans,52,<0.1,2019,Adult
+821,Escherichia,52,<0.1,2019,Adult
+822,Peptostreptococcus asaccharolyticus,52,<0.1,2019,Adult
+823,Streptococcus oralis,52,<0.1,2019,Adult
+824,Enterococcus casseliflavus,51,<0.1,2019,Adult
+825,Providencia rettgeri,51,<0.1,2019,Adult
+826,Acinetobacter calcoaceticus-Acinetobacter baumannii complex,50,<0.1,2019,Adult
+827,Pseudomonas putida,50,<0.1,2019,Adult
+828,Saccharomyces cerevisiae,49,<0.1,2019,Adult
+829,Fusobacterium,48,<0.1,2019,Adult
+830,Peptoniphilus asaccharolyticus,48,<0.1,2019,Adult
+831,Peptostreptococcus anaerobius,48,<0.1,2019,Adult
+832,Burkholderia cepacia,47,<0.1,2019,Adult
+833,Staphylococcus hominis hominis,46,<0.1,2019,Adult
+834,Streptococcus parasanguinis,46,<0.1,2019,Adult
+835,Citrobacter youngae,45,<0.1,2019,Adult
+836,Aerococcus urinae,44,<0.1,2019,Adult
+837,Raoultella planticola,44,<0.1,2019,Adult
+838,Staphylococcus warneri,44,<0.1,2019,Adult
+839,Anaerobic Gram-positive bacillus,42,<0.1,2019,Adult
+840,Klebsiella pneumoniae ss. ozaenae,42,<0.1,2019,Adult
+841,Pantoea agglomerans,42,<0.1,2019,Adult
+842,Prevotella denticola,42,<0.1,2019,Adult
+843,"Clostridium species, not Clostridium perfringens",41,<0.1,2019,Adult
+844,Streptococcus salivarius,41,<0.1,2019,Adult
+845,Bifidobacterium,40,<0.1,2019,Adult
+846,"Staphylococcus, coagulase positive",40,<0.1,2019,Adult
+847,Candida auris,39,<0.1,2019,Adult
+848,Citrobacter farmeri,37,<0.1,2019,Adult
+849,Corynebacterium amycolatum,36,<0.1,2019,Adult
+850,Pantoea,36,<0.1,2019,Adult
+851,Clostridium septicum,34,<0.1,2019,Adult
+852,"Streptococcus, group F",34,<0.1,2019,Adult
+853,Enterobacter hormaechei,33,<0.1,2019,Adult
+854,Streptococcus sanguinis,32,<0.1,2019,Adult
+855,Veillonella,32,<0.1,2019,Adult
+856,Candida guilliermondii,31,<0.1,2019,Adult
+857,Moraxella catarrhalis,31,<0.1,2019,Adult
+858,Sphingomonas paucimobilis,31,<0.1,2019,Adult
+859,Streptococcus salivarius group,31,<0.1,2019,Adult
+860,Acinetobacter lwoffi,30,<0.1,2019,Adult
+861,Enterococcus durans,30,<0.1,2019,Adult
+862,"Escherichia coli, inactive",30,<0.1,2019,Adult
+863,Peptoniphilus harei,30,<0.1,2019,Adult
+864,Pseudomonas stutzeri,30,<0.1,2019,Adult
+865,Staphylococcus pseudintermedius,30,<0.1,2019,Adult
+866,Candida stellatoidea,29,<0.1,2019,Adult
+867,Propionibacterium avidum,29,<0.1,2019,Adult
+868,Rothia,29,<0.1,2019,Adult
+869,"Beta-hemolytic streptococcus, non-Group A, non-Group B",29,<0.1,2019,Adult
+870,Streptococcus gordonii,29,<0.1,2019,Adult
+871,Leptotrichia,28,<0.1,2019,Adult
+872,Veillonella parvula,28,<0.1,2019,Adult
+873,Actinomyces neuii,27,<0.1,2019,Adult
+874,Actinomyces turicensis,27,<0.1,2019,Adult
+875,gamma-hemolytic streptococcus,27,<0.1,2019,Adult
+876,Mycobacterium abscessus,27,<0.1,2019,Adult
+877,Candida kefyr,26,<0.1,2019,Adult
+878,Staphylococcus caprae,26,<0.1,2019,Adult
+879,Coryneform bacteria,25,<0.1,2019,Adult
+880,Enterobacter asburiae,25,<0.1,2019,Adult
+881,Gemella morbillorum,24,<0.1,2019,Adult
+882,Gemella,24,<0.1,2019,Adult
+883,Pasteurella multocida,24,<0.1,2019,Adult
+884,Bacillus species not Bacillus anthracis,23,<0.1,2019,Adult
+885,Bacillus cereus,23,<0.1,2019,Adult
+886,Micrococcus,23,<0.1,2019,Adult
+887,Parvimonas micra,23,<0.1,2019,Adult
+888,Proteus hauseri,23,<0.1,2019,Adult
+889,Achromobacter,22,<0.1,2019,Adult
+890,Enterobacteriaceae,22,<0.1,2019,Adult
+891,Fermentative Gram-negative bacillus,21,<0.1,2019,Adult
+892,Prevotella disiens,21,<0.1,2019,Adult
+893,Serratia liquefaciens,21,<0.1,2019,Adult
+894,Prevotella oralis,20,<0.1,2019,Adult
+895,"Streptococcus, group D",19,<0.1,2019,Adult
+896,Neisseria,19,<0.1,2019,Adult
+897,Prevotella loescheii,19,<0.1,2019,Adult
+898,Streptococcus gallolyticus,19,<0.1,2019,Adult
+899,Achromobacter denitrificans,18,<0.1,2019,Adult
+900,Burkholderia cepacia complex,18,<0.1,2019,Adult
+901,Mycoplasma hominis,18,<0.1,2019,Adult
+902,Peptostreptococcus asaccharolyticus,18,<0.1,2019,Adult
+903,Propionibacterium granulosum,18,<0.1,2019,Adult
+904,Staphylococcus schleiferi,18,<0.1,2019,Adult
+905,Stenotrophomonas,18,<0.1,2019,Adult
+906,"Beta-hemolytic Streptococcus, group A",18,<0.1,2019,Adult
+907,Streptococcus bovis group,18,<0.1,2019,Adult
+908,Anaerococcus prevotii,17,<0.1,2019,Adult
+909,Enterococcus hirae,17,<0.1,2019,Adult
+910,Prevotella oris,17,<0.1,2019,Adult
+911,Streptococcus dysgalactiae subsp. equisimilis,17,<0.1,2019,Adult
+912,Trichosporon asahii,17,<0.1,2019,Adult
+913,Candida famata,16,<0.1,2019,Adult
+914,Capnocytophaga,16,<0.1,2019,Adult
+915,Corynebacterium jeikeium,16,<0.1,2019,Adult
+916,Staphylococcus saccharolyticus,16,<0.1,2019,Adult
+917,Abiotrophia defectiva,16,<0.1,2019,Adult
+918,Aeromonas,15,<0.1,2019,Adult
+919,Aeromonas hydrophila,15,<0.1,2019,Adult
+920,Alpha-hemolytic Streptococcus species not Streptococcus pneumoniae,15,<0.1,2019,Adult
+921,Aspergillus fumigatus,15,<0.1,2019,Adult
+922,Corynebacterium species not Corynebacterium jeikeium,15,<0.1,2019,Adult
+923,Non-fermentative Gram-negative bacillus,15,<0.1,2019,Adult
+924,Peptoniphilus,15,<0.1,2019,Adult
+925,Acinetobacter radioresistens,14,<0.1,2019,Adult
+926,Anaerococcus,14,<0.1,2019,Adult
+927,Capnocytophaga sputigena,14,<0.1,2019,Adult
+928,Chryseobacterium indologenes,14,<0.1,2019,Adult
+929,Clostridium paraputrificum,14,<0.1,2019,Adult
+930,Coliform bacteria,14,<0.1,2019,Adult
+931,Eggerthella,14,<0.1,2019,Adult
+932,Pluralibacter gergoviae,14,<0.1,2019,Adult
+933,Peptostreptococcus micros,14,<0.1,2019,Adult
+934,Salmonella,14,<0.1,2019,Adult
+935,Staphylococcus intermedius,14,<0.1,2019,Adult
+936,Trueperella bernardiae,14,<0.1,2019,Adult
+937,Acinetobacter calcoaceticus,13,<0.1,2019,Adult
+938,Bacteroides stercoris,13,<0.1,2019,Adult
+939,Elizabethkingia meningoseptica,13,<0.1,2019,Adult
+940,Lactobacillus casei,13,<0.1,2019,Adult
+941,Morganella morganii subsp sibonii,13,<0.1,2019,Adult
+942,Prevotella intermedia,13,<0.1,2019,Adult
+943,Aerobic bacteria,12,<0.1,2019,Adult
+944,Corynebacterium tuberculostearicum,12,<0.1,2019,Adult
+945,Leclercia adecarboxylata,12,<0.1,2019,Adult
+946,Ochrobactrum anthropi,12,<0.1,2019,Adult
+947,Pseudomonas oryzihabitans,12,<0.1,2019,Adult
+948,Serratia,12,<0.1,2019,Adult
+949,Acinetobacter haemolyticus,11,<0.1,2019,Adult
+950,Achromobacter xylosoxidans xylosoxidans,11,<0.1,2019,Adult
+951,Bacteroides eggerthii,11,<0.1,2019,Adult
+952,Citrobacter sedlakii,11,<0.1,2019,Adult
+953,Clostridium subterminale,11,<0.1,2019,Adult
+954,Delftia acidovorans,11,<0.1,2019,Adult
+955,Fusobacterium necrophorum,11,<0.1,2019,Adult
+956,Haemophilus,11,<0.1,2019,Adult
+957,Leptotrichia buccalis,11,<0.1,2019,Adult
+958,Rhodotorula rubra,11,<0.1,2019,Adult
+959,Staphylococcus auricularis,11,<0.1,2019,Adult
+960,Aerococcus,10,<0.1,2019,Adult
+961,Candida lipolytica,10,<0.1,2019,Adult
+962,Clostridium cadaveris,10,<0.1,2019,Adult
+963,Enterobacter cancerogenus,10,<0.1,2019,Adult
+964,Lactobacillus paracasei,10,<0.1,2019,Adult
+965,Mycobacterium fortuitum,10,<0.1,2019,Adult
+966,Pseudomonas mendocina,10,<0.1,2019,Adult
+967,Staphylococcus capitis subspecies urealyticus,10,<0.1,2019,Adult
+968,Small-colony-forming beta-hemolytic group C streptococci,10,<0.1,2019,Adult
+969,Anaerococcus vaginalis,9,<0.1,2019,Adult
+970,Candida guilliermondii var membranaefaciens,9,<0.1,2019,Adult
+971,Clostridium butyricum,9,<0.1,2019,Adult
+972,Eubacterium limosum,9,<0.1,2019,Adult
+973,Fusobacterium mortiferum,9,<0.1,2019,Adult
+974,Granulicatella,9,<0.1,2019,Adult
+975,Micrococcus luteus,9,<0.1,2019,Adult
+976,Parabacteroides,9,<0.1,2019,Adult
+977,"Serratia marcescens, Biogroup I",9,<0.1,2019,Adult
+978,Streptococcus anginosus-constellatus,9,<0.1,2019,Adult
+979,Small-colony-forming beta-hemolytic group G streptococci,9,<0.1,2019,Adult
+980,Streptococcus vestibularis,9,<0.1,2019,Adult
+981,Actinomyces europaeus,8,<0.1,2019,Adult
+982,Aspergillus,8,<0.1,2019,Adult
+983,Chryseomonas luteola,8,<0.1,2019,Adult
+984,Clostridium sordellii,8,<0.1,2019,Adult
+985,Dermabacter hominis,8,<0.1,2019,Adult
+986,Eubacterium,8,<0.1,2019,Adult
+987,Finegoldia,8,<0.1,2019,Adult
+988,Fusobacterium varium,8,<0.1,2019,Adult
+989,Gardnerella,8,<0.1,2019,Adult
+990,Gram-positive diplococcus,8,<0.1,2019,Adult
+991,Lactobacillus acidophilus,8,<0.1,2019,Adult
+992,Lactobacillus gasseri,8,<0.1,2019,Adult
+993,Pediococcus acidilactici,8,<0.1,2019,Adult
+994,Staphylococcus capitis ss capitis,8,<0.1,2019,Adult
+995,Staphylococcus saprophyticus,8,<0.1,2019,Adult
+996,Streptococcus canis,8,<0.1,2019,Adult
+997,Streptococcus gallolyticus subspecies pasteurianus,8,<0.1,2019,Adult
+998,Acinetobacter ursingii,7,<0.1,2019,Adult
+999,Acinetobacter junii,7,<0.1,2019,Adult
+1000,Citrobacter murliniae,7,<0.1,2019,Adult
+1001,Clostridium bifermentans,7,<0.1,2019,Adult
+1002,Clostridium sporogenes,7,<0.1,2019,Adult
+1003,Corynebacterium diphtheriae,7,<0.1,2019,Adult
+1004,Enterobacter amnigenus,7,<0.1,2019,Adult
+1005,Fusarium,7,<0.1,2019,Adult
+1006,Fusobacterium nucleatum ss nucleatum,7,<0.1,2019,Adult
+1007,Gram-negative coccus,7,<0.1,2019,Adult
+1008,Kluyvera ascorbata,7,<0.1,2019,Adult
+1009,Moraxella osloensis,7,<0.1,2019,Adult
+1010,Morganella,7,<0.1,2019,Adult
+1011,Moraxella,7,<0.1,2019,Adult
+1012,Peptococcus,7,<0.1,2019,Adult
+1013,Serratia odorifera,7,<0.1,2019,Adult
+1014,Elastase-producing strain Staphylococcus epidermidis,7,<0.1,2019,Adult
+1015,Actinobaculum schaalii,6,<0.1,2019,Adult
+1016,Actinomyces radingae,6,<0.1,2019,Adult
+1017,Aspergillus niger,6,<0.1,2019,Adult
+1018,Bacteroides pyogenes,6,<0.1,2019,Adult
+1019,Clostridium histolyticum,6,<0.1,2019,Adult
+1020,Corynebacterium pseudodiphtheriticum,6,<0.1,2019,Adult
+1021,Cronobacter sakazakii,6,<0.1,2019,Adult
+1022,Enterobacter cloacae subspecies dissolvens,6,<0.1,2019,Adult
+1023,Escherichia hermannii,6,<0.1,2019,Adult
+1024,Gemella sanguinis,6,<0.1,2019,Adult
+1025,Leuconostoc,6,<0.1,2019,Adult
+1026,Ochrobactrum,6,<0.1,2019,Adult
+1027,Prevotella corporis,6,<0.1,2019,Adult
+1028,Ralstonia pickettii,6,<0.1,2019,Adult
+1029,Rothia dentocariosa,6,<0.1,2019,Adult
+1030,Staphylococcus pettenkoferi,6,<0.1,2019,Adult
+1031,Staphylococcus sciuri,6,<0.1,2019,Adult
+1032,Streptococcus constellatus subspecies constellatus,6,<0.1,2019,Adult
+1033,Streptococcus gallolyticus subspecies gallolyticus,6,<0.1,2019,Adult
+1034,Tissierella praeacuta,6,<0.1,2019,Adult
+1035,Abiotrophia,5,<0.1,2019,Adult
+1036,Aerococcus viridans,5,<0.1,2019,Adult
+1037,Anaerococcus tretradius,5,<0.1,2019,Adult
+1038,Anaerococcus tetradius,5,<0.1,2019,Adult
+1039,Bifidobacterium longum,5,<0.1,2019,Adult
+1040,Burkholderia,5,<0.1,2019,Adult
+1041,Candida haemulonii,5,<0.1,2019,Adult
+1042,Citrobacter werkmanii,5,<0.1,2019,Adult
+1043,Cladosporium,5,<0.1,2019,Adult
+1044,"Corynebacterium species, not Corynebacterium diphtheriae",5,<0.1,2019,Adult
+1045,Corynebacterium propinquum,5,<0.1,2019,Adult
+1046,Gram positive coccobacillus,5,<0.1,2019,Adult
+1047,Gram-variable bacillus,5,<0.1,2019,Adult
+1048,Hafnia,5,<0.1,2019,Adult
+1049,Kocuria kristinae,5,<0.1,2019,Adult
+1050,Lactococcus garvieae,5,<0.1,2019,Adult
+1051,Lactococcus,5,<0.1,2019,Adult
+1052,Leptotrichia trevisanii,5,<0.1,2019,Adult
+1053,Mold,5,<0.1,2019,Adult
+1054,Neisseria sicca,5,<0.1,2019,Adult
+1055,Pasteurella,5,<0.1,2019,Adult
+1056,Penicillium,5,<0.1,2019,Adult
+1057,Prevotella nigrescens,5,<0.1,2019,Adult
+1058,Providencia alcalifaciens,5,<0.1,2019,Adult
+1059,Raoultella,5,<0.1,2019,Adult
+1060,Serratia fonticola,5,<0.1,2019,Adult
+1061,Staphylococcus cohnii,5,<0.1,2019,Adult
+1062,Staphylococcus lentus,5,<0.1,2019,Adult
+1063,Streptococcus dysgalactiae subsp. dysgalactiae,5,<0.1,2019,Adult
+1064,Trichosporon,5,<0.1,2019,Adult
+1065,Actinomyces israelii,4,<0.1,2019,Adult
+1066,Aeromonas caviae,4,<0.1,2019,Adult
+1067,Aeromonas sobria,4,<0.1,2019,Adult
+1068,Acid-fast bacillus,4,<0.1,2019,Adult
+1069,Parabacteroides merdae,4,<0.1,2019,Adult
+1070,Bacillus cereus group,4,<0.1,2019,Adult
+1071,Bordetella bronchiseptica,4,<0.1,2019,Adult
+1072,Clostridium glycolicum,4,<0.1,2019,Adult
+1073,Enterobacter kobei,4,<0.1,2019,Adult
+1074,Fungus,4,<0.1,2019,Adult
+1075,Kocuria,4,<0.1,2019,Adult
+1076,Lactobacillus fermentum,4,<0.1,2019,Adult
+1077,"Mycobacterium, avium-intracellulare group",4,<0.1,2019,Adult
+1078,Mycobacterium mucogenicum,4,<0.1,2019,Adult
+1079,Mycobacterium,4,<0.1,2019,Adult
+1080,Oligella urethralis,4,<0.1,2019,Adult
+1081,Parvimonas,4,<0.1,2019,Adult
+1082,Pasteurella multocida ss. multocida,4,<0.1,2019,Adult
+1083,Porphyromonas gingivalis,4,<0.1,2019,Adult
+1084,Porphyromonas,4,<0.1,2019,Adult
+1085,Providencia,4,<0.1,2019,Adult
+1086,Rhizopus,4,<0.1,2019,Adult
+1087,Scedosporium,4,<0.1,2019,Adult
+1088,Serratia rubidaea,4,<0.1,2019,Adult
+1089,Streptococcus sanguinis group,4,<0.1,2019,Adult
+1090,Streptococcus salivarius subsp. salivarius,4,<0.1,2019,Adult
+1091,Streptococcus mutans,4,<0.1,2019,Adult
+1092,Actinomyces meyeri,3,<0.1,2019,Adult
+1093,Actinomyces urogenitalis,3,<0.1,2019,Adult
+1094,Aerococcus sanguinicola,3,<0.1,2019,Adult
+1095,Aggregatibacter segnis,3,<0.1,2019,Adult
+1096,Aggregatibacter,3,<0.1,2019,Adult
+1097,Alcaligenes faecalis,3,<0.1,2019,Adult
+1098,Anaerobic Gram-negative coccus,3,<0.1,2019,Adult
+1099,Anaerobic Gram positive coccobacillus,3,<0.1,2019,Adult
+1100,Bifidobacterium breve,3,<0.1,2019,Adult
+1101,Brevundimonas vesicularis,3,<0.1,2019,Adult
+1102,Campylobacter gracilis,3,<0.1,2019,Adult
+1103,Chryseobacterium,3,<0.1,2019,Adult
+1104,Corynebacterium accolens,3,<0.1,2019,Adult
+1105,Corynebacterium minutissimum,3,<0.1,2019,Adult
+1106,Corynebacterium urealyticum,3,<0.1,2019,Adult
+1107,Cronobacter,3,<0.1,2019,Adult
+1108,Cyberlindnera fabianii,3,<0.1,2019,Adult
+1109,Dietzia,3,<0.1,2019,Adult
+1110,Aerobic diphtheroids,3,<0.1,2019,Adult
+1111,Enteropathogenic Escherichia coli,3,<0.1,2019,Adult
+1112,Eikenella,3,<0.1,2019,Adult
+1113,Enterobacter intermedius,3,<0.1,2019,Adult
+1114,Escherichia vulneris,3,<0.1,2019,Adult
+1115,Influenza A virus,3,<0.1,2019,Adult
+1116,Influenza B virus,3,<0.1,2019,Adult
+1117,Fusobacterium nucleatum ss fusiforme,3,<0.1,2019,Adult
+1118,Gram-negative coccobacillus,3,<0.1,2019,Adult
+1119,Gordonia bronchialis,3,<0.1,2019,Adult
+1120,Granulicatella elegans,3,<0.1,2019,Adult
+1121,Haemophilus haemolyticus,3,<0.1,2019,Adult
+1122,Eggerthia catenaformis,3,<0.1,2019,Adult
+1123,Lactococcus lactis,3,<0.1,2019,Adult
+1124,Mucor,3,<0.1,2019,Adult
+1125,Mycobacterium chelonae,3,<0.1,2019,Adult
+1126,Genus Mycoplasma,3,<0.1,2019,Adult
+1127,Neisseria flavescens,3,<0.1,2019,Adult
+1128,Nocardia farcinica,3,<0.1,2019,Adult
+1129,Nocardia,3,<0.1,2019,Adult
+1130,Pediococcus pentosaceus,3,<0.1,2019,Adult
+1131,human parainfluenza viruses,3,<0.1,2019,Adult
+1132,Kodamaea ohmeri,3,<0.1,2019,Adult
+1133,Prevotella dentalis,3,<0.1,2019,Adult
+1134,Proteus myxofaciens,3,<0.1,2019,Adult
+1135,Ralstonia,3,<0.1,2019,Adult
+1136,Human rhinovirus,3,<0.1,2019,Adult
+1137,Ruminococcus gnavus,3,<0.1,2019,Adult
+1138,Sphingomonas,3,<0.1,2019,Adult
+1139,Staphylococcus cohnii subspecies urealyticus,3,<0.1,2019,Adult
+1140,Streptococcus alactolyticus,3,<0.1,2019,Adult
+1141,Trichophyton,3,<0.1,2019,Adult
+1142,Virus,3,<0.1,2019,Adult
+1143,Wolinella,3,<0.1,2019,Adult
+1144,Acinetobacter genospecies 3,2,<0.1,2019,Adult
+1145,Acremonium,2,<0.1,2019,Adult
+1146,Actinobaculum,2,<0.1,2019,Adult
+1147,Actinomyces oris,2,<0.1,2019,Adult
+1148,Actinomyces viscosus,2,<0.1,2019,Adult
+1149,Aeromonas hydrophila complex,2,<0.1,2019,Adult
+1150,Aerococcus sanguicola,2,<0.1,2019,Adult
+1151,Anaerobic Gram negative coccobacillus,2,<0.1,2019,Adult
+1152,Arcanobacterium haemolyticum,2,<0.1,2019,Adult
+1153,Aspergillus terreus,2,<0.1,2019,Adult
+1154,Aspergillus versicolor,2,<0.1,2019,Adult
+1155,Atopobium,2,<0.1,2019,Adult
+1156,Bipolaris,2,<0.1,2019,Adult
+1157,Blastoschizomyces,2,<0.1,2019,Adult
+1158,Brevundimonas diminuta,2,<0.1,2019,Adult
+1159,Brevundimonas,2,<0.1,2019,Adult
+1160,Brevibacterium casei,2,<0.1,2019,Adult
+1161,Burkholderia multivorans,2,<0.1,2019,Adult
+1162,Campylobacter ureolyticus,2,<0.1,2019,Adult
+1163,Candida norvegensis,2,<0.1,2019,Adult
+1164,Candida pelliculosa,2,<0.1,2019,Adult
+1165,Candida zeylanoides,2,<0.1,2019,Adult
+1166,Capnocytophaga gingivalis,2,<0.1,2019,Adult
+1167,Clostridium baratii,2,<0.1,2019,Adult
+1168,Clostridium bolteae,2,<0.1,2019,Adult
+1169,Clostridium hathewayi,2,<0.1,2019,Adult
+1170,Clostridium limosum,2,<0.1,2019,Adult
+1171,Corynebacterium afermentans,2,<0.1,2019,Adult
+1172,Corynebacterium aurimucosum,2,<0.1,2019,Adult
+1173,Corynebacterium coyleae,2,<0.1,2019,Adult
+1174,Corynebacterium kroppenstedtii,2,<0.1,2019,Adult
+1175,Dialister micraerophilus,2,<0.1,2019,Adult
+1176,Anaerobic diphtheroids,2,<0.1,2019,Adult
+1177,Desulfovibrio desulfuricans,2,<0.1,2019,Adult
+1178,Dysgonomonas,2,<0.1,2019,Adult
+1179,"EHEC, serotype O157:H7",2,<0.1,2019,Adult
+1180,Enterobacter ludwigii,2,<0.1,2019,Adult
+1181,Erwinia persicina,2,<0.1,2019,Adult
+1182,Escherichia fergusonii,2,<0.1,2019,Adult
+1183,Facklamia hominis,2,<0.1,2019,Adult
+1184,Fusobacterium gonidiaformans,2,<0.1,2019,Adult
+1185,Geotrichum candidum,2,<0.1,2019,Adult
+1186,Globicatella sanguinis,2,<0.1,2019,Adult
+1187,Influenza A virus subtype H1N1,2,<0.1,2019,Adult
+1188,"Haemophilus parainfluenzae, biotype I",2,<0.1,2019,Adult
+1189,"Haemophilus parainfluenzae, biotype III",2,<0.1,2019,Adult
+1190,"Haemophilus influenzae, not b",2,<0.1,2019,Adult
+1191,Kingella kingae,2,<0.1,2019,Adult
+1192,Klebsiella pneumoniae ss. rhinoscleromatis,2,<0.1,2019,Adult
+1193,Kluyvera cryocrescens,2,<0.1,2019,Adult
+1194,Kluyvera intermedia,2,<0.1,2019,Adult
+1195,Genus Lachnoanaerobaculum,2,<0.1,2019,Adult
+1196,Lactobacillus jensenii,2,<0.1,2019,Adult
+1197,Lactobacillus plantarum,2,<0.1,2019,Adult
+1198,Leuconostoc pseudomesenteroides,2,<0.1,2019,Adult
+1199,Microbacterium,2,<0.1,2019,Adult
+1200,Mobiluncus curtisii,2,<0.1,2019,Adult
+1201,"Morganella morganii, biogroup 1",2,<0.1,2019,Adult
+1202,Mycobacterium phocaicum,2,<0.1,2019,Adult
+1203,Neisseria mucosa,2,<0.1,2019,Adult
+1204,Nocardia nova,2,<0.1,2019,Adult
+1205,Ochrobactrum intermedium,2,<0.1,2019,Adult
+1206,Parabacteroides goldsteinii,2,<0.1,2019,Adult
+1207,Paracoccus yeei,2,<0.1,2019,Adult
+1208,Porphyromonas asaccharolyticus,2,<0.1,2019,Adult
+1209,Porphyromonas somerae,2,<0.1,2019,Adult
+1210,Prevotella buccalis,2,<0.1,2019,Adult
+1211,Prevotella oralis group,2,<0.1,2019,Adult
+1212,Propionimicrobium,2,<0.1,2019,Adult
+1213,Propionibacterium propionicum,2,<0.1,2019,Adult
+1214,Providencia rustigianii,2,<0.1,2019,Adult
+1215,Pseudomonas alcaligenes,2,<0.1,2019,Adult
+1216,Rahnella aquatilis,2,<0.1,2019,Adult
+1217,Ralstonia insidiosa,2,<0.1,2019,Adult
+1218,Rhizobium radiobacter,2,<0.1,2019,Adult
+1219,Robinsoniella peoriensis,2,<0.1,2019,Adult
+1220,Roseomonas,2,<0.1,2019,Adult
+1221,Human respiratory syncytial virus,2,<0.1,2019,Adult
+1222,Ruminococcus,2,<0.1,2019,Adult
+1223,Serratia ureilytica,2,<0.1,2019,Adult
+1224,Shewanella putrefaciens,2,<0.1,2019,Adult
+1225,Sphingomonas parapaucimobilis,2,<0.1,2019,Adult
+1226,Staphylococcus pasteuri,2,<0.1,2019,Adult
+1227,Staphylococcus schleiferi ss. schleiferi,2,<0.1,2019,Adult
+1228,Staphylococcus xylosus,2,<0.1,2019,Adult
+1229,Stephanoascus ciferrii,2,<0.1,2019,Adult
+1230,Small-colony-forming beta-hemolytic group A streptococci,2,<0.1,2019,Adult
+1231,Streptococcus cristatus,2,<0.1,2019,Adult
+1232,Streptococcus infantarius,2,<0.1,2019,Adult
+1233,Trichosporon beigelii,2,<0.1,2019,Adult
+1234,Weissella,2,<0.1,2019,Adult
+1235,Yokenella regensburgei,2,<0.1,2019,Adult
+1236,Acholeplasma laidlawii,1,<0.1,2019,Adult
+1237,Achromobacter ruhlandii,1,<0.1,2019,Adult
+1238,Acinetobacter johnsonii,1,<0.1,2019,Adult
+1239,Arcobacter,1,<0.1,2019,Adult
+1240,Actinomyces bovis,1,<0.1,2019,Adult
+1241,Actinomadura pelletieri,1,<0.1,2019,Adult
+1242,Aeromonas caviae complex,1,<0.1,2019,Adult
+1243,Aeromonas veronii subsp sobria,1,<0.1,2019,Adult
+1244,Aspergillus flavus,1,<0.1,2019,Adult
+1245,Alistipes,1,<0.1,2019,Adult
+1246,Alloscardovia omnicolens,1,<0.1,2019,Adult
+1247,Alloiococcus otitis,1,<0.1,2019,Adult
+1248,Alternaria,1,<0.1,2019,Adult
+1249,Anaerobiospirillum succinoproducens,1,<0.1,2019,Adult
+1250,Trueperella pyogenes,1,<0.1,2019,Adult
+1251,Arcanobacterium,1,<0.1,2019,Adult
+1252,Arthrobacter cumminsii,1,<0.1,2019,Adult
+1253,Aspergillus nidulans,1,<0.1,2019,Adult
+1254,Atopobium minutum,1,<0.1,2019,Adult
+1255,Atopobium parvulum,1,<0.1,2019,Adult
+1256,Atopobium rimae,1,<0.1,2019,Adult
+1257,Aureobasidium pullulans,1,<0.1,2019,Adult
+1258,Bacillus licheniformis,1,<0.1,2019,Adult
+1259,Bacillus pumilus,1,<0.1,2019,Adult
+1260,Odoribacter splanchnicus,1,<0.1,2019,Adult
+1261,Bacillus subtilis group,1,<0.1,2019,Adult
+1262,Bartonella bacilliformis,1,<0.1,2019,Adult
+1263,Bacillus farraginis,1,<0.1,2019,Adult
+1264,Bifidobacterium catenulatum,1,<0.1,2019,Adult
+1265,Bilophila,1,<0.1,2019,Adult
+1266,Bilophila wadsworthia,1,<0.1,2019,Adult
+1267,Blautia coccoides,1,<0.1,2019,Adult
+1268,Blautia producta,1,<0.1,2019,Adult
+1269,Bordetella trematum,1,<0.1,2019,Adult
+1270,Brachyspira pilosicoli,1,<0.1,2019,Adult
+1271,Brevibacterium,1,<0.1,2019,Adult
+1272,Bacillus subtilis,1,<0.1,2019,Adult
+1273,Burkholderia gladioli,1,<0.1,2019,Adult
+1274,Burkholderia mallei,1,<0.1,2019,Adult
+1275,Butyrivibrio hungatei,1,<0.1,2019,Adult
+1276,Family Caliciviridae,1,<0.1,2019,Adult
+1277,Candida intermedia,1,<0.1,2019,Adult
+1278,Candida lambica,1,<0.1,2019,Adult
+1279,Candida nivariensis,1,<0.1,2019,Adult
+1280,Candida pararugosa,1,<0.1,2019,Adult
+1281,Candida pintolopesii,1,<0.1,2019,Adult
+1282,Candida pulcherrima,1,<0.1,2019,Adult
+1283,Candida rugosa,1,<0.1,2019,Adult
+1284,Capnocytophaga canimorsus,1,<0.1,2019,Adult
+1285,Capnocytophaga ochracea,1,<0.1,2019,Adult
+1286,CDC Enteric Group 58,1,<0.1,2019,Adult
+1287,Cedecea neteri,1,<0.1,2019,Adult
+1288,Cedecea species 3,1,<0.1,2019,Adult
+1289,Chryseobacterium gleum,1,<0.1,2019,Adult
+1290,Citrobacter gillenii,1,<0.1,2019,Adult
+1291,Citrobacter rodentium,1,<0.1,2019,Adult
+1292,Clostridium botulinum,1,<0.1,2019,Adult
+1293,Clostridium tetani,1,<0.1,2019,Adult
+1294,Collinsella aerofaciens,1,<0.1,2019,Adult
+1295,Comamonas testosteroni,1,<0.1,2019,Adult
+1296,Corynebacterium bovis,1,<0.1,2019,Adult
+1297,CDC Corynebacterium group F-1,1,<0.1,2019,Adult
+1298,Corynebacterium glucuronolyticum,1,<0.1,2019,Adult
+1299,Corynebacterium lipophiloflavum,1,<0.1,2019,Adult
+1300,Corynebacterium mucifaciens,1,<0.1,2019,Adult
+1301,Corynebacterium simulans,1,<0.1,2019,Adult
+1302,Human coronavirus,1,<0.1,2019,Adult
+1303,Cryptobacterium,1,<0.1,2019,Adult
+1304,Cunninghamella,1,<0.1,2019,Adult
+1305,Cupriavidus respiraculi,1,<0.1,2019,Adult
+1306,Curvularia,1,<0.1,2019,Adult
+1307,Scedosporium apiospermum,1,<0.1,2019,Adult
+1308,Dermabacter,1,<0.1,2019,Adult
+1309,Dialister pneumosintes,1,<0.1,2019,Adult
+1310,Dolosigranulum pigrum,1,<0.1,2019,Adult
+1311,Desulfovibrio,1,<0.1,2019,Adult
+1312,Dysgonomonas capnocytophagoides,1,<0.1,2019,Adult
+1313,CDC group EF-4,1,<0.1,2019,Adult
+1314,Elizabethkingia,1,<0.1,2019,Adult
+1315,Empedobacter,1,<0.1,2019,Adult
+1316,Enterobacter amnigenus biogroup I,1,<0.1,2019,Adult
+1317,Entamoeba coli,1,<0.1,2019,Adult
+1318,Enterococcus italicus,1,<0.1,2019,Adult
+1319,Enterococcus malodoratus,1,<0.1,2019,Adult
+1320,Genus Enterovirus,1,<0.1,2019,Adult
+1321,Erysipelothrix rhusiopathiae,1,<0.1,2019,Adult
+1322,Ewingella americana,1,<0.1,2019,Adult
+1323,Facklamia,1,<0.1,2019,Adult
+1324,Flavobacterium,1,<0.1,2019,Adult
+1325,Flavonifractor plautii,1,<0.1,2019,Adult
+1326,Influenza virus,1,<0.1,2019,Adult
+1327,Fusarium proliferatum,1,<0.1,2019,Adult
+1328,Fusarium solani,1,<0.1,2019,Adult
+1329,Fusobacterium naviforme,1,<0.1,2019,Adult
+1330,Fusobacterium periodonticum,1,<0.1,2019,Adult
+1331,Geotrichum,1,<0.1,2019,Adult
+1332,Gliocladium,1,<0.1,2019,Adult
+1333,Gram-negative diplococcus,1,<0.1,2019,Adult
+1334,Gordonia otitidis,1,<0.1,2019,Adult
+1335,Gordonia sputi,1,<0.1,2019,Adult
+1336,Gram-variable coccus,1,<0.1,2019,Adult
+1337,Aggregatibacter aphrophilus,1,<0.1,2019,Adult
+1338,"Haemophilus parainfluenzae, biotype II",1,<0.1,2019,Adult
+1339,Hepatitis G virus,1,<0.1,2019,Adult
+1340,Human metapneumovirus,1,<0.1,2019,Adult
+1341,Human herpes simplex virus type 2,1,<0.1,2019,Adult
+1342,Kerstersia gyiorum,1,<0.1,2019,Adult
+1343,Kluyvera,1,<0.1,2019,Adult
+1344,Lactobacillus crispatus,1,<0.1,2019,Adult
+1345,Lactobacillus johnsonii,1,<0.1,2019,Adult
+1346,Lactobacillus reuteri,1,<0.1,2019,Adult
+1347,Legionella cherrii,1,<0.1,2019,Adult
+1348,Leuconostoc lactis,1,<0.1,2019,Adult
+1349,Legionella pneumophila,1,<0.1,2019,Adult
+1350,Malassezia furfur,1,<0.1,2019,Adult
+1351,Malassezia pachydermatis,1,<0.1,2019,Adult
+1352,Massilia,1,<0.1,2019,Adult
+1353,Methylobacterium,1,<0.1,2019,Adult
+1354,Methylobacterium zatmanii,1,<0.1,2019,Adult
+1355,Microbacterium oxydans,1,<0.1,2019,Adult
+1356,Microbacterium paraoxydans,1,<0.1,2019,Adult
+1357,Mobiluncus,1,<0.1,2019,Adult
+1358,Moraxella lacunata,1,<0.1,2019,Adult
+1359,Moraxella nonliquefaciens,1,<0.1,2019,Adult
+1360,Mycobacterium canariasense,1,<0.1,2019,Adult
+1361,Mycobacterium fortuitum complex,1,<0.1,2019,Adult
+1362,Mycobacterium fortuitum subsp fortuitum,1,<0.1,2019,Adult
+1363,Mycobacterium goodii,1,<0.1,2019,Adult
+1364,Mycobacterium lentiflavum,1,<0.1,2019,Adult
+1365,Mycobacterium parascrofulaceum,1,<0.1,2019,Adult
+1366,Mycobacterium porcinum,1,<0.1,2019,Adult
+1367,Mycobacterium senegalense,1,<0.1,2019,Adult
+1368,Mycobacterium wolinskyi,1,<0.1,2019,Adult
+1369,Myroides odoratus,1,<0.1,2019,Adult
+1370,Mycobacterium avium,1,<0.1,2019,Adult
+1371,Neisseria macacae,1,<0.1,2019,Adult
+1372,Neisseria subflava,1,<0.1,2019,Adult
+1373,Neisseria meningitidis,1,<0.1,2019,Adult
+1374,Nocardia cyriacigeorgica,1,<0.1,2019,Adult
+1375,Paecilomyces,1,<0.1,2019,Adult
+1376,Paecilomyces variotii,1,<0.1,2019,Adult
+1377,Paenibacillus,1,<0.1,2019,Adult
+1378,Pandoraea apista,1,<0.1,2019,Adult
+1379,Pandoraea,1,<0.1,2019,Adult
+1380,B19 virus,1,<0.1,2019,Adult
+1381,Pasteurella canis,1,<0.1,2019,Adult
+1382,Pediococcus,1,<0.1,2019,Adult
+1383,Pichia,1,<0.1,2019,Adult
+1384,Peptostreptococcus indolicus,1,<0.1,2019,Adult
+1385,Prevotella veroralis,1,<0.1,2019,Adult
+1386,Prototheca,1,<0.1,2019,Adult
+1387,Propionibacterium acidipropionici,1,<0.1,2019,Adult
+1388,Propionibacterium lymphophilum,1,<0.1,2019,Adult
+1389,Pseudoflavonifractor capillosus,1,<0.1,2019,Adult
+1390,"Pseudomonas, group VA-1",1,<0.1,2019,Adult
+1391,Pseudomonas monteilii,1,<0.1,2019,Adult
+1392,Pseudomonas pseudoalcaligenes,1,<0.1,2019,Adult
+1393,Ralstonia mannitolilytica,1,<0.1,2019,Adult
+1394,Rhodotorula,1,<0.1,2019,Adult
+1395,Rhodococcus equi,1,<0.1,2019,Adult
+1396,Roseomonas gilardii,1,<0.1,2019,Adult
+1397,Saccharomyces,1,<0.1,2019,Adult
+1398,Saccharomonospora,1,<0.1,2019,Adult
+1399,Sarcina ventriculi,1,<0.1,2019,Adult
+1400,Sarcinosporon inkin,1,<0.1,2019,Adult
+1401,Scedosporium apiospermum,1,<0.1,2019,Adult
+1402,Serpulina jonesii,1,<0.1,2019,Adult
+1403,Serratia odorifera biogroup 1,1,<0.1,2019,Adult
+1404,Serratia plymuthica,1,<0.1,2019,Adult
+1405,Shewanella algae,1,<0.1,2019,Adult
+1406,Shewanella,1,<0.1,2019,Adult
+1407,Shigella sonnei,1,<0.1,2019,Adult
+1408,Sphingobacterium multivorum,1,<0.1,2019,Adult
+1409,Sphingobacterium,1,<0.1,2019,Adult
+1410,Sphingobacterium spiritivorum,1,<0.1,2019,Adult
+1411,Sporobolomyces salmonicolor,1,<0.1,2019,Adult
+1412,Staphylococcus carnosus,1,<0.1,2019,Adult
+1413,Staphylococcus schleiferi subsp. coagulans,1,<0.1,2019,Adult
+1414,Staphylococcus condimenti,1,<0.1,2019,Adult
+1415,Staphylococcus equorum linens,1,<0.1,2019,Adult
+1416,Staphylococcus hyicus,1,<0.1,2019,Adult
+1417,Staphylococcus cohnii ss cohnii,1,<0.1,2019,Adult
+1418,Stephanoascus,1,<0.1,2019,Adult
+1419,Streptobacillus moniliformis,1,<0.1,2019,Adult
+1420,Streptobacillus,1,<0.1,2019,Adult
+1421,Streptococcus constellatus subspecies pharyngis,1,<0.1,2019,Adult
+1422,Streptococcus equinus,1,<0.1,2019,Adult
+1423,Streptomyces filamentosus,1,<0.1,2019,Adult
+1424,Streptococcus equi,1,<0.1,2019,Adult
+1425,Streptococcus gallolyticus subspecies macedonicus,1,<0.1,2019,Adult
+1426,Streptococcus infantis,1,<0.1,2019,Adult
+1427,Streptococcus lutetiensis,1,<0.1,2019,Adult
+1428,Streptococcus mutans group,1,<0.1,2019,Adult
+1429,Streptococcus porcinus,1,<0.1,2019,Adult
+1430,Streptococcus pseudoporcinus,1,<0.1,2019,Adult
+1431,Streptococcus salivarius subsp. thermophilus,1,<0.1,2019,Adult
+1432,Streptococcus uberis,1,<0.1,2019,Adult
+1433,Streptococcus equi subsp. zooepidemicus,1,<0.1,2019,Adult
+1434,Legionella micdadei,1,<0.1,2019,Adult
+1435,Tatumella,1,<0.1,2019,Adult
+1436,Tetragenococcus solitarius,1,<0.1,2019,Adult
+1437,Thermoactinomyces,1,<0.1,2019,Adult
+1438,Tissierella,1,<0.1,2019,Adult
+1439,Yellow fever virus,1,<0.1,2019,Adult
+1440,Torulopsis candida,1,<0.1,2019,Adult
+1441,Trichoderma,1,<0.1,2019,Adult
+1442,Trueperella,1,<0.1,2019,Adult
+1443,Tsukamurella,1,<0.1,2019,Adult
+1444,Ureaplasma parvum,1,<0.1,2019,Adult
+1445,Ustilago,1,<0.1,2019,Adult
+1446,Veillonella dispar,1,<0.1,2019,Adult
+1447,Vibrio,1,<0.1,2019,Adult
+1448,Wangiella dermatitidis,1,<0.1,2019,Adult
+1449,Weissella confusa,1,<0.1,2019,Adult
+1450,Escherichia coli,16558,15.736103323,2020,Adult
+1451,Staphylococcus aureus,11318,10.756203492,2020,Adult
+1452,Enterococcus faecalis,9640,9.16149511,2020,Adult
+1453,Pseudomonas aeruginosa,8384,7.967839731,2020,Adult
+1454,Klebsiella pneumoniae,5824,5.534911569,2020,Adult
+1455,Staphylococcus epidermidis,4727,4.492363837,2020,Adult
+1456,Candida albicans,4049,3.848018019,2020,Adult
+1457,Enterococcus faecium,3782,3.594271214,2020,Adult
+1458,Proteus mirabilis,2886,2.742746358,2020,Adult
+1459,Candida glabrata,1837,1.745816029,2020,Adult
+1460,"Staphylococcus, coagulase negative",1807,1.717305152,2020,Adult
+1461,Enterobacter cloacae,1698,1.613715633,2020,Adult
+1462,Enterobacter cloacae complex,1662,1.57950258,2020,Adult
+1463,Serratia marcescens,1588,1.509175751,2020,Adult
+1464,Klebsiella aerogenes,1325,1.259230396,2020,Adult
+1465,Bacteroides fragilis,1295,1.230719519,2020,Adult
+1466,Klebsiella oxytoca,1288,1.224066982,2020,Adult
+1467,Genus Enterococcus,1153,1.095768036,2020,Adult
+1468,Candida parapsilosis,823,0.78214839,2020,Adult
+1469,Klebsiella pneumoniae ss. pneumoniae,765,0.727027361,2020,Adult
+1470,Morganella morganii,683,0.649097631,2020,Adult
+1471,Group B streptococcus,649,0.616785304,2020,Adult
+1472,Citrobacter freundii,627,0.595877327,2020,Adult
+1473,Candida tropicalis,611,0.580671526,2020,Adult
+1474,Streptococcus anginosus,573,0.544557749,2020,Adult
+1475,Stenotrophomonas maltophilia,564,0.536004486,2020,Adult
+1476,Bacteroides thetaiotaomicron,510,0.484684907,2020,Adult
+1477,Yeast,506,0.480883457,2020,Adult
+1478,Citrobacter koseri,440,0.418159528,2020,Adult
+1479,Acinetobacter baumannii,409,0.388698288,2020,Adult
+1480,Cutibacterium acnes,403,0.382996113,2020,Adult
+1481,Enterococcus avium,376,0.357336324,2020,Adult
+1482,Lactobacillus,363,0.34498161,2020,Adult
+1483,Staphylococcus lugdunensis,341,0.324073634,2020,Adult
+1484,"Streptococcus, viridans group",339,0.322172909,2020,Adult
+1485,Staphylococcus,325,0.308867833,2020,Adult
+1486,Streptococcus mitis,312,0.29651312,2020,Adult
+1487,Gram-negative bacillus,293,0.278456231,2020,Adult
+1488,Gram-positive coccus,271,0.257548255,2020,Adult
+1489,Candida dubliniensis,267,0.253746804,2020,Adult
+1490,Bacteroides fragilis group,265,0.251846079,2020,Adult
+1491,Streptococcus mitis group,256,0.243292816,2020,Adult
+1492,Corynebacterium,232,0.220484115,2020,Adult
+1493,Streptococcus anginosus group,232,0.220484115,2020,Adult
+1494,Finegoldia magna,227,0.215732302,2020,Adult
+1495,Streptococcus,218,0.207179039,2020,Adult
+1496,Diphtheroids,212,0.201476863,2020,Adult
+1497,Corynebacterium striatum,204,0.193873963,2020,Adult
+1498,Staphylococcus haemolyticus,203,0.1929236,2020,Adult
+1499,Enterococcus gallinarum,194,0.184370337,2020,Adult
+1500,Streptococcus constellatus,192,0.182469612,2020,Adult
+1501,Clostridium perfringens,190,0.180568887,2020,Adult
+1502,Bacteroides ovatus,189,0.179618524,2020,Adult
+1503,Candida krusei,185,0.175817074,2020,Adult
+1504,Staphylococcus capitis,185,0.175817074,2020,Adult
+1505,Candida,184,0.174866712,2020,Adult
+1506,Staphylococcus hominis,180,0.171065261,2020,Adult
+1507,Candida lusitaniae,167,0.158710548,2020,Adult
+1508,Bacteroides,163,0.154909098,2020,Adult
+1509,Providencia stuartii,160,0.15205801,2020,Adult
+1510,Klebsiella variicola,155,0.147306197,2020,Adult
+1511,Prevotella bivia,155,0.147306197,2020,Adult
+1512,Haemophilus influenzae,146,0.138752934,2020,Adult
+1513,Prevotella,143,0.135901847,2020,Adult
+1514,Bacteroides vulgatus,139,0.132100396,2020,Adult
+1515,Proteus vulgaris,136,0.129249309,2020,Adult
+1516,Clostridium ramosum,127,0.120696046,2020,Adult
+1517,Gram-positive bacillus,125,0.11879532,2020,Adult
+1518,Eggerthella lenta,116,0.110242057,2020,Adult
+1519,Streptococcus pneumoniae,115,0.109291695,2020,Adult
+1520,Granulicatella adiacens,114,0.108341332,2020,Adult
+1521,Pseudomonas,114,0.108341332,2020,Adult
+1522,Rothia mucilaginosa,112,0.106440607,2020,Adult
+1523,Enterococcus raffinosus,109,0.103589519,2020,Adult
+1524,Alpha-hemolytic streptococcus,106,0.100738432,2020,Adult
+1525,Clostridium,106,0.100738432,2020,Adult
+1526,Klebsiella,103,0.097887344,2020,Adult
+1527,Clostridium innocuum,102,0.096936981,2020,Adult
+1528,Enterobacter,98,0.093135531,2020,Adult
+1529,Fusobacterium nucleatum,98,0.093135531,2020,Adult
+1530,Citrobacter amalonaticus,97,0.092185169,2020,Adult
+1531,Streptococcus intermedius,94,0.089334081,2020,Adult
+1532,Streptococcus pyogenes,89,0.084582268,2020,Adult
+1533,Candida auris,88,0.083631906,2020,Adult
+1534,Anaerobic Gram-negative bacillus,85,0.080780818,2020,Adult
+1535,Human coronavirus,85,0.080780818,2020,Adult
+1536,Lactobacillus rhamnosus,85,0.080780818,2020,Adult
+1537,Parabacteroides distasonis,84,0.079830455,2020,Adult
+1538,Beta-hemolytic streptococcus,84,0.079830455,2020,Adult
+1539,Peptostreptococcus,80,0.076029005,2020,Adult
+1540,Haemophilus parainfluenzae,79,0.075078643,2020,Adult
+1541,Actinomyces,78,0.07412828,2020,Adult
+1542,Gemella haemolysans,77,0.073177917,2020,Adult
+1543,Bacillus,76,0.072227555,2020,Adult
+1544,Providencia rettgeri,76,0.072227555,2020,Adult
+1545,Staphylococcus hominis hominis,75,0.071277192,2020,Adult
+1546,Hafnia alvei,73,0.069376467,2020,Adult
+1547,Clostridium clostridioforme,72,0.068426105,2020,Adult
+1548,Acinetobacter,71,0.067475742,2020,Adult
+1549,Citrobacter braakii,71,0.067475742,2020,Adult
+1550,Clostridium tertium,68,0.064624654,2020,Adult
+1551,Acinetobacter calcoaceticus-Acinetobacter baumannii complex,66,0.062723929,2020,Adult
+1552,Actinomyces odontolyticus,66,0.062723929,2020,Adult
+1553,Escherichia,65,0.0617736,2020,Adult
+1554,Pseudomonas fluorescens,65,0.0617736,2020,Adult
+1555,Raoultella ornithinolytica,65,0.0617736,2020,Adult
+1556,Enterobacter hormaechei,64,0.0608232,2020,Adult
+1557,Pseudomonas putida,64,0.0608232,2020,Adult
+1558,Prevotella melaninogenica,62,0.0589225,2020,Adult
+1559,Staphylococcus simulans,61,0.0579721,2020,Adult
+1560,Achromobacter xylosoxidans,60,0.0570218,2020,Adult
+1561,Bacteroides uniformis,60,0.0570218,2020,Adult
+1562,Propionibacterium,59,0.0560714,2020,Adult
+1563,Proteus,59,0.0560714,2020,Adult
+1564,Citrobacter,58,0.055121,2020,Adult
+1565,Peptoniphilus asaccharolyticus,57,0.0541707,2020,Adult
+1566,Prevotella buccae,55,0.0522699,2020,Adult
+1567,Aerococcus urinae,53,0.0503692,2020,Adult
+1568,Eikenella corrodens,53,0.0503692,2020,Adult
+1569,Fusobacterium,53,0.0503692,2020,Adult
+1570,Anaerobe,51,<0.1,2020,Adult
+1571,Enterococcus casseliflavus,51,<0.1,2020,Adult
+1572,Bacteroides caccae,50,<0.1,2020,Adult
+1573,Bifidobacterium,50,<0.1,2020,Adult
+1574,Candida parapsilosis complex,50,<0.1,2020,Adult
+1575,Burkholderia cepacia,49,<0.1,2020,Adult
+1576,"Staphylococcus, coagulase positive",49,<0.1,2020,Adult
+1577,Parvimonas micra,48,<0.1,2020,Adult
+1578,Proteus penneri,47,<0.1,2020,Adult
+1579,Streptococcus salivarius,47,<0.1,2020,Adult
+1580,Virus,47,<0.1,2020,Adult
+1581,Gardnerella vaginalis,46,<0.1,2020,Adult
+1582,Cutibacterium,45,<0.1,2020,Adult
+1583,Streptococcus parasanguinis,45,<0.1,2020,Adult
+1584,Anaerobic Gram-positive coccus,44,<0.1,2020,Adult
+1585,Clostridioides difficile,44,<0.1,2020,Adult
+1586,Corynebacterium amycolatum,44,<0.1,2020,Adult
+1587,Enterococcus durans,44,<0.1,2020,Adult
+1588,Streptococcus oralis,44,<0.1,2020,Adult
+1589,Prevotella denticola,43,<0.1,2020,Adult
+1590,Saccharomyces cerevisiae,43,<0.1,2020,Adult
+1591,Candida guilliermondii,42,<0.1,2020,Adult
+1592,Streptococcus dysgalactiae,42,<0.1,2020,Adult
+1593,"Streptococcus, group G",41,<0.1,2020,Adult
+1594,"Streptococcus, group C",40,<0.1,2020,Adult
+1595,Citrobacter youngae,39,<0.1,2020,Adult
+1596,Staphylococcus caprae,39,<0.1,2020,Adult
+1597,Staphylococcus warneri,36,<0.1,2020,Adult
+1598,Veillonella,33,<0.1,2020,Adult
+1599,Candida kefyr,32,<0.1,2020,Adult
+1600,Pantoea agglomerans,32,<0.1,2020,Adult
+1601,Burkholderia cepacia complex,31,<0.1,2020,Adult
+1602,Clostridium septicum,31,<0.1,2020,Adult
+1603,Klebsiella pneumoniae ss. ozaenae,31,<0.1,2020,Adult
+1604,Peptoniphilus harei,31,<0.1,2020,Adult
+1605,Peptostreptococcus anaerobius,31,<0.1,2020,Adult
+1606,Raoultella planticola,31,<0.1,2020,Adult
+1607,"Beta-hemolytic streptococcus, non-Group A, non-Group B",31,<0.1,2020,Adult
+1608,Veillonella parvula,31,<0.1,2020,Adult
+1609,Anaerobic Gram-positive bacillus,30,<0.1,2020,Adult
+1610,Sphingomonas paucimobilis,30,<0.1,2020,Adult
+1611,Staphylococcus pseudintermedius,30,<0.1,2020,Adult
+1612,Streptococcus sanguinis,30,<0.1,2020,Adult
+1613,Achromobacter,29,<0.1,2020,Adult
+1614,Candida stellatoidea,28,<0.1,2020,Adult
+1615,Citrobacter farmeri,28,<0.1,2020,Adult
+1616,"Streptococcus, group F",28,<0.1,2020,Adult
+1617,Streptococcus gallolyticus,28,<0.1,2020,Adult
+1618,Prevotella oralis,27,<0.1,2020,Adult
+1619,Actinomyces turicensis,26,<0.1,2020,Adult
+1620,Aeromonas hydrophila,26,<0.1,2020,Adult
+1621,Corynebacterium jeikeium,26,<0.1,2020,Adult
+1622,Mycobacterium abscessus,26,<0.1,2020,Adult
+1623,Acinetobacter lwoffi,25,<0.1,2020,Adult
+1624,Aspergillus fumigatus,25,<0.1,2020,Adult
+1625,Moraxella catarrhalis,25,<0.1,2020,Adult
+1626,Pantoea,25,<0.1,2020,Adult
+1627,Staphylococcus intermedius,25,<0.1,2020,Adult
+1628,"Streptococcus, group D",24,<0.1,2020,Adult
+1629,Gemella morbillorum,24,<0.1,2020,Adult
+1630,Anaerococcus prevotii,23,<0.1,2020,Adult
+1631,Enterococcus hirae,23,<0.1,2020,Adult
+1632,Fermentative Gram-negative bacillus,23,<0.1,2020,Adult
+1633,Peptoniphilus,23,<0.1,2020,Adult
+1634,Leptotrichia,22,<0.1,2020,Adult
+1635,Streptococcus salivarius group,22,<0.1,2020,Adult
+1636,Clostridium cadaveris,21,<0.1,2020,Adult
+1637,Cyberlindnera fabianii,21,<0.1,2020,Adult
+1638,Proteus hauseri,21,<0.1,2020,Adult
+1639,Bacillus cereus,20,<0.1,2020,Adult
+1640,Capnocytophaga,20,<0.1,2020,Adult
+1641,Propionibacterium avidum,20,<0.1,2020,Adult
+1642,Candida orthopsilosis,19,<0.1,2020,Adult
+1643,Micrococcus luteus,19,<0.1,2020,Adult
+1644,Rothia,19,<0.1,2020,Adult
+1645,Abiotrophia defectiva,19,<0.1,2020,Adult
+1646,Acinetobacter calcoaceticus,18,<0.1,2020,Adult
+1647,Actinomyces neuii,18,<0.1,2020,Adult
+1648,Gemella,18,<0.1,2020,Adult
+1649,gamma-hemolytic streptococcus,18,<0.1,2020,Adult
+1650,Pseudomonas stutzeri,18,<0.1,2020,Adult
+1651,Chryseobacterium indologenes,17,<0.1,2020,Adult
+1652,Prevotella disiens,17,<0.1,2020,Adult
+1653,Staphylococcus schleiferi,17,<0.1,2020,Adult
+1654,Candida metapsilosis,16,<0.1,2020,Adult
+1655,Clostridium paraputrificum,16,<0.1,2020,Adult
+1656,Coryneform bacteria,16,<0.1,2020,Adult
+1657,Mycoplasma hominis,16,<0.1,2020,Adult
+1658,Serratia liquefaciens,16,<0.1,2020,Adult
+1659,"Beta-hemolytic Streptococcus, group A",16,<0.1,2020,Adult
+1660,Streptococcus gordonii,16,<0.1,2020,Adult
+1661,Acinetobacter ursingii,15,<0.1,2020,Adult
+1662,Bifidobacterium breve,15,<0.1,2020,Adult
+1663,Enterobacteriaceae,15,<0.1,2020,Adult
+1664,Kluyvera ascorbata,15,<0.1,2020,Adult
+1665,Micrococcus,15,<0.1,2020,Adult
+1666,Staphylococcus auricularis,15,<0.1,2020,Adult
+1667,Streptococcus dysgalactiae subsp. equisimilis,15,<0.1,2020,Adult
+1668,Trueperella bernardiae,15,<0.1,2020,Adult
+1669,"Clostridium species, not Clostridium perfringens",14,<0.1,2020,Adult
+1670,Eggerthella,14,<0.1,2020,Adult
+1671,Pasteurella multocida,14,<0.1,2020,Adult
+1672,Porphyromonas,14,<0.1,2020,Adult
+1673,Serratia,14,<0.1,2020,Adult
+1674,Streptococcus bovis group,14,<0.1,2020,Adult
+1675,Candida famata,13,<0.1,2020,Adult
+1676,Fusarium,13,<0.1,2020,Adult
+1677,Fusobacterium necrophorum,13,<0.1,2020,Adult
+1678,Lactobacillus casei,13,<0.1,2020,Adult
+1679,Morganella morganii subsp sibonii,13,<0.1,2020,Adult
+1680,Neisseria,13,<0.1,2020,Adult
+1681,Ochrobactrum anthropi,13,<0.1,2020,Adult
+1682,Prevotella loescheii,13,<0.1,2020,Adult
+1683,Acid-fast bacillus,12,<0.1,2020,Adult
+1684,Clostridium butyricum,12,<0.1,2020,Adult
+1685,Corynebacterium tuberculostearicum,12,<0.1,2020,Adult
+1686,Fusobacterium nucleatum ss nucleatum,12,<0.1,2020,Adult
+1687,Gemella sanguinis,12,<0.1,2020,Adult
+1688,Mycobacterium fortuitum,12,<0.1,2020,Adult
+1689,Small-colony-forming beta-hemolytic group G streptococci,12,<0.1,2020,Adult
+1690,Trichosporon asahii,12,<0.1,2020,Adult
+1691,Bacillus species not Bacillus anthracis,11,<0.1,2020,Adult
+1692,Coliform bacteria,11,<0.1,2020,Adult
+1693,Cronobacter sakazakii,11,<0.1,2020,Adult
+1694,Fusobacterium mortiferum,11,<0.1,2020,Adult
+1695,Fusobacterium varium,11,<0.1,2020,Adult
+1696,Lactococcus garvieae,11,<0.1,2020,Adult
+1697,Mold,11,<0.1,2020,Adult
+1698,Pseudomonas oryzihabitans,11,<0.1,2020,Adult
+1699,Staphylococcus saccharolyticus,11,<0.1,2020,Adult
+1700,Streptococcus gallolyticus subspecies pasteurianus,11,<0.1,2020,Adult
+1701,Achromobacter denitrificans,10,<0.1,2020,Adult
+1702,Anaerococcus vaginalis,10,<0.1,2020,Adult
+1703,Bacteroides stercoris,10,<0.1,2020,Adult
+1704,Bacillus cereus group,10,<0.1,2020,Adult
+1705,Enterobacter asburiae,10,<0.1,2020,Adult
+1706,Lactobacillus gasseri,10,<0.1,2020,Adult
+1707,Acinetobacter haemolyticus,9,<0.1,2020,Adult
+1708,Actinotignum schaalii,9,<0.1,2020,Adult
+1709,Alpha-hemolytic Streptococcus species not Streptococcus pneumoniae,9,<0.1,2020,Adult
+1710,Bacteroides eggerthii,9,<0.1,2020,Adult
+1711,Burkholderia gladioli,9,<0.1,2020,Adult
+1712,Citrobacter sedlakii,9,<0.1,2020,Adult
+1713,Citrobacter werkmanii,9,<0.1,2020,Adult
+1714,Aerobic diphtheroids,9,<0.1,2020,Adult
+1715,Enterobacter kobei,9,<0.1,2020,Adult
+1716,Pluralibacter gergoviae,9,<0.1,2020,Adult
+1717,Granulicatella,9,<0.1,2020,Adult
+1718,Gram-variable bacillus,9,<0.1,2020,Adult
+1719,Haemophilus,9,<0.1,2020,Adult
+1720,Lactobacillus paracasei,9,<0.1,2020,Adult
+1721,Parabacteroides,9,<0.1,2020,Adult
+1722,Pasteurella multocida ss. multocida,9,<0.1,2020,Adult
+1723,Pediococcus,9,<0.1,2020,Adult
+1724,Prevotella intermedia,9,<0.1,2020,Adult
+1725,Prevotella oris,9,<0.1,2020,Adult
+1726,Staphylococcus capitis ss capitis,9,<0.1,2020,Adult
+1727,Staphylococcus saprophyticus,9,<0.1,2020,Adult
+1728,Abiotrophia,8,<0.1,2020,Adult
+1729,Anaerococcus,8,<0.1,2020,Adult
+1730,Aspergillus,8,<0.1,2020,Adult
+1731,Corynebacterium aurimucosum,8,<0.1,2020,Adult
+1732,Cupriavidus pauculus,8,<0.1,2020,Adult
+1733,Delftia acidovorans,8,<0.1,2020,Adult
+1734,Eubacterium,8,<0.1,2020,Adult
+1735,Influenza A virus,8,<0.1,2020,Adult
+1736,Fungus,8,<0.1,2020,Adult
+1737,Gordonia,8,<0.1,2020,Adult
+1738,Leptotrichia trevisanii,8,<0.1,2020,Adult
+1739,Propionibacterium granulosum,8,<0.1,2020,Adult
+1740,Rhizobium radiobacter,8,<0.1,2020,Adult
+1741,Rhizopus,8,<0.1,2020,Adult
+1742,Salmonella,8,<0.1,2020,Adult
+1743,Serratia odorifera,8,<0.1,2020,Adult
+1744,Staphylococcus capitis subspecies urealyticus,8,<0.1,2020,Adult
+1745,Stenotrophomonas,8,<0.1,2020,Adult
+1746,Small-colony-forming beta-hemolytic group C streptococci,8,<0.1,2020,Adult
+1747,Streptococcus constellatus subspecies constellatus,8,<0.1,2020,Adult
+1748,Acinetobacter radioresistens,7,<0.1,2020,Adult
+1749,Acinetobacter junii,7,<0.1,2020,Adult
+1750,Aerococcus,7,<0.1,2020,Adult
+1751,Aeromonas,7,<0.1,2020,Adult
+1752,Bacteroides pyogenes,7,<0.1,2020,Adult
+1753,Burkholderia multivorans,7,<0.1,2020,Adult
+1754,Burkholderia,7,<0.1,2020,Adult
+1755,Clostridium sporogenes,7,<0.1,2020,Adult
+1756,Enterobacter amnigenus,7,<0.1,2020,Adult
+1757,Non-fermentative Gram-negative bacillus,7,<0.1,2020,Adult
+1758,Hafnia,7,<0.1,2020,Adult
+1759,Ochrobactrum,7,<0.1,2020,Adult
+1760,Streptococcus anginosus-constellatus,7,<0.1,2020,Adult
+1761,Streptococcus vestibularis,7,<0.1,2020,Adult
+1762,Achromobacter xylosoxidans xylosoxidans,6,<0.1,2020,Adult
+1763,Alcaligenes faecalis,6,<0.1,2020,Adult
+1764,Bilophila wadsworthia,6,<0.1,2020,Adult
+1765,Capnocytophaga sputigena,6,<0.1,2020,Adult
+1766,Citrobacter murliniae,6,<0.1,2020,Adult
+1767,Clostridium hathewayi,6,<0.1,2020,Adult
+1768,Clostridium sordellii,6,<0.1,2020,Adult
+1769,Clostridium subterminale,6,<0.1,2020,Adult
+1770,Corynebacterium urealyticum,6,<0.1,2020,Adult
+1771,Curtobacterium,6,<0.1,2020,Adult
+1772,Elizabethkingia meningoseptica,6,<0.1,2020,Adult
+1773,Enterobacter cancerogenus,6,<0.1,2020,Adult
+1774,Escherichia fergusonii,6,<0.1,2020,Adult
+1775,Escherichia hermannii,6,<0.1,2020,Adult
+1776,Eubacterium limosum,6,<0.1,2020,Adult
+1777,Lactobacillus acidophilus,6,<0.1,2020,Adult
+1778,Leclercia adecarboxylata,6,<0.1,2020,Adult
+1779,Leuconostoc mesenteroides,6,<0.1,2020,Adult
+1780,Moraxella,6,<0.1,2020,Adult
+1781,Pseudomonas mendocina,6,<0.1,2020,Adult
+1782,Raoultella,6,<0.1,2020,Adult
+1783,Rhodotorula rubra,6,<0.1,2020,Adult
+1784,Sphingomonas,6,<0.1,2020,Adult
+1785,Serratia rubidaea,6,<0.1,2020,Adult
+1786,Staphylococcus cohnii,6,<0.1,2020,Adult
+1787,Staphylococcus lentus,6,<0.1,2020,Adult
+1788,Streptococcus canis,6,<0.1,2020,Adult
+1789,Streptococcus mutans,6,<0.1,2020,Adult
+1790,Tetragenococcus solitarius,6,<0.1,2020,Adult
+1791,Actinomyces radingae,5,<0.1,2020,Adult
+1792,Aerobic bacteria,5,<0.1,2020,Adult
+1793,Aeromonas sobria,5,<0.1,2020,Adult
+1794,Aspergillus flavus,5,<0.1,2020,Adult
+1795,Atopobium parvulum,5,<0.1,2020,Adult
+1796,Bifidobacterium longum,5,<0.1,2020,Adult
+1797,Candida lipolytica,5,<0.1,2020,Adult
+1798,Clostridium bifermentans,5,<0.1,2020,Adult
+1799,Genus Clostridioides,5,<0.1,2020,Adult
+1800,Dermabacter hominis,5,<0.1,2020,Adult
+1801,Enteropathogenic Escherichia coli,5,<0.1,2020,Adult
+1802,Enterobacter cloacae subspecies dissolvens,5,<0.1,2020,Adult
+1803,Geotrichum,5,<0.1,2020,Adult
+1804,Gram-negative coccobacillus,5,<0.1,2020,Adult
+1805,Kocuria kristinae,5,<0.1,2020,Adult
+1806,Lactobacillus jensenii,5,<0.1,2020,Adult
+1807,Lactococcus,5,<0.1,2020,Adult
+1808,Leuconostoc lactis,5,<0.1,2020,Adult
+1809,Mycobacterium fortuitum complex,5,<0.1,2020,Adult
+1810,Mycobacterium mucogenicum,5,<0.1,2020,Adult
+1811,Mycobacterium,5,<0.1,2020,Adult
+1812,Parvimonas,5,<0.1,2020,Adult
+1813,Pasteurella,5,<0.1,2020,Adult
+1814,Serratia fonticola,5,<0.1,2020,Adult
+1815,Weissella confusa,5,<0.1,2020,Adult
+1816,Actinomyces meyeri,4,<0.1,2020,Adult
+1817,Arcanobacterium haemolyticum,4,<0.1,2020,Adult
+1818,Atopobium,4,<0.1,2020,Adult
+1819,Parabacteroides merdae,4,<0.1,2020,Adult
+1820,Family Caliciviridae,4,<0.1,2020,Adult
+1821,Candida nivariensis,4,<0.1,2020,Adult
+1822,Candida pelliculosa,4,<0.1,2020,Adult
+1823,Candida utilis,4,<0.1,2020,Adult
+1824,Chryseobacterium,4,<0.1,2020,Adult
+1825,Comamonas testosteroni,4,<0.1,2020,Adult
+1826,Escherichia vulneris,4,<0.1,2020,Adult
+1827,Gram-negative coccus,4,<0.1,2020,Adult
+1828,Gram positive coccobacillus,4,<0.1,2020,Adult
+1829,Haemophilus haemolyticus,4,<0.1,2020,Adult
+1830,Lactobacillus fermentum,4,<0.1,2020,Adult
+1831,Morganella,4,<0.1,2020,Adult
+1832,Myroides,4,<0.1,2020,Adult
+1833,Genus Mycoplasma,4,<0.1,2020,Adult
+1834,Prevotella nigrescens,4,<0.1,2020,Adult
+1835,Prevotella veroralis,4,<0.1,2020,Adult
+1836,Propionimicrobium,4,<0.1,2020,Adult
+1837,Providencia,4,<0.1,2020,Adult
+1838,Providencia alcalifaciens,4,<0.1,2020,Adult
+1839,Pseudomonas alcaligenes,4,<0.1,2020,Adult
+1840,Robinsoniella peoriensis,4,<0.1,2020,Adult
+1841,Ruminococcus gnavus,4,<0.1,2020,Adult
+1842,Ruminococcus,4,<0.1,2020,Adult
+1843,Salmonella enterica,4,<0.1,2020,Adult
+1844,Shewanella putrefaciens,4,<0.1,2020,Adult
+1845,Staphylococcus schleiferi subsp. coagulans,4,<0.1,2020,Adult
+1846,Staphylococcus sciuri,4,<0.1,2020,Adult
+1847,Tissierella praeacuta,4,<0.1,2020,Adult
+1848,Actinomyces europaeus,3,<0.1,2020,Adult
+1849,Actinomyces naeslundii,3,<0.1,2020,Adult
+1850,Aerococcus sanguinicola,3,<0.1,2020,Adult
+1851,Aggregatibacter segnis,3,<0.1,2020,Adult
+1852,Anaerobic Gram-negative coccus,3,<0.1,2020,Adult
+1853,Anaerobic Gram negative coccobacillus,3,<0.1,2020,Adult
+1854,Aspergillus niger,3,<0.1,2020,Adult
+1855,Atopobium minutum,3,<0.1,2020,Adult
+1856,Bacteroides nordii,3,<0.1,2020,Adult
+1857,Bifidobacterium dentium,3,<0.1,2020,Adult
+1858,Bifidobacterium scardovii,3,<0.1,2020,Adult
+1859,Bordetella bronchiseptica,3,<0.1,2020,Adult
+1860,Brevundimonas diminuta,3,<0.1,2020,Adult
+1861,Bacillus subtilis,3,<0.1,2020,Adult
+1862,Burkholderia cenocepacia,3,<0.1,2020,Adult
+1863,Campylobacter gracilis,3,<0.1,2020,Adult
+1864,Candida duobushaemulonii,3,<0.1,2020,Adult
+1865,Candida rugosa,3,<0.1,2020,Adult
+1866,Chryseomonas luteola,3,<0.1,2020,Adult
+1867,Clostridium baratii,3,<0.1,2020,Adult
+1868,Clostridium glycolicum,3,<0.1,2020,Adult
+1869,Corynebacterium coyleae,3,<0.1,2020,Adult
+1870,Corynebacterium glucuronolyticum,3,<0.1,2020,Adult
+1871,Corynebacterium minutissimum,3,<0.1,2020,Adult
+1872,Edwardsiella tarda,3,<0.1,2020,Adult
+1873,Eikenella,3,<0.1,2020,Adult
+1874,Elizabethkingia,3,<0.1,2020,Adult
+1875,Enterococcus mundtii,3,<0.1,2020,Adult
+1876,Aggregatibacter aphrophilus,3,<0.1,2020,Adult
+1877,Kocuria,3,<0.1,2020,Adult
+1878,Lactobacillus plantarum,3,<0.1,2020,Adult
+1879,Lactobacillus reuteri,3,<0.1,2020,Adult
+1880,Lactococcus lactis,3,<0.1,2020,Adult
+1881,Leuconostoc,3,<0.1,2020,Adult
+1882,Leuconostoc pseudomesenteroides,3,<0.1,2020,Adult
+1883,Moraxella nonliquefaciens,3,<0.1,2020,Adult
+1884,"Mycobacterium, avium-intracellulare group",3,<0.1,2020,Adult
+1885,Mycobacterium chelonae,3,<0.1,2020,Adult
+1886,Neisseria elongata,3,<0.1,2020,Adult
+1887,Neisseria flavescens,3,<0.1,2020,Adult
+1888,Neisseria sicca,3,<0.1,2020,Adult
+1889,Pediococcus acidilactici,3,<0.1,2020,Adult
+1890,Pediococcus pentosaceus,3,<0.1,2020,Adult
+1891,Penicillium,3,<0.1,2020,Adult
+1892,Pichia kudriavzevii,3,<0.1,2020,Adult
+1893,Porphyromonas somerae,3,<0.1,2020,Adult
+1894,Prevotella buccalis,3,<0.1,2020,Adult
+1895,Peptococcus,3,<0.1,2020,Adult
+1896,Rahnella aquatilis,3,<0.1,2020,Adult
+1897,Ralstonia insidiosa,3,<0.1,2020,Adult
+1898,Serratia ficaria,3,<0.1,2020,Adult
+1899,Serratia plymuthica,3,<0.1,2020,Adult
+1900,Staphylococcus pettenkoferi,3,<0.1,2020,Adult
+1901,Streptococcus dysgalactiae subsp. dysgalactiae,3,<0.1,2020,Adult
+1902,Sutterella wadsworthensis,3,<0.1,2020,Adult
+1903,Acidaminococcus,2,<0.1,2020,Adult
+1904,Acinetobacter johnsonii,2,<0.1,2020,Adult
+1905,Actinobaculum,2,<0.1,2020,Adult
+1906,Actinomyces urogenitalis,2,<0.1,2020,Adult
+1907,Aeromonas hydrophila complex,2,<0.1,2020,Adult
+1908,Aeromonas caviae,2,<0.1,2020,Adult
+1909,Alistipes,2,<0.1,2020,Adult
+1910,Alcaligenes,2,<0.1,2020,Adult
+1911,Alternaria,2,<0.1,2020,Adult
+1912,Alcaligenes xylosoxidans ss. xylosoxidans,2,<0.1,2020,Adult
+1913,Anaerobic Gram positive coccobacillus,2,<0.1,2020,Adult
+1914,Anaerococcus tetradius,2,<0.1,2020,Adult
+1915,Arcanobacterium,2,<0.1,2020,Adult
+1916,Aspergillus versicolor,2,<0.1,2020,Adult
+1917,Aureimonas altamirensis,2,<0.1,2020,Adult
+1918,Bacillus circulans,2,<0.1,2020,Adult
+1919,Odoribacter splanchnicus,2,<0.1,2020,Adult
+1920,Brevibacterium,2,<0.1,2020,Adult
+1921,Candida guilliermondii var membranaefaciens,2,<0.1,2020,Adult
+1922,Candida haemulonii,2,<0.1,2020,Adult
+1923,Candida pararugosa,2,<0.1,2020,Adult
+1924,Candida zeylanoides,2,<0.1,2020,Adult
+1925,Clostridium bolteae,2,<0.1,2020,Adult
+1926,Clostridium histolyticum,2,<0.1,2020,Adult
+1927,Clostridium hastiforme,2,<0.1,2020,Adult
+1928,Corynebacterium afermentans,2,<0.1,2020,Adult
+1929,Corynebacterium diphtheriae,2,<0.1,2020,Adult
+1930,Corynebacterium species not Corynebacterium jeikeium,2,<0.1,2020,Adult
+1931,Corynebacterium propinquum,2,<0.1,2020,Adult
+1932,Dermabacter,2,<0.1,2020,Adult
+1933,Dermacoccus,2,<0.1,2020,Adult
+1934,Dialister pneumosintes,2,<0.1,2020,Adult
+1935,Dietzia,2,<0.1,2020,Adult
+1936,Faecalibacterium,2,<0.1,2020,Adult
+1937,Flavonifractor plautii,2,<0.1,2020,Adult
+1938,Influenza B virus,2,<0.1,2020,Adult
+1939,Gram-negative diplococcus,2,<0.1,2020,Adult
+1940,Gram-positive diplococcus,2,<0.1,2020,Adult
+1941,Haemophilus parahaemolyticus,2,<0.1,2020,Adult
+1942,Helcococcus kunzii,2,<0.1,2020,Adult
+1943,Human metapneumovirus,2,<0.1,2020,Adult
+1944,Kluyvera cryocrescens,2,<0.1,2020,Adult
+1945,Kluyveromyces marxianus,2,<0.1,2020,Adult
+1946,Legionella,2,<0.1,2020,Adult
+1947,Moraxella osloensis,2,<0.1,2020,Adult
+1948,Mycobacterium gordonae,2,<0.1,2020,Adult
+1949,Mycobacterium avium,2,<0.1,2020,Adult
+1950,Nocardia,2,<0.1,2020,Adult
+1951,Ochrobactrum intermedium,2,<0.1,2020,Adult
+1952,Oligella urethralis,2,<0.1,2020,Adult
+1953,Pandoraea,2,<0.1,2020,Adult
+1954,Prevotella oralis group,2,<0.1,2020,Adult
+1955,Ralstonia mannitolilytica,2,<0.1,2020,Adult
+1956,Rhodotorula,2,<0.1,2020,Adult
+1957,Rothia dentocariosa,2,<0.1,2020,Adult
+1958,Human respiratory syncytial virus,2,<0.1,2020,Adult
+1959,Saccharomyces,2,<0.1,2020,Adult
+1960,Scedosporium apiospermum,2,<0.1,2020,Adult
+1961,Staphylococcus equorum linens,2,<0.1,2020,Adult
+1962,Staphylococcus cohnii subspecies urealyticus,2,<0.1,2020,Adult
+1963,Staphylococcus xylosus,2,<0.1,2020,Adult
+1964,Streptococcus constellatus subspecies pharyngis,2,<0.1,2020,Adult
+1965,Streptococcus equinus,2,<0.1,2020,Adult
+1966,Streptococcus infantarius,2,<0.1,2020,Adult
+1967,Trueperella,2,<0.1,2020,Adult
+1968,Weissella,2,<0.1,2020,Adult
+1969,Actinobacillus suis,1,<0.1,2020,Adult
+1970,Acinetobacter pittii,1,<0.1,2020,Adult
+1971,Acremonium,1,<0.1,2020,Adult
+1972,Actinomyces bovis,1,<0.1,2020,Adult
+1973,Actinotignum,1,<0.1,2020,Adult
+1974,Actinomyces israelii,1,<0.1,2020,Adult
+1975,Actinomyces viscosus,1,<0.1,2020,Adult
+1976,Aeromonas veronii,1,<0.1,2020,Adult
+1977,Aggregatibacter,1,<0.1,2020,Adult
+1978,Genus Alloscardovia,1,<0.1,2020,Adult
+1979,Anaerococcus tretradius,1,<0.1,2020,Adult
+1980,Aspergillus nidulans,1,<0.1,2020,Adult
+1981,Aspergillus terreus,1,<0.1,2020,Adult
+1982,Atopobium rimae,1,<0.1,2020,Adult
+1983,Bacillus thuringiensis,1,<0.1,2020,Adult
+1984,Bilophila,1,<0.1,2020,Adult
+1985,Blastoschizomyces,1,<0.1,2020,Adult
+1986,Bordetella hinzii,1,<0.1,2020,Adult
+1987,Brevundimonas vesicularis,1,<0.1,2020,Adult
+1988,Brevibacterium casei,1,<0.1,2020,Adult
+1989,Bacillus simplex,1,<0.1,2020,Adult
+1990,Bulleidia extructa,1,<0.1,2020,Adult
+1991,Burkholderia arboris,1,<0.1,2020,Adult
+1992,Campylobacter,1,<0.1,2020,Adult
+1993,Campylobacter ureolyticus,1,<0.1,2020,Adult
+1994,Candida bracarensis,1,<0.1,2020,Adult
+1995,Candida ciferrii,1,<0.1,2020,Adult
+1996,Candida sake,1,<0.1,2020,Adult
+1997,Cedecea davisae,1,<0.1,2020,Adult
+1998,Cedecea lapagei,1,<0.1,2020,Adult
+1999,Cedecea neteri,1,<0.1,2020,Adult
+2000,Cellulomonas,1,<0.1,2020,Adult
+2001,Chaetomium,1,<0.1,2020,Adult
+2002,Chryseobacterium gleum,1,<0.1,2020,Adult
+2003,Chryseomonas,1,<0.1,2020,Adult
+2004,Clavispora lusitaniae,1,<0.1,2020,Adult
+2005,Clostridium symbiosum,1,<0.1,2020,Adult
+2006,Corynebacterium accolens,1,<0.1,2020,Adult
+2007,Corynebacterium auriscanis,1,<0.1,2020,Adult
+2008,Corynebacterium imitans,1,<0.1,2020,Adult
+2009,Corynebacterium kroppenstedtii,1,<0.1,2020,Adult
+2010,"Corynebacterium species, not Corynebacterium diphtheriae",1,<0.1,2020,Adult
+2011,Corynebacterium pseudodiphtheriticum,1,<0.1,2020,Adult
+2012,Corynebacterium pyruviciproducens,1,<0.1,2020,Adult
+2013,Corynebacterium resistens,1,<0.1,2020,Adult
+2014,Cronobacter,1,<0.1,2020,Adult
+2015,Cryptobacterium,1,<0.1,2020,Adult
+2016,Cupriavidus,1,<0.1,2020,Adult
+2017,Curvularia,1,<0.1,2020,Adult
+2018,Curvularia lunata,1,<0.1,2020,Adult
+2019,Desulfovibrio,1,<0.1,2020,Adult
+2020,"EHEC, serotype O157:H7",1,<0.1,2020,Adult
+2021,Entamoeba coli,1,<0.1,2020,Adult
+2022,Enterococcus dispar,1,<0.1,2020,Adult
+2023,Enterococcus italicus,1,<0.1,2020,Adult
+2024,Enterobacter ludwigii,1,<0.1,2020,Adult
+2025,Enterococcus ratti,1,<0.1,2020,Adult
+2026,Enterococcus malodoratus,1,<0.1,2020,Adult
+2027,Genus Enterovirus,1,<0.1,2020,Adult
+2028,Ewingella americana,1,<0.1,2020,Adult
+2029,Exophiala jeanselmei,1,<0.1,2020,Adult
+2030,Facklamia hominis,1,<0.1,2020,Adult
+2031,Finegoldia,1,<0.1,2020,Adult
+2032,Fusobacterium canifelinum,1,<0.1,2020,Adult
+2033,Fusobacterium nucleatum ss fusiforme,1,<0.1,2020,Adult
+2034,Fusobacterium periodonticum,1,<0.1,2020,Adult
+2035,Gardnerella,1,<0.1,2020,Adult
+2036,Neisseria gonorrhoeae,1,<0.1,2020,Adult
+2037,Gordonia bronchialis,1,<0.1,2020,Adult
+2038,Aggregatibacter actinomycetemcomitans,1,<0.1,2020,Adult
+2039,Haemophilus haemoglobinophilus,1,<0.1,2020,Adult
+2040,Human herpes simplex virus type 2,1,<0.1,2020,Adult
+2041,Kluyvera intermedia,1,<0.1,2020,Adult
+2042,Kluyvera,1,<0.1,2020,Adult
+2043,Lachnoanaerobaculum orale,1,<0.1,2020,Adult
+2044,Lactobacillus iners,1,<0.1,2020,Adult
+2045,Lactobacillus salivarius,1,<0.1,2020,Adult
+2046,Leifsonia aquatica,1,<0.1,2020,Adult
+2047,Leptotrichia buccalis,1,<0.1,2020,Adult
+2048,Leptotrichia wadei,1,<0.1,2020,Adult
+2049,Listeria innocua,1,<0.1,2020,Adult
+2050,Malassezia furfur,1,<0.1,2020,Adult
+2051,Malassezia pachydermatis,1,<0.1,2020,Adult
+2052,Mobiluncus,1,<0.1,2020,Adult
+2053,Mogibacterium timidum,1,<0.1,2020,Adult
+2054,Moraxella lacunata,1,<0.1,2020,Adult
+2055,Mycobacterium goodii,1,<0.1,2020,Adult
+2056,Mycobacterium haemophilum,1,<0.1,2020,Adult
+2057,Mycobacterium immunogenum,1,<0.1,2020,Adult
+2058,Mycobacterium intracellulare,1,<0.1,2020,Adult
+2059,Mycobacterium phocaicum,1,<0.1,2020,Adult
+2060,Mycobacterium porcinum,1,<0.1,2020,Adult
+2061,Mycoplasma salivarium,1,<0.1,2020,Adult
+2062,Neisseria mucosa,1,<0.1,2020,Adult
+2063,Neisseria subflava,1,<0.1,2020,Adult
+2064,Nocardia farcinica,1,<0.1,2020,Adult
+2065,Oligella,1,<0.1,2020,Adult
+2066,Paecilomyces lilacinus,1,<0.1,2020,Adult
+2067,Paenibacillus,1,<0.1,2020,Adult
+2068,Pantoea dispersa,1,<0.1,2020,Adult
+2069,Parabacteroides goldsteinii,1,<0.1,2020,Adult
+2070,Paracoccus,1,<0.1,2020,Adult
+2071,Paracoccus yeei,1,<0.1,2020,Adult
+2072,Pasteurella dagmatis,1,<0.1,2020,Adult
+2073,Pasteurella multocida ss. gallicida,1,<0.1,2020,Adult
+2074,Pasteurella stomatis,1,<0.1,2020,Adult
+2075,Penicillium citrinum,1,<0.1,2020,Adult
+2076,Peptoniphilus lacrimalis,1,<0.1,2020,Adult
+2077,Porphyromonas asaccharolyticus,1,<0.1,2020,Adult
+2078,Porphyromonas gingivalis,1,<0.1,2020,Adult
+2079,Porphyromonas levii,1,<0.1,2020,Adult
+2080,Prevotella corporis,1,<0.1,2020,Adult
+2081,Prevotella dentalis,1,<0.1,2020,Adult
+2082,Prevotella heparinolytica,1,<0.1,2020,Adult
+2083,Prevotella pallens,1,<0.1,2020,Adult
+2084,Prototheca zopfii,1,<0.1,2020,Adult
+2085,Providencia rustigianii,1,<0.1,2020,Adult
+2086,Pseudomonas monteilii,1,<0.1,2020,Adult
+2087,Pseudoxanthomonas,1,<0.1,2020,Adult
+2088,Rahnella,1,<0.1,2020,Adult
+2089,Ralstonia pickettii,1,<0.1,2020,Adult
+2090,Ralstonia,1,<0.1,2020,Adult
+2091,Raoultella terrigena,1,<0.1,2020,Adult
+2092,Human rhinovirus,1,<0.1,2020,Adult
+2093,Rhinocladiella,1,<0.1,2020,Adult
+2094,Rhizopus microsporus,1,<0.1,2020,Adult
+2095,Rhodotorula minuta,1,<0.1,2020,Adult
+2096,Scedosporium boydii,1,<0.1,2020,Adult
+2097,Shewanella algae,1,<0.1,2020,Adult
+2098,Sneathia,1,<0.1,2020,Adult
+2099,Sphingobacterium spiritivorum,1,<0.1,2020,Adult
+2100,Staphylococcus arlettae,1,<0.1,2020,Adult
+2101,Staphylococcus condimenti,1,<0.1,2020,Adult
+2102,Staphylococcus gallinarum,1,<0.1,2020,Adult
+2103,Staphylococcus hominis novobiosepticus,1,<0.1,2020,Adult
+2104,Staphylococcus saprophyticus ss saprophyticus,1,<0.1,2020,Adult
+2105,Staphylococcus cohnii ss cohnii,1,<0.1,2020,Adult
+2106,Streptococcus alactolyticus,1,<0.1,2020,Adult
+2107,Small-colony-forming beta-hemolytic group A streptococci,1,<0.1,2020,Adult
+2108,Streptococcus equi,1,<0.1,2020,Adult
+2109,Streptococcus gallolyticus subspecies gallolyticus,1,<0.1,2020,Adult
+2110,Streptococcus infantis,1,<0.1,2020,Adult
+2111,Streptococcus iniae,1,<0.1,2020,Adult
+2112,Streptococcus lutetiensis,1,<0.1,2020,Adult
+2113,Streptococcus mutans group,1,<0.1,2020,Adult
+2114,Streptococcus peroris,1,<0.1,2020,Adult
+2115,Streptococcus pseudoporcinus,1,<0.1,2020,Adult
+2116,Streptococcus sanguinis group,1,<0.1,2020,Adult
+2117,Streptococcus salivarius subsp. salivarius,1,<0.1,2020,Adult
+2118,Mycobacterium tuberculosis complex,1,<0.1,2020,Adult
+2119,Tissierella,1,<0.1,2020,Adult
+2120,Trichosporon,1,<0.1,2020,Adult
+2121,Trichoderma,1,<0.1,2020,Adult
+2122,Turicella otitidis,1,<0.1,2020,Adult
+2123,Ureaplasma parvum,1,<0.1,2020,Adult
+2124,Vagococcus fluvialis,1,<0.1,2020,Adult
+2125,Veillonella atypica,1,<0.1,2020,Adult
+2126,Wangiella dermatitidis,1,<0.1,2020,Adult
+2127,Weeksella,1,<0.1,2020,Adult
+2128,Weeksella virosa,1,<0.1,2020,Adult
+2129,Escherichia coli,19298,15.476037724,2021,Adult
+2130,Staphylococcus aureus,12680,10.168730352,2021,Adult
+2131,Enterococcus faecalis,11907,9.548822737,2021,Adult
+2132,Pseudomonas aeruginosa,10037,8.049175595,2021,Adult
+2133,Klebsiella pneumoniae,6943,5.567941233,2021,Adult
+2134,Staphylococcus epidermidis,6340,5.084365176,2021,Adult
+2135,Enterococcus faecium,5191,4.162924232,2021,Adult
+2136,Candida albicans,5097,4.087540899,2021,Adult
+2137,Proteus mirabilis,3328,2.668890742,2021,Adult
+2138,Candida glabrata,2356,1.889395009,2021,Adult
+2139,Enterobacter cloacae complex,2122,1.701738628,2021,Adult
+2140,"Staphylococcus, coagulase negative",2049,1.643196253,2021,Adult
+2141,Enterobacter cloacae,1860,1.491627638,2021,Adult
+2142,Serratia marcescens,1853,1.486013986,2021,Adult
+2143,Klebsiella aerogenes,1631,1.30798101,2021,Adult
+2144,Klebsiella oxytoca,1434,1.149996792,2021,Adult
+2145,Bacteroides fragilis,1360,1.090652467,2021,Adult
+2146,Genus Enterococcus,1254,1.00564573,2021,Adult
+2147,Candida parapsilosis,1032,0.827612754,2021,Adult
+2148,Klebsiella pneumoniae ss. pneumoniae,1015,0.813979598,2021,Adult
+2149,Morganella morganii,762,0.611086162,2021,Adult
+2150,Stenotrophomonas maltophilia,711,0.570186694,2021,Adult
+2151,Citrobacter freundii,709,0.568582793,2021,Adult
+2152,Group B streptococcus,692,0.554949638,2021,Adult
+2153,Streptococcus anginosus,692,0.554949638,2021,Adult
+2154,Candida tropicalis,666,0.534098929,2021,Adult
+2155,Bacteroides thetaiotaomicron,607,0.486783858,2021,Adult
+2156,Yeast,541,0.433855136,2021,Adult
+2157,Citrobacter koseri,529,0.424231732,2021,Adult
+2158,Cutibacterium acnes,478,0.383332264,2021,Adult
+2159,Acinetobacter baumannii,476,0.381728363,2021,Adult
+2160,Lactobacillus,427,0.342432797,2021,Adult
+2161,Staphylococcus lugdunensis,419,0.336017194,2021,Adult
+2162,Enterococcus avium,402,0.322384038,2021,Adult
+2163,Gram-negative bacillus,402,0.322384038,2021,Adult
+2164,"Streptococcus, viridans group",351,0.28148457,2021,Adult
+2165,Candida dubliniensis,349,0.27988067,2021,Adult
+2166,Streptococcus mitis group,324,0.259831911,2021,Adult
+2167,Gram-positive coccus,302,0.242189004,2021,Adult
+2168,Bacteroides fragilis group,299,0.239783153,2021,Adult
+2169,Streptococcus mitis,298,0.238981202,2021,Adult
+2170,Staphylococcus haemolyticus,296,0.237377302,2021,Adult
+2171,Staphylococcus,286,0.229357798,2021,Adult
+2172,Streptococcus anginosus group,263,0.21091294,2021,Adult
+2173,Corynebacterium,261,0.20930904,2021,Adult
+2174,Bacteroides ovatus,238,0.190864182,2021,Adult
+2175,Staphylococcus capitis,237,0.190062231,2021,Adult
+2176,Staphylococcus hominis,236,0.189260281,2021,Adult
+2177,Corynebacterium striatum,234,0.18765638,2021,Adult
+2178,Finegoldia magna,226,0.181240778,2021,Adult
+2179,Candida krusei,225,0.180438827,2021,Adult
+2180,Enterococcus gallinarum,210,0.168409572,2021,Adult
+2181,Streptococcus constellatus,204,0.16359787,2021,Adult
+2182,Candida lusitaniae,198,0.158786168,2021,Adult
+2183,Diphtheroids,198,0.158786168,2021,Adult
+2184,Streptococcus,197,0.157984218,2021,Adult
+2185,Candida auris,194,0.155578367,2021,Adult
+2186,Bacteroides vulgatus,187,0.149964714,2021,Adult
+2187,Klebsiella variicola,187,0.149964714,2021,Adult
+2188,Proteus vulgaris,181,0.145153012,2021,Adult
+2189,Prevotella bivia,176,0.14114326,2021,Adult
+2190,Clostridium perfringens,174,0.13953936,2021,Adult
+2191,Candida,171,0.137133509,2021,Adult
+2192,Providencia stuartii,160,0.128312055,2021,Adult
+2193,Bacteroides,151,0.121094502,2021,Adult
+2194,Gram-positive bacillus,148,0.118688651,2021,Adult
+2195,Clostridium innocuum,144,0.115480849,2021,Adult
+2196,Klebsiella,143,0.114678899,2021,Adult
+2197,Haemophilus influenzae,136,0.109065247,2021,Adult
+2198,Prevotella,135,0.108263296,2021,Adult
+2199,Streptococcus pneumoniae,135,0.108263296,2021,Adult
+2200,Rothia mucilaginosa,125,0.100243793,2021,Adult
+2201,Acinetobacter calcoaceticus-Acinetobacter baumannii complex,124,0.099441843,2021,Adult
+2202,Enterococcus raffinosus,122,0.097837942,2021,Adult
+2203,Lactobacillus rhamnosus,117,0.09382819,2021,Adult
+2204,Clostridium tertium,115,0.092224289,2021,Adult
+2205,Bacillus,113,0.090620389,2021,Adult
+2206,Granulicatella adiacens,112,0.089818438,2021,Adult
+2207,Citrobacter braakii,111,0.089016488,2021,Adult
+2208,Clostridium,111,0.089016488,2021,Adult
+2209,Clostridium ramosum,106,0.085006736,2021,Adult
+2210,Alpha-hemolytic streptococcus,105,0.084204786,2021,Adult
+2211,Citrobacter amalonaticus,105,0.084204786,2021,Adult
+2212,Eggerthella lenta,105,0.084204786,2021,Adult
+2213,Fusobacterium nucleatum,104,0.083402836,2021,Adult
+2214,Staphylococcus hominis hominis,102,0.081798935,2021,Adult
+2215,Parabacteroides distasonis,99,0.079393084,2021,Adult
+2216,Enterobacter,98,0.078591134,2021,Adult
+2217,Pseudomonas,98,0.078591134,2021,Adult
+2218,Acinetobacter,95,0.076185283,2021,Adult
+2219,Providencia rettgeri,95,0.076185283,2021,Adult
+2220,Streptococcus intermedius,95,0.076185283,2021,Adult
+2221,Beta-hemolytic streptococcus,92,0.073779432,2021,Adult
+2222,Hafnia alvei,90,0.072175531,2021,Adult
+2223,Anaerobic Gram-negative bacillus,82,0.065759928,2021,Adult
+2224,Cutibacterium,82,0.065759928,2021,Adult
+2225,Burkholderia cepacia,80,0.064156027,2021,Adult
+2226,Haemophilus parainfluenzae,79,0.063354077,2021,Adult
+2227,Pseudomonas putida,79,0.063354077,2021,Adult
+2228,Candida parapsilosis complex,76,0.0609482,2021,Adult
+2229,Clostridium clostridioforme,76,0.0609482,2021,Adult
+2230,Streptococcus pyogenes,76,0.0609482,2021,Adult
+2231,Peptostreptococcus,75,0.0601463,2021,Adult
+2232,Actinomyces,73,0.0585424,2021,Adult
+2233,Gemella haemolysans,72,0.0577404,2021,Adult
+2234,Achromobacter xylosoxidans,71,0.0569385,2021,Adult
+2235,Bacteroides uniformis,71,0.0569385,2021,Adult
+2236,Peptoniphilus asaccharolyticus,70,0.0561365,2021,Adult
+2237,Aerococcus urinae,67,0.0537307,2021,Adult
+2238,Prevotella melaninogenica,67,0.0537307,2021,Adult
+2239,Enterococcus casseliflavus,66,0.0529287,2021,Adult
+2240,Propionibacterium,66,0.0529287,2021,Adult
+2241,Prevotella buccae,65,0.0521268,2021,Adult
+2242,Streptococcus dysgalactiae,65,0.0521268,2021,Adult
+2243,Bifidobacterium,64,0.0513248,2021,Adult
+2244,Eikenella corrodens,64,0.0513248,2021,Adult
+2245,Gardnerella vaginalis,62,<0.1,2021,Adult
+2246,Raoultella ornithinolytica,62,<0.1,2021,Adult
+2247,Staphylococcus simulans,61,<0.1,2021,Adult
+2248,Bacteroides caccae,59,<0.1,2021,Adult
+2249,Proteus penneri,59,<0.1,2021,Adult
+2250,Saccharomyces cerevisiae,58,<0.1,2021,Adult
+2251,Actinomyces odontolyticus,57,<0.1,2021,Adult
+2252,Staphylococcus warneri,57,<0.1,2021,Adult
+2253,SARS-CoV-2,56,<0.1,2021,Adult
+2254,Proteus,56,<0.1,2021,Adult
+2255,Anaerobe,55,<0.1,2021,Adult
+2256,Corynebacterium amycolatum,55,<0.1,2021,Adult
+2257,"Streptococcus, group C",55,<0.1,2021,Adult
+2258,Parvimonas micra,54,<0.1,2021,Adult
+2259,Clostridioides difficile,52,<0.1,2021,Adult
+2260,Anaerobic Gram-positive coccus,51,<0.1,2021,Adult
+2261,Candida guilliermondii,51,<0.1,2021,Adult
+2262,Citrobacter,51,<0.1,2021,Adult
+2263,Prevotella denticola,51,<0.1,2021,Adult
+2264,Fusobacterium,50,<0.1,2021,Adult
+2265,Pseudomonas fluorescens,50,<0.1,2021,Adult
+2266,Enterobacter hormaechei,48,<0.1,2021,Adult
+2267,Peptostreptococcus anaerobius,45,<0.1,2021,Adult
+2268,Burkholderia cepacia complex,44,<0.1,2021,Adult
+2269,Streptococcus parasanguinis,44,<0.1,2021,Adult
+2270,Streptococcus sanguinis,43,<0.1,2021,Adult
+2271,Anaerobic Gram-positive bacillus,42,<0.1,2021,Adult
+2272,Escherichia,42,<0.1,2021,Adult
+2273,Streptococcus oralis,41,<0.1,2021,Adult
+2274,Actinomyces turicensis,40,<0.1,2021,Adult
+2275,Raoultella planticola,40,<0.1,2021,Adult
+2276,"Streptococcus, group G",39,<0.1,2021,Adult
+2277,Aspergillus fumigatus,38,<0.1,2021,Adult
+2278,Staphylococcus pseudintermedius,37,<0.1,2021,Adult
+2279,Citrobacter youngae,35,<0.1,2021,Adult
+2280,Leptotrichia,35,<0.1,2021,Adult
+2281,Peptoniphilus harei,35,<0.1,2021,Adult
+2282,Citrobacter farmeri,34,<0.1,2021,Adult
+2283,Enterococcus durans,34,<0.1,2021,Adult
+2284,Pantoea,34,<0.1,2021,Adult
+2285,Staphylococcus caprae,34,<0.1,2021,Adult
+2286,Pantoea agglomerans,33,<0.1,2021,Adult
+2287,Acinetobacter lwoffi,32,<0.1,2021,Adult
+2288,Clostridium septicum,32,<0.1,2021,Adult
+2289,"Staphylococcus, coagulase positive",32,<0.1,2021,Adult
+2290,Veillonella,32,<0.1,2021,Adult
+2291,Bacillus cereus,31,<0.1,2021,Adult
+2292,Serratia liquefaciens,31,<0.1,2021,Adult
+2293,Enterococcus hirae,30,<0.1,2021,Adult
+2294,Mycoplasma hominis,30,<0.1,2021,Adult
+2295,"Beta-hemolytic streptococcus, non-Group A, non-Group B",30,<0.1,2021,Adult
+2296,Achromobacter,29,<0.1,2021,Adult
+2297,Candida kefyr,29,<0.1,2021,Adult
+2298,Fermentative Gram-negative bacillus,29,<0.1,2021,Adult
+2299,Gemella,28,<0.1,2021,Adult
+2300,Propionibacterium avidum,28,<0.1,2021,Adult
+2301,Pseudomonas stutzeri,28,<0.1,2021,Adult
+2302,Gemella morbillorum,27,<0.1,2021,Adult
+2303,Streptococcus salivarius,27,<0.1,2021,Adult
+2304,Veillonella parvula,27,<0.1,2021,Adult
+2305,Human coronavirus,26,<0.1,2021,Adult
+2306,Streptococcus salivarius group,26,<0.1,2021,Adult
+2307,Eggerthella,25,<0.1,2021,Adult
+2308,Enterobacteriaceae,25,<0.1,2021,Adult
+2309,"Streptococcus, group F",25,<0.1,2021,Adult
+2310,Klebsiella pneumoniae ss. ozaenae,25,<0.1,2021,Adult
+2311,Virus,25,<0.1,2021,Adult
+2312,Actinomyces neuii,24,<0.1,2021,Adult
+2313,Corynebacterium jeikeium,24,<0.1,2021,Adult
+2314,Proteus hauseri,24,<0.1,2021,Adult
+2315,Streptococcus gallolyticus,24,<0.1,2021,Adult
+2316,Streptococcus gordonii,24,<0.1,2021,Adult
+2317,Chryseobacterium indologenes,23,<0.1,2021,Adult
+2318,Lactobacillus casei,23,<0.1,2021,Adult
+2319,Moraxella catarrhalis,22,<0.1,2021,Adult
+2320,Pasteurella multocida,22,<0.1,2021,Adult
+2321,Prevotella oralis,22,<0.1,2021,Adult
+2322,Prevotella oris,22,<0.1,2021,Adult
+2323,Abiotrophia defectiva,22,<0.1,2021,Adult
+2324,Citrobacter sedlakii,21,<0.1,2021,Adult
+2325,Pluralibacter gergoviae,21,<0.1,2021,Adult
+2326,Sphingomonas paucimobilis,21,<0.1,2021,Adult
+2327,Staphylococcus intermedius,21,<0.1,2021,Adult
+2328,Acinetobacter ursingii,20,<0.1,2021,Adult
+2329,Aeromonas hydrophila,20,<0.1,2021,Adult
+2330,Candida orthopsilosis,20,<0.1,2021,Adult
+2331,Prevotella disiens,20,<0.1,2021,Adult
+2332,Serratia,20,<0.1,2021,Adult
+2333,Peptoniphilus,19,<0.1,2021,Adult
+2334,"Beta-hemolytic Streptococcus, group A",19,<0.1,2021,Adult
+2335,Bacillus species not Bacillus anthracis,18,<0.1,2021,Adult
+2336,Bifidobacterium breve,18,<0.1,2021,Adult
+2337,Burkholderia gladioli,18,<0.1,2021,Adult
+2338,Capnocytophaga sputigena,18,<0.1,2021,Adult
+2339,Clostridium cadaveris,18,<0.1,2021,Adult
+2340,"Clostridium species, not Clostridium perfringens",18,<0.1,2021,Adult
+2341,Micrococcus luteus,18,<0.1,2021,Adult
+2342,Mycobacterium abscessus,18,<0.1,2021,Adult
+2343,Trueperella bernardiae,18,<0.1,2021,Adult
+2344,Anaerococcus prevotii,17,<0.1,2021,Adult
+2345,Capnocytophaga,17,<0.1,2021,Adult
+2346,Eubacterium limosum,17,<0.1,2021,Adult
+2347,Streptococcus dysgalactiae subsp. equisimilis,17,<0.1,2021,Adult
+2348,Fusarium,16,<0.1,2021,Adult
+2349,Serratia odorifera,16,<0.1,2021,Adult
+2350,Staphylococcus schleiferi,16,<0.1,2021,Adult
+2351,Achromobacter denitrificans,15,<0.1,2021,Adult
+2352,Alcaligenes faecalis,15,<0.1,2021,Adult
+2353,Alpha-hemolytic Streptococcus species not Streptococcus pneumoniae,15,<0.1,2021,Adult
+2354,Burkholderia multivorans,15,<0.1,2021,Adult
+2355,Enterobacter asburiae,15,<0.1,2021,Adult
+2356,Leuconostoc,15,<0.1,2021,Adult
+2357,Micrococcus,15,<0.1,2021,Adult
+2358,Neisseria,15,<0.1,2021,Adult
+2359,Rothia,15,<0.1,2021,Adult
+2360,Acinetobacter pittii,14,<0.1,2021,Adult
+2361,Acinetobacter radioresistens,14,<0.1,2021,Adult
+2362,Aerobic bacteria,14,<0.1,2021,Adult
+2363,Aeromonas,14,<0.1,2021,Adult
+2364,Aspergillus,14,<0.1,2021,Adult
+2365,Clostridium paraputrificum,14,<0.1,2021,Adult
+2366,Delftia acidovorans,14,<0.1,2021,Adult
+2367,Moraxella,14,<0.1,2021,Adult
+2368,Salmonella,14,<0.1,2021,Adult
+2369,Candida metapsilosis,13,<0.1,2021,Adult
+2370,Clostridium sordellii,13,<0.1,2021,Adult
+2371,Corynebacterium aurimucosum,13,<0.1,2021,Adult
+2372,Coryneform bacteria,13,<0.1,2021,Adult
+2373,Dermabacter hominis,13,<0.1,2021,Adult
+2374,Gemella sanguinis,13,<0.1,2021,Adult
+2375,Lactobacillus gasseri,13,<0.1,2021,Adult
+2376,Prevotella intermedia,13,<0.1,2021,Adult
+2377,Pseudomonas oryzihabitans,13,<0.1,2021,Adult
+2378,Staphylococcus capitis ss capitis,13,<0.1,2021,Adult
+2379,Acinetobacter calcoaceticus,12,<0.1,2021,Adult
+2380,Anaerococcus vaginalis,12,<0.1,2021,Adult
+2381,Leptotrichia trevisanii,12,<0.1,2021,Adult
+2382,Mycobacterium fortuitum,12,<0.1,2021,Adult
+2383,Ochrobactrum anthropi,12,<0.1,2021,Adult
+2384,Staphylococcus auricularis,12,<0.1,2021,Adult
+2385,Anaerococcus,11,<0.1,2021,Adult
+2386,Bacteroides eggerthii,11,<0.1,2021,Adult
+2387,Bacteroides pyogenes,11,<0.1,2021,Adult
+2388,Debaryomyces hansenii,11,<0.1,2021,Adult
+2389,Clostridium sporogenes,11,<0.1,2021,Adult
+2390,Corynebacterium tuberculostearicum,11,<0.1,2021,Adult
+2391,Fusobacterium necrophorum,11,<0.1,2021,Adult
+2392,Fusobacterium varium,11,<0.1,2021,Adult
+2393,Hafnia,11,<0.1,2021,Adult
+2394,Parabacteroides,11,<0.1,2021,Adult
+2395,Porphyromonas,11,<0.1,2021,Adult
+2396,Streptococcus bovis group,11,<0.1,2021,Adult
+2397,Streptococcus constellatus subspecies constellatus,11,<0.1,2021,Adult
+2398,Acid-fast bacillus,10,<0.1,2021,Adult
+2399,Candida stellatoidea,10,<0.1,2021,Adult
+2400,Coliform bacteria,10,<0.1,2021,Adult
+2401,Gardnerella,10,<0.1,2021,Adult
+2402,Morganella morganii subsp sibonii,10,<0.1,2021,Adult
+2403,"Mycobacterium, avium-intracellulare group",10,<0.1,2021,Adult
+2404,Pediococcus acidilactici,10,<0.1,2021,Adult
+2405,Prevotella loescheii,10,<0.1,2021,Adult
+2406,Raoultella,10,<0.1,2021,Adult
+2407,Serratia rubidaea,10,<0.1,2021,Adult
+2408,Staphylococcus saprophyticus,10,<0.1,2021,Adult
+2409,Staphylococcus saccharolyticus,10,<0.1,2021,Adult
+2410,Trichosporon asahii,10,<0.1,2021,Adult
+2411,Abiotrophia,9,<0.1,2021,Adult
+2412,Anaerococcus tetradius,9,<0.1,2021,Adult
+2413,Bacillus cereus group,9,<0.1,2021,Adult
+2414,Burkholderia,9,<0.1,2021,Adult
+2415,Cronobacter sakazakii,9,<0.1,2021,Adult
+2416,Enterobacter cloacae subspecies dissolvens,9,<0.1,2021,Adult
+2417,Gram-negative coccus,9,<0.1,2021,Adult
+2418,gamma-hemolytic streptococcus,9,<0.1,2021,Adult
+2419,Kluyvera ascorbata,9,<0.1,2021,Adult
+2420,Lactococcus lactis,9,<0.1,2021,Adult
+2421,Moraxella osloensis,9,<0.1,2021,Adult
+2422,Streptococcus anginosus-constellatus,9,<0.1,2021,Adult
+2423,Small-colony-forming beta-hemolytic group C streptococci,9,<0.1,2021,Adult
+2424,Small-colony-forming beta-hemolytic group G streptococci,9,<0.1,2021,Adult
+2425,Streptococcus canis,9,<0.1,2021,Adult
+2426,Acinetobacter haemolyticus,8,<0.1,2021,Adult
+2427,Acinetobacter nosocomialis,8,<0.1,2021,Adult
+2428,Acinetobacter junii,8,<0.1,2021,Adult
+2429,Actinotignum schaalii,8,<0.1,2021,Adult
+2430,Citrobacter werkmanii,8,<0.1,2021,Adult
+2431,Genus Clostridioides,8,<0.1,2021,Adult
+2432,Clostridium subterminale,8,<0.1,2021,Adult
+2433,Corynebacterium pseudodiphtheriticum,8,<0.1,2021,Adult
+2434,Escherichia hermannii,8,<0.1,2021,Adult
+2435,Gram-variable bacillus,8,<0.1,2021,Adult
+2436,Lactobacillus fermentum,8,<0.1,2021,Adult
+2437,Leptotrichia wadei,8,<0.1,2021,Adult
+2438,Mycobacterium,8,<0.1,2021,Adult
+2439,Staphylococcus cohnii,8,<0.1,2021,Adult
+2440,Staphylococcus pettenkoferi,8,<0.1,2021,Adult
+2441,Stenotrophomonas,8,<0.1,2021,Adult
+2442,Tissierella praeacuta,8,<0.1,2021,Adult
+2443,Actinomyces europaeus,7,<0.1,2021,Adult
+2444,Aureimonas altamirensis,7,<0.1,2021,Adult
+2445,Bacteroides stercoris,7,<0.1,2021,Adult
+2446,Bilophila wadsworthia,7,<0.1,2021,Adult
+2447,Candida guilliermondii var membranaefaciens,7,<0.1,2021,Adult
+2448,Curtobacterium,7,<0.1,2021,Adult
+2449,Enteropathogenic Escherichia coli,7,<0.1,2021,Adult
+2450,Finegoldia,7,<0.1,2021,Adult
+2451,Fusobacterium mortiferum,7,<0.1,2021,Adult
+2452,Geotrichum,7,<0.1,2021,Adult
+2453,Non-fermentative Gram-negative bacillus,7,<0.1,2021,Adult
+2454,Granulicatella,7,<0.1,2021,Adult
+2455,Lactococcus,7,<0.1,2021,Adult
+2456,Leclercia adecarboxylata,7,<0.1,2021,Adult
+2457,Mycobacterium mucogenicum,7,<0.1,2021,Adult
+2458,Serratia fonticola,7,<0.1,2021,Adult
+2459,Sphingomonas,7,<0.1,2021,Adult
+2460,Streptococcus gallolyticus subspecies pasteurianus,7,<0.1,2021,Adult
+2461,Achromobacter xylosoxidans xylosoxidans,6,<0.1,2021,Adult
+2462,Aerococcus,6,<0.1,2021,Adult
+2463,Aerococcus viridans,6,<0.1,2021,Adult
+2464,Alistipes,6,<0.1,2021,Adult
+2465,Parabacteroides merdae,6,<0.1,2021,Adult
+2466,Candida duobushaemulonii,6,<0.1,2021,Adult
+2467,Clostridium bifermentans,6,<0.1,2021,Adult
+2468,Clostridium butyricum,6,<0.1,2021,Adult
+2469,Corynebacterium minutissimum,6,<0.1,2021,Adult
+2470,Corynebacterium propinquum,6,<0.1,2021,Adult
+2471,Elizabethkingia meningoseptica,6,<0.1,2021,Adult
+2472,Enterobacter kobei,6,<0.1,2021,Adult
+2473,Fusobacterium nucleatum ss nucleatum,6,<0.1,2021,Adult
+2474,"Streptococcus, group D",6,<0.1,2021,Adult
+2475,Haemophilus,6,<0.1,2021,Adult
+2476,Lactobacillus jensenii,6,<0.1,2021,Adult
+2477,Genus Mycoplasma,6,<0.1,2021,Adult
+2478,Pichia kudriavzevii,6,<0.1,2021,Adult
+2479,Propionibacterium granulosum,6,<0.1,2021,Adult
+2480,Providencia,6,<0.1,2021,Adult
+2481,Staphylococcus capitis subspecies urealyticus,6,<0.1,2021,Adult
+2482,Staphylococcus pasteuri,6,<0.1,2021,Adult
+2483,Actinomyces meyeri,5,<0.1,2021,Adult
+2484,Actinomyces radingae,5,<0.1,2021,Adult
+2485,Aerococcus sanguinicola,5,<0.1,2021,Adult
+2486,Burkholderia cenocepacia,5,<0.1,2021,Adult
+2487,Campylobacter,5,<0.1,2021,Adult
+2488,Corynebacterium species not Corynebacterium jeikeium,5,<0.1,2021,Adult
+2489,Desulfovibrio,5,<0.1,2021,Adult
+2490,Enterobacter cancerogenus,5,<0.1,2021,Adult
+2491,Eubacterium,5,<0.1,2021,Adult
+2492,Aggregatibacter aphrophilus,5,<0.1,2021,Adult
+2493,Kluyvera intermedia,5,<0.1,2021,Adult
+2494,Kocuria kristinae,5,<0.1,2021,Adult
+2495,Lactobacillus acidophilus,5,<0.1,2021,Adult
+2496,Lactobacillus paracasei,5,<0.1,2021,Adult
+2497,Mold,5,<0.1,2021,Adult
+2498,Mucor,5,<0.1,2021,Adult
+2499,Mycobacterium chelonae,5,<0.1,2021,Adult
+2500,Mycobacterium avium,5,<0.1,2021,Adult
+2501,Pediococcus,5,<0.1,2021,Adult
+2502,Rahnella aquatilis,5,<0.1,2021,Adult
+2503,Staphylococcus sciuri,5,<0.1,2021,Adult
+2504,Streptococcus dysgalactiae subsp. dysgalactiae,5,<0.1,2021,Adult
+2505,Streptococcus vestibularis,5,<0.1,2021,Adult
+2506,Actinomyces naeslundii,4,<0.1,2021,Adult
+2507,Aeromonas caviae,4,<0.1,2021,Adult
+2508,Aggregatibacter,4,<0.1,2021,Adult
+2509,Anaerobic Gram-negative coccus,4,<0.1,2021,Adult
+2510,Aspergillus niger,4,<0.1,2021,Adult
+2511,Bacteroides nordii,4,<0.1,2021,Adult
+2512,Campylobacter gracilis,4,<0.1,2021,Adult
+2513,Campylobacter ureolyticus,4,<0.1,2021,Adult
+2514,Candida bracarensis,4,<0.1,2021,Adult
+2515,Candida lipolytica,4,<0.1,2021,Adult
+2516,Candida utilis,4,<0.1,2021,Adult
+2517,Chryseobacterium,4,<0.1,2021,Adult
+2518,Cladosporium,4,<0.1,2021,Adult
+2519,Dialister pneumosintes,4,<0.1,2021,Adult
+2520,Aerobic diphtheroids,4,<0.1,2021,Adult
+2521,Anaerobic diphtheroids,4,<0.1,2021,Adult
+2522,Enterobacter amnigenus,4,<0.1,2021,Adult
+2523,Enterobacter ludwigii,4,<0.1,2021,Adult
+2524,Fungi,4,<0.1,2021,Adult
+2525,Gram-negative coccobacillus,4,<0.1,2021,Adult
+2526,Granulicatella elegans,4,<0.1,2021,Adult
+2527,Haemophilus haemolyticus,4,<0.1,2021,Adult
+2528,Kocuria,4,<0.1,2021,Adult
+2529,Leptotrichia buccalis,4,<0.1,2021,Adult
+2530,Leuconostoc lactis,4,<0.1,2021,Adult
+2531,Mycobacterium fortuitum complex,4,<0.1,2021,Adult
+2532,Nocardia,4,<0.1,2021,Adult
+2533,Paenibacillus,4,<0.1,2021,Adult
+2534,Parvimonas,4,<0.1,2021,Adult
+2535,Penicillium,4,<0.1,2021,Adult
+2536,Kodamaea ohmeri,4,<0.1,2021,Adult
+2537,Porphyromonas somerae,4,<0.1,2021,Adult
+2538,Prevotella oralis group,4,<0.1,2021,Adult
+2539,Pseudomonas mendocina,4,<0.1,2021,Adult
+2540,Peptococcus,4,<0.1,2021,Adult
+2541,Rhodotorula,4,<0.1,2021,Adult
+2542,Shewanella putrefaciens,4,<0.1,2021,Adult
+2543,Staphylococcus cohnii ss cohnii,4,<0.1,2021,Adult
+2544,Staphylococcus xylosus,4,<0.1,2021,Adult
+2545,Streptococcus constellatus subspecies pharyngis,4,<0.1,2021,Adult
+2546,Streptococcus mutans,4,<0.1,2021,Adult
+2547,Trichosporon,4,<0.1,2021,Adult
+2548,Veillonella dispar,4,<0.1,2021,Adult
+2549,Aeromonas hydrophila complex,3,<0.1,2021,Adult
+2550,Aeromonas sobria,3,<0.1,2021,Adult
+2551,Aeromonas veronii,3,<0.1,2021,Adult
+2552,Aggregatibacter segnis,3,<0.1,2021,Adult
+2553,Alloscardovia omnicolens,3,<0.1,2021,Adult
+2554,Alcaligenes xylosoxidans ss. xylosoxidans,3,<0.1,2021,Adult
+2555,Bacillus circulans,3,<0.1,2021,Adult
+2556,Bifidobacterium longum,3,<0.1,2021,Adult
+2557,Candida pararugosa,3,<0.1,2021,Adult
+2558,Capnocytophaga gingivalis,3,<0.1,2021,Adult
+2559,Chryseobacterium gleum,3,<0.1,2021,Adult
+2560,Chryseomonas luteola,3,<0.1,2021,Adult
+2561,Clavispora lusitaniae,3,<0.1,2021,Adult
+2562,Clostridium baratii,3,<0.1,2021,Adult
+2563,Clostridium glycolicum,3,<0.1,2021,Adult
+2564,Comamonas testosteroni,3,<0.1,2021,Adult
+2565,Corynebacterium coyleae,3,<0.1,2021,Adult
+2566,Corynebacterium urealyticum,3,<0.1,2021,Adult
+2567,Entamoeba coli,3,<0.1,2021,Adult
+2568,Fusobacterium periodonticum,3,<0.1,2021,Adult
+2569,Klebsiella pneumoniae ss. rhinoscleromatis,3,<0.1,2021,Adult
+2570,Eggerthia catenaformis,3,<0.1,2021,Adult
+2571,Lactobacillus salivarius,3,<0.1,2021,Adult
+2572,Lactococcus garvieae,3,<0.1,2021,Adult
+2573,Leptotrichia goodfellowii,3,<0.1,2021,Adult
+2574,Leuconostoc pseudomesenteroides,3,<0.1,2021,Adult
+2575,Mobiluncus,3,<0.1,2021,Adult
+2576,Neisseria sicca,3,<0.1,2021,Adult
+2577,Neisseria meningitidis,3,<0.1,2021,Adult
+2578,Oligella urethralis,3,<0.1,2021,Adult
+2579,Parabacteroides goldsteinii,3,<0.1,2021,Adult
+2580,Pasteurella multocida ss. multocida,3,<0.1,2021,Adult
+2581,Pasteurella,3,<0.1,2021,Adult
+2582,Pediococcus pentosaceus,3,<0.1,2021,Adult
+2583,Prevotella dentalis,3,<0.1,2021,Adult
+2584,Prevotella nigrescens,3,<0.1,2021,Adult
+2585,Providencia alcalifaciens,3,<0.1,2021,Adult
+2586,Pseudoflavonifractor capillosus,3,<0.1,2021,Adult
+2587,Ralstonia pickettii,3,<0.1,2021,Adult
+2588,Rhizopus,3,<0.1,2021,Adult
+2589,Rhodotorula rubra,3,<0.1,2021,Adult
+2590,Ruminococcus gnavus,3,<0.1,2021,Adult
+2591,Saccharomyces,3,<0.1,2021,Adult
+2592,Shewanella algae,3,<0.1,2021,Adult
+2593,Solobacterium moorei,3,<0.1,2021,Adult
+2594,Sphingomonas parapaucimobilis,3,<0.1,2021,Adult
+2595,Staphylococcus schleiferi subsp. coagulans,3,<0.1,2021,Adult
+2596,Staphylococcus cohnii subspecies urealyticus,3,<0.1,2021,Adult
+2597,Streptococcus cristatus,3,<0.1,2021,Adult
+2598,Streptococcus pseudoporcinus,3,<0.1,2021,Adult
+2599,Weeksella virosa,3,<0.1,2021,Adult
+2600,Acidovorax temperans,2,<0.1,2021,Adult
+2601,Actinomyces israelii,2,<0.1,2021,Adult
+2602,Actinomyces oris,2,<0.1,2021,Adult
+2603,Aspergillus flavus,2,<0.1,2021,Adult
+2604,Alcaligenes,2,<0.1,2021,Adult
+2605,Arcanobacterium haemolyticum,2,<0.1,2021,Adult
+2606,Atopobium parvulum,2,<0.1,2021,Adult
+2607,Atopobium rimae,2,<0.1,2021,Adult
+2608,Atopobium,2,<0.1,2021,Adult
+2609,Bipolaris,2,<0.1,2021,Adult
+2610,Bordetella bronchiseptica,2,<0.1,2021,Adult
+2611,Bordetella,2,<0.1,2021,Adult
+2612,Bordetella trematum,2,<0.1,2021,Adult
+2613,Brevundimonas diminuta,2,<0.1,2021,Adult
+2614,Brevibacterium,2,<0.1,2021,Adult
+2615,Bacillus subtilis,2,<0.1,2021,Adult
+2616,Campylobacter rectus,2,<0.1,2021,Adult
+2617,Candida ciferrii,2,<0.1,2021,Adult
+2618,Candida nivariensis,2,<0.1,2021,Adult
+2619,Candida norvegensis,2,<0.1,2021,Adult
+2620,Candida zeylanoides,2,<0.1,2021,Adult
+2621,Capnocytophaga ochracea,2,<0.1,2021,Adult
+2622,Catabacter hongkongensis,2,<0.1,2021,Adult
+2623,Cedecea neteri,2,<0.1,2021,Adult
+2624,Citrobacter rodentium,2,<0.1,2021,Adult
+2625,Clostridium histolyticum,2,<0.1,2021,Adult
+2626,Clostridium symbiosum,2,<0.1,2021,Adult
+2627,Corynebacterium accolens,2,<0.1,2021,Adult
+2628,Corynebacterium durum,2,<0.1,2021,Adult
+2629,Corynebacterium kroppenstedtii,2,<0.1,2021,Adult
+2630,Cupriavidus pauculus,2,<0.1,2021,Adult
+2631,Cyberlindnera fabianii,2,<0.1,2021,Adult
+2632,Dermacoccus,2,<0.1,2021,Adult
+2633,Dialister,2,<0.1,2021,Adult
+2634,Desulfovibrio desulfuricans,2,<0.1,2021,Adult
+2635,"EHEC, serotype O157:H7",2,<0.1,2021,Adult
+2636,Eggerthia,2,<0.1,2021,Adult
+2637,Eikenella,2,<0.1,2021,Adult
+2638,Erysipelothrix rhusiopathiae,2,<0.1,2021,Adult
+2639,Escherichia albertii,2,<0.1,2021,Adult
+2640,Escherichia fergusonii,2,<0.1,2021,Adult
+2641,Escherichia vulneris,2,<0.1,2021,Adult
+2642,Ewingella americana,2,<0.1,2021,Adult
+2643,Facklamia hominis,2,<0.1,2021,Adult
+2644,Facklamia,2,<0.1,2021,Adult
+2645,Neisseria gonorrhoeae,2,<0.1,2021,Adult
+2646,Globicatella sanguinis,2,<0.1,2021,Adult
+2647,Gordonia bronchialis,2,<0.1,2021,Adult
+2648,Haemophilus parahaemolyticus,2,<0.1,2021,Adult
+2649,Kluyveromyces marxianus,2,<0.1,2021,Adult
+2650,Lactobacillus reuteri,2,<0.1,2021,Adult
+2651,Leuconostoc citreum,2,<0.1,2021,Adult
+2652,Leuconostoc mesenteroides,2,<0.1,2021,Adult
+2653,Mobiluncus curtisii,2,<0.1,2021,Adult
+2654,Moraxella nonliquefaciens,2,<0.1,2021,Adult
+2655,Morganella,2,<0.1,2021,Adult
+2656,Mycobacterium gordonae,2,<0.1,2021,Adult
+2657,Mycobacterium intracellulare,2,<0.1,2021,Adult
+2658,Mycobacterium smegmatis,2,<0.1,2021,Adult
+2659,Myroides odoratus,2,<0.1,2021,Adult
+2660,Ochrobactrum intermedium,2,<0.1,2021,Adult
+2661,Ochrobactrum,2,<0.1,2021,Adult
+2662,Paecilomyces,2,<0.1,2021,Adult
+2663,Pasteurella canis,2,<0.1,2021,Adult
+2664,Porphyromonas endodontalis,2,<0.1,2021,Adult
+2665,Prevotella corporis,2,<0.1,2021,Adult
+2666,Prototheca wickerhamii,2,<0.1,2021,Adult
+2667,Providencia rustigianii,2,<0.1,2021,Adult
+2668,Ralstonia mannitolilytica,2,<0.1,2021,Adult
+2669,Ralstonia,2,<0.1,2021,Adult
+2670,Rhizobium radiobacter,2,<0.1,2021,Adult
+2671,Robinsoniella peoriensis,2,<0.1,2021,Adult
+2672,Rothia dentocariosa,2,<0.1,2021,Adult
+2673,Staphylococcus carnosus,2,<0.1,2021,Adult
+2674,Staphylococcus chromogenes,2,<0.1,2021,Adult
+2675,Staphylococcus lentus,2,<0.1,2021,Adult
+2676,Staphylococcus hominis novobiosepticus,2,<0.1,2021,Adult
+2677,Staphylococcus schleiferi ss. schleiferi,2,<0.1,2021,Adult
+2678,Streptomyces,2,<0.1,2021,Adult
+2679,Streptococcus infantarius,2,<0.1,2021,Adult
+2680,Streptococcus lutetiensis,2,<0.1,2021,Adult
+2681,Streptococcus sanguinis group,2,<0.1,2021,Adult
+2682,Streptococcus acidominimus,2,<0.1,2021,Adult
+2683,Sutterella wadsworthensis,2,<0.1,2021,Adult
+2684,Mycobacterium tuberculosis complex,2,<0.1,2021,Adult
+2685,Turicibacter sanguinis,2,<0.1,2021,Adult
+2686,Yokenella regensburgei,2,<0.1,2021,Adult
+2687,Actinobacillus hominis,1,<0.1,2021,Adult
+2688,Acidovorax delafieldii,1,<0.1,2021,Adult
+2689,Acholeplasma,1,<0.1,2021,Adult
+2690,Acidovorax facilis,1,<0.1,2021,Adult
+2691,Acidovorax,1,<0.1,2021,Adult
+2692,Acidaminococcus,1,<0.1,2021,Adult
+2693,Acremonium,1,<0.1,2021,Adult
+2694,Actinobaculum massiliense,1,<0.1,2021,Adult
+2695,Actinotignum,1,<0.1,2021,Adult
+2696,Actinomyces urogenitalis,1,<0.1,2021,Adult
+2697,Human adenovirus,1,<0.1,2021,Adult
+2698,Aeromonas caviae complex,1,<0.1,2021,Adult
+2699,Aeromonas jandei,1,<0.1,2021,Adult
+2700,Aeromonas salmonicida,1,<0.1,2021,Adult
+2701,Agrobacterium,1,<0.1,2021,Adult
+2702,Alloiococcus otitis,1,<0.1,2021,Adult
+2703,Alternaria,1,<0.1,2021,Adult
+2704,Anaerococcus octavius,1,<0.1,2021,Adult
+2705,Anaerobiospirillum,1,<0.1,2021,Adult
+2706,Arcanobacterium,1,<0.1,2021,Adult
+2707,Arsenicicoccus bolidensis,1,<0.1,2021,Adult
+2708,Arthrographis,1,<0.1,2021,Adult
+2709,Aspergillus versicolor,1,<0.1,2021,Adult
+2710,Aureobasidium pullulans,1,<0.1,2021,Adult
+2711,Bacillus licheniformis,1,<0.1,2021,Adult
+2712,Bacteroides massiliensis,1,<0.1,2021,Adult
+2713,Alistipes putredinis,1,<0.1,2021,Adult
+2714,Odoribacter splanchnicus,1,<0.1,2021,Adult
+2715,Bacillus thuringiensis,1,<0.1,2021,Adult
+2716,Beauveria,1,<0.1,2021,Adult
+2717,Bifidobacterium scardovii,1,<0.1,2021,Adult
+2718,Bacillus methanolicus,1,<0.1,2021,Adult
+2719,Brevibacillus laterosporus,1,<0.1,2021,Adult
+2720,Brevundimonas,1,<0.1,2021,Adult
+2721,Brevibacterium casei,1,<0.1,2021,Adult
+2722,Burkholderia contaminans,1,<0.1,2021,Adult
+2723,Burkholderia vietnamiensis,1,<0.1,2021,Adult
+2724,Butyricimonas,1,<0.1,2021,Adult
+2725,Campylobacter jejuni,1,<0.1,2021,Adult
+2726,Candida catenulata,1,<0.1,2021,Adult
+2727,Candida inconspicua,1,<0.1,2021,Adult
+2728,Candida intermedia,1,<0.1,2021,Adult
+2729,Candida lambica,1,<0.1,2021,Adult
+2730,Candida pelliculosa,1,<0.1,2021,Adult
+2731,Candida rugosa,1,<0.1,2021,Adult
+2732,Citrobacter gillenii,1,<0.1,2021,Adult
+2733,Citrobacter murliniae,1,<0.1,2021,Adult
+2734,Clostridium bolteae,1,<0.1,2021,Adult
+2735,Clostridium celerecrescens,1,<0.1,2021,Adult
+2736,Clostridium fallax,1,<0.1,2021,Adult
+2737,Clostridium hathewayi,1,<0.1,2021,Adult
+2738,Clostridium putrefaciens,1,<0.1,2021,Adult
+2739,Clostridium tetani,1,<0.1,2021,Adult
+2740,Collinsella aerofaciens,1,<0.1,2021,Adult
+2741,Comamonas kerstersii,1,<0.1,2021,Adult
+2742,Comamonas,1,<0.1,2021,Adult
+2743,Corynebacterium afermentans,1,<0.1,2021,Adult
+2744,Corynebacterium diphtheriae,1,<0.1,2021,Adult
+2745,Corynebacterium glucuronolyticum,1,<0.1,2021,Adult
+2746,Corynebacterium matruchotii,1,<0.1,2021,Adult
+2747,Corynebacterium pseudotuberculosis,1,<0.1,2021,Adult
+2748,Corynebacterium simulans,1,<0.1,2021,Adult
+2749,Corynebacterium spheniscorum,1,<0.1,2021,Adult
+2750,Corynebacterium ulcerans,1,<0.1,2021,Adult
+2751,Curvularia,1,<0.1,2021,Adult
+2752,Dialister micraerophilus,1,<0.1,2021,Adult
+2753,Dolosigranulum,1,<0.1,2021,Adult
+2754,Edwardsiella,1,<0.1,2021,Adult
+2755,Edwardsiella tarda,1,<0.1,2021,Adult
+2756,Elizabethkingia,1,<0.1,2021,Adult
+2757,Enterococcus cecorum,1,<0.1,2021,Adult
+2758,Enterococcus italicus,1,<0.1,2021,Adult
+2759,Enterococcus ratti,1,<0.1,2021,Adult
+2760,Enterococcus mundtii,1,<0.1,2021,Adult
+2761,Erwinia,1,<0.1,2021,Adult
+2762,Eubacterium saburreum,1,<0.1,2021,Adult
+2763,Facklamia languida,1,<0.1,2021,Adult
+2764,Flavobacterium,1,<0.1,2021,Adult
+2765,Flavonifractor plautii,1,<0.1,2021,Adult
+2766,Fusarium solani,1,<0.1,2021,Adult
+2767,Fusarium verticillioides,1,<0.1,2021,Adult
+2768,Fusobacterium necrophorum ss necrophorum,1,<0.1,2021,Adult
+2769,Fusobacterium nucleatum ss fusiforme,1,<0.1,2021,Adult
+2770,Gemella bergeriae,1,<0.1,2021,Adult
+2771,Globicatella,1,<0.1,2021,Adult
+2772,Gordonia,1,<0.1,2021,Adult
+2773,Gram-variable coccobacillus,1,<0.1,2021,Adult
+2774,Helicobacter,1,<0.1,2021,Adult
+2775,Kerstersia gyiorum,1,<0.1,2021,Adult
+2776,Kingella denitrificans,1,<0.1,2021,Adult
+2777,Lactobacillus gastricus,1,<0.1,2021,Adult
+2778,Genus Lachnoanaerobaculum,1,<0.1,2021,Adult
+2779,Lactobacillus iners,1,<0.1,2021,Adult
+2780,Lactobacillus johnsonii,1,<0.1,2021,Adult
+2781,Lactobacillus plantarum,1,<0.1,2021,Adult
+2782,Lecythophora hoffmannii,1,<0.1,2021,Adult
+2783,Legionella,1,<0.1,2021,Adult
+2784,Malassezia furfur,1,<0.1,2021,Adult
+2785,Megasphaera,1,<0.1,2021,Adult
+2786,Micromonospora,1,<0.1,2021,Adult
+2787,Microbacterium,1,<0.1,2021,Adult
+2788,Mobiluncus mulieris,1,<0.1,2021,Adult
+2789,Moraxella lacunata,1,<0.1,2021,Adult
+2790,Myroides,1,<0.1,2021,Adult
+2791,Mucor circinelloides,1,<0.1,2021,Adult
+2792,Mycobacterium farcinogenes,1,<0.1,2021,Adult
+2793,Mycobacterium goodii,1,<0.1,2021,Adult
+2794,Mycobacterium mageritense,1,<0.1,2021,Adult
+2795,Mycobacterium phocaicum,1,<0.1,2021,Adult
+2796,Neisseria elongata,1,<0.1,2021,Adult
+2797,Neisseria flavescens,1,<0.1,2021,Adult
+2798,Neisseria weaveri,1,<0.1,2021,Adult
+2799,Neisseria oralis,1,<0.1,2021,Adult
+2800,Neisseria subflava,1,<0.1,2021,Adult
+2801,Nocardia farcinica,1,<0.1,2021,Adult
+2802,Nocardia veterana,1,<0.1,2021,Adult
+2803,Nutritionally variant streptococci,1,<0.1,2021,Adult
+2804,Paenibacillus macerans,1,<0.1,2021,Adult
+2805,Pantoea ananatis,1,<0.1,2021,Adult
+2806,Pantoea dispersa,1,<0.1,2021,Adult
+2807,Pandoraea,1,<0.1,2021,Adult
+2808,Paracoccus yeei,1,<0.1,2021,Adult
+2809,Peptococcus niger,1,<0.1,2021,Adult
+2810,Peptoniphilus lacrimalis,1,<0.1,2021,Adult
+2811,human parainfluenza viruses,1,<0.1,2021,Adult
+2812,Meyerozyma guilliermondii,1,<0.1,2021,Adult
+2813,Prevotella buccalis,1,<0.1,2021,Adult
+2814,Prevotella pallens,1,<0.1,2021,Adult
+2815,Propionimicrobium,1,<0.1,2021,Adult
+2816,Proteus myxofaciens,1,<0.1,2021,Adult
+2817,Pseudomonas alcaligenes,1,<0.1,2021,Adult
+2818,Pseudallescheria boydii,1,<0.1,2021,Adult
+2819,Pseudomonas pseudoalcaligenes,1,<0.1,2021,Adult
+2820,Pseudozyma,1,<0.1,2021,Adult
+2821,Human rhinovirus,1,<0.1,2021,Adult
+2822,Rhizopus microsporus,1,<0.1,2021,Adult
+2823,Rhizobium,1,<0.1,2021,Adult
+2824,Rhodotorula minuta,1,<0.1,2021,Adult
+2825,Roseomonas,1,<0.1,2021,Adult
+2826,Saprochaete,1,<0.1,2021,Adult
+2827,Sarcina,1,<0.1,2021,Adult
+2828,Scedosporium boydii,1,<0.1,2021,Adult
+2829,Scedosporium inflatum,1,<0.1,2021,Adult
+2830,Scopulariopsis,1,<0.1,2021,Adult
+2831,Serratia entomophila,1,<0.1,2021,Adult
+2832,Serratia ficaria,1,<0.1,2021,Adult
+2833,Serratia plymuthica,1,<0.1,2021,Adult
+2834,Slackia exigua,1,<0.1,2021,Adult
+2835,Sphingobacterium faecium,1,<0.1,2021,Adult
+2836,Sphingobacterium multivorum,1,<0.1,2021,Adult
+2837,Staphylococcus arlettae,1,<0.1,2021,Adult
+2838,Staphylococcus delphini,1,<0.1,2021,Adult
+2839,Staphylococcus hyicus,1,<0.1,2021,Adult
+2840,Staphylococcus kloosii,1,<0.1,2021,Adult
+2841,Staphylococcus piscifermentans,1,<0.1,2021,Adult
+2842,Streptococcus alactolyticus,1,<0.1,2021,Adult
+2843,Small-colony-forming beta-hemolytic group A streptococci,1,<0.1,2021,Adult
+2844,Streptobacillus moniliformis,1,<0.1,2021,Adult
+2845,Streptococcus dolonei,1,<0.1,2021,Adult
+2846,Streptococcus equinus,1,<0.1,2021,Adult
+2847,Streptococcus equi subsp. equi,1,<0.1,2021,Adult
+2848,Streptococcus iniae,1,<0.1,2021,Adult
+2849,Streptococcus ovis,1,<0.1,2021,Adult
+2850,Streptococcus salivarius subsp. salivarius,1,<0.1,2021,Adult
+2851,Streptococcus suis,1,<0.1,2021,Adult
+2852,Tissierella,1,<0.1,2021,Adult
+2853,Trichoderma,1,<0.1,2021,Adult
+2854,Trichosporon mucoides,1,<0.1,2021,Adult
+2855,Trueperella,1,<0.1,2021,Adult
+2856,Turicella otitidis,1,<0.1,2021,Adult
+2857,Weissella,1,<0.1,2021,Adult
+2858,Wolinella,1,<0.1,2021,Adult
+2859,Yersinia frederiksenii,1,<0.1,2021,Adult
+2860,Yersinia,1,<0.1,2021,Adult
