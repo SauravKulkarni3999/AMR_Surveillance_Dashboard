@@ -1,0 +1,177 @@
+,Feature,Importance
+166,Mech_antibiotic inactivation,0.29703121776972635
+168,Mech_antibiotic target alteration,0.23004239555715827
+161,Mech_antibiotic efflux,0.16416780097410227
+170,Mech_antibiotic target protection,0.07568070446706683
+87,Drug_fluoroquinolone antibiotic,0.027842009734056542
+171,Mech_antibiotic target replacement,0.025413037836893505
+68,Drug_diaminopyrimidine antibiotic,0.01755329368000482
+100,Drug_glycopeptide antibiotic,0.016531747705344872
+142,Drug_peptide antibiotic,0.015914734772888593
+162,Mech_antibiotic efflux;antibiotic target alteration,0.01293686767202604
+30,Drug_aminoglycoside antibiotic;glycopeptide antibiotic;glycylcycline;nucleoside antibiotic;peptide antibiotic;tetracycline antibiotic,0.009548576403114073
+54,Drug_cephalosporin,0.008974297592010409
+65,Drug_cephalosporin;penicillin beta-lactam,0.008182571335929218
+172,Mech_reduced permeability to antibiotic,0.008106956054387783
+159,Drug_tetracycline antibiotic,0.007264726795050484
+53,Drug_carbapenem;penicillin beta-lactam,0.0059032869877650215
+64,Drug_cephalosporin;monobactam;penicillin beta-lactam,0.005210019678912337
+49,Drug_carbapenem;cephalosporin;penicillin beta-lactam,0.004196913013124705
+102,Drug_glycopeptide antibiotic;lincosamide antibiotic;macrolide antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.004084297841962947
+169,Mech_antibiotic target alteration;antibiotic target replacement,0.003127374360828651
+173,Mech_reduced permeability to antibiotic;resistance by absence,0.0031122405528486758
+117,Drug_lincosamide antibiotic;macrolide antibiotic;streptogramin antibiotic,0.0025742166936242416
+13,Drug_aminoglycoside antibiotic,0.0025537940955226747
+96,Drug_fluoroquinolone antibiotic;nybomycin-like antibiotic,0.0024740005358715746
+140,Drug_penicillin beta-lactam,0.0024686187392550683
+114,Drug_lincosamide antibiotic;macrolide antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.002444897119269919
+144,Drug_peptide antibiotic;rifamycin antibiotic,0.0024065085999745426
+127,Drug_lincosamide antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,0.002158121057808905
+73,Drug_disinfecting agents and antiseptics,0.001858056787019715
+57,Drug_cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,0.0018197110132323147
+107,Drug_isoniazid-like antibiotic,0.001556671667826392
+45,Drug_carbapenem;cephalosporin;monobactam,0.001526500877896892
+151,Drug_pyrazine antibiotic,0.0013853648933126838
+46,Drug_carbapenem;cephalosporin;monobactam;penicillin beta-lactam,0.0013208797293064129
+42,Drug_carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,0.0012716073100645557
+74,Drug_disinfecting agents and antiseptics;fluoroquinolone antibiotic,0.0012647379896409828
+165,Mech_antibiotic efflux;reduced permeability to antibiotic,0.0012585814082611984
+130,Drug_macrolide antibiotic;peptide antibiotic,0.001246309090880381
+149,Drug_polyamine antibiotic,0.0009266872410251944
+164,Mech_antibiotic efflux;antibiotic target alteration;resistance by absence,0.0008936264393172422
+129,Drug_macrolide antibiotic,0.0008701499288767781
+145,Drug_phenicol antibiotic,0.0008593314062414131
+167,Mech_antibiotic inactivation;antibiotic target alteration,0.0007678321626592974
+132,Drug_macrolide antibiotic;streptogramin antibiotic,0.0007096866856930472
+174,Mech_resistance by absence,0.0005678379148738562
+14,Drug_aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,0.000549836140622797
+86,Drug_elfamycin antibiotic,0.0005498189115762265
+70,Drug_diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic,0.00046270411240892747
+99,Drug_fusidane antibiotic,0.00044371410775082964
+9,Drug_aminocoumarin antibiotic;fluoroquinolone antibiotic,0.00042710608319143265
+39,Drug_carbapenem,0.0004213727414880224
+34,Drug_aminoglycoside antibiotic;penicillin beta-lactam;tetracycline antibiotic,0.00038338912408163314
+106,Drug_glycylcycline;tetracycline antibiotic,0.00037073759330758486
+160,Drug_thioamide antibiotic,0.0003689839062030304
+156,Drug_sulfonamide antibiotic,0.00033234071158411453
+128,Drug_lincosamide antibiotic;pleuromutilin antibiotic;streptogramin antibiotic,0.0003027683590043599
+157,Drug_sulfonamide antibiotic;sulfone antibiotic,0.00029610658676824746
+163,Mech_antibiotic efflux;antibiotic target alteration;reduced permeability to antibiotic,0.00029451671641650374
+131,Drug_macrolide antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.0002806549242428247
+98,Drug_fluoroquinolone antibiotic;tetracycline antibiotic,0.0002740839513410052
+6,Drug_aminocoumarin antibiotic;carbapenem;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penicillin beta-lactam;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic,0.00026887815535746074
+59,Drug_cephalosporin;fluoroquinolone antibiotic;fusidane antibiotic;macrolide antibiotic,0.000261191605158474
+148,Drug_pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,0.0002566543831947039
+21,Drug_aminoglycoside antibiotic;cephalosporin;penicillin beta-lactam,0.000209820689467048
+11,Drug_aminocoumarin antibiotic;macrolide antibiotic;monobactam;tetracycline antibiotic,0.00019999778803870438
+62,Drug_cephalosporin;fluoroquinolone antibiotic;tetracycline antibiotic,0.00019586245315023794
+97,Drug_fluoroquinolone antibiotic;peptide antibiotic;rifamycin antibiotic,0.00018355285289603022
+5,Drug_aminocoumarin antibiotic;aminoglycoside antibiotic;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,0.0001830791991657575
+91,Drug_fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam,0.00017751414596332133
+83,Drug_disinfecting agents and antiseptics;nucleoside antibiotic,0.00017593797468720202
+20,Drug_aminoglycoside antibiotic;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic,0.0001730557734342091
+48,Drug_carbapenem;cephalosporin;monobactam;penicillin beta-lactam;tetracycline antibiotic,0.00016821018104451414
+78,Drug_disinfecting agents and antiseptics;fluoroquinolone antibiotic;tetracycline antibiotic,0.00016614801365678314
+175,Mech_resistance by host-dependent nutrient acquisition,0.00016437166869710497
+116,Drug_lincosamide antibiotic;macrolide antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.00015469618435783467
+40,Drug_carbapenem;cephalosporin,0.00014857402733808902
+153,Drug_salicylic acid antibiotic,0.00014840189800240545
+1,Drug_aminocoumarin antibiotic;aminoglycoside antibiotic,0.00014829558787854102
+0,Drug_aminocoumarin antibiotic,0.00014602383330769195
+47,Drug_carbapenem;cephalosporin;monobactam;penicillin beta-lactam;phenicol antibiotic,0.00014021404317535416
+125,Drug_lincosamide antibiotic;pleuromutilin antibiotic,0.00012396104399216062
+41,Drug_carbapenem;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;lincosamide antibiotic;macrolide antibiotic;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,0.00011696990818072055
+122,Drug_lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin antibiotic,0.00011659397410290453
+119,Drug_lincosamide antibiotic;nucleoside antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.00010478900073690562
+82,Drug_disinfecting agents and antiseptics;macrolide antibiotic;tetracycline antibiotic,0.00010388744908751411
+33,Drug_aminoglycoside antibiotic;macrolide antibiotic,0.00010160941244709585
+111,Drug_lincosamide antibiotic,0.00010133838638631522
+93,Drug_fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic,9.774953923480565e-05
+112,Drug_lincosamide antibiotic;macrolide antibiotic,8.687985505585977e-05
+152,Drug_rifamycin antibiotic,8.349024434816857e-05
+26,Drug_aminoglycoside antibiotic;fluoroquinolone antibiotic,8.299901637856326e-05
+118,Drug_lincosamide antibiotic;nucleoside antibiotic,8.198022432014541e-05
+15,Drug_aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,7.81363929319179e-05
+147,Drug_pleuromutilin antibiotic,7.40300354183774e-05
+105,Drug_glycopeptide antibiotic;oxazolidinone antibiotic,6.79950558975623e-05
+109,Drug_isoniazid-like antibiotic;thioamide antibiotic,6.646313261234617e-05
+124,Drug_lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;streptogramin antibiotic,6.409895759066805e-05
+51,Drug_carbapenem;diaminopyrimidine antibiotic;disinfecting agents and antiseptics;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic,6.113227312631257e-05
+43,Drug_carbapenem;cephalosporin;fluoroquinolone antibiotic;monobactam;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,5.901331355519113e-05
+71,Drug_diarylquinoline antibiotic,5.768097853121665e-05
+146,Drug_phosphonic acid antibiotic,5.1279163773561513e-05
+138,Drug_oxazolidinone antibiotic;phenicol antibiotic,4.818351185217716e-05
+134,Drug_mupirocin-like antibiotic,4.6075309429708346e-05
+63,Drug_cephalosporin;monobactam,4.3346653772045616e-05
+90,Drug_fluoroquinolone antibiotic;macrolide antibiotic;nitroimidazole antibiotic;tetracycline antibiotic,4.031987926357902e-05
+137,Drug_nucleoside antibiotic,3.797628271035884e-05
+79,Drug_disinfecting agents and antiseptics;isoniazid-like antibiotic,3.553060222631487e-05
+139,Drug_oxazolidinone antibiotic;phenicol antibiotic;tetracycline antibiotic,3.4866233750421926e-05
+23,Drug_aminoglycoside antibiotic;diaminopyrimidine antibiotic;tetracycline antibiotic,3.3887457106199445e-05
+19,Drug_aminoglycoside antibiotic;cephalosporin;disinfecting agents and antiseptics;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic,3.3068077446827654e-05
+35,Drug_aminoglycoside antibiotic;phenicol antibiotic;tetracycline antibiotic,3.247551724526567e-05
+108,Drug_isoniazid-like antibiotic;rifamycin antibiotic,2.9816178705447644e-05
+12,Drug_aminocoumarin antibiotic;zoliflodacin-like antibiotic,2.826781441672609e-05
+154,Drug_streptogramin A antibiotic;streptogramin antibiotic,2.301164145828139e-05
+126,Drug_lincosamide antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,2.2131462750191046e-05
+56,Drug_cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,2.136876904344021e-05
+135,Drug_nitrofuran antibiotic,2.0829554723023646e-05
+120,Drug_lincosamide antibiotic;nucleoside antibiotic;streptogramin A antibiotic;streptogramin antibiotic,2.05394183044814e-05
+94,Drug_fluoroquinolone antibiotic;macrolide antibiotic;rifamycin antibiotic,1.990841790111494e-05
+150,Drug_polyamine antibiotic;rifamycin antibiotic,1.9364254385063456e-05
+101,Drug_glycopeptide antibiotic;lincosamide antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,1.9185424781697766e-05
+136,Drug_nitroimidazole antibiotic,1.859152762147915e-05
+61,Drug_cephalosporin;fluoroquinolone antibiotic;penicillin beta-lactam,1.5929541366618207e-05
+67,Drug_cycloserine-like antibiotic,1.5393170220943948e-05
+58,Drug_cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;penicillin beta-lactam;peptide antibiotic;tetracycline antibiotic,1.4742900616980705e-05
+36,Drug_antibacterial free fatty acids,1.3182728328454893e-05
+3,Drug_aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penicillin beta-lactam;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic,1.2773489046920183e-05
+123,Drug_lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin antibiotic,1.2060388077491014e-05
+32,Drug_aminoglycoside antibiotic;isoniazid-like antibiotic;polyamine antibiotic;pyrazine antibiotic,1.1664064082857563e-05
+85,Drug_disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic,1.0484251717707838e-05
+8,Drug_aminocoumarin antibiotic;cephalosporin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;phenicol antibiotic;tetracycline antibiotic,8.929073481918025e-06
+4,Drug_aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penicillin beta-lactam;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,8.67895741271565e-06
+104,Drug_glycopeptide antibiotic;macrolide antibiotic,6.9109384807826585e-06
+133,Drug_macrolide antibiotic;tetracycline antibiotic,6.3687671621943475e-06
+81,Drug_disinfecting agents and antiseptics;macrolide antibiotic,5.41602628692402e-06
+115,Drug_lincosamide antibiotic;macrolide antibiotic;streptogramin A antibiotic;streptogramin antibiotic;tetracycline antibiotic,1.8208385487633233e-06
+50,Drug_carbapenem;cephalosporin;penicillin beta-lactam;tetracycline antibiotic,1.5695552267534642e-06
+38,Drug_bicyclomycin-like antibiotic,1.4054154525193767e-06
+141,Drug_penicillin beta-lactam;tetracycline antibiotic,1.3838765183809894e-06
+158,Drug_tetracenomycin antibiotic,8.705341260512471e-07
+69,Drug_diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic,6.071802651109971e-07
+80,Drug_disinfecting agents and antiseptics;isoniazid-like antibiotic;thioamide antibiotic,2.812730558260605e-07
+110,Drug_isoniazid-like antibiotic;thioamide antibiotic;thiosemicarbazone antibiotic,2.0404184229931185e-07
+52,Drug_carbapenem;monobactam;penicillin beta-lactam,1.963833788933638e-07
+76,Drug_disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic,1.8663456136502377e-07
+92,Drug_fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;tetracycline antibiotic,1.54338626908866e-07
+31,Drug_aminoglycoside antibiotic;glycopeptide antibiotic;lincosamide antibiotic;macrolide antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,1.4955500679373444e-07
+25,Drug_aminoglycoside antibiotic;disinfecting agents and antiseptics;fluoroquinolone antibiotic;penicillin beta-lactam;tetracycline antibiotic,1.3477254282228992e-07
+72,Drug_diarylquinoline antibiotic;fluoroquinolone antibiotic,8.301553345417039e-08
+75,Drug_disinfecting agents and antiseptics;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic,6.488824124527258e-08
+143,Drug_peptide antibiotic;polyamine antibiotic,6.147866602295799e-08
+155,Drug_streptogramin B antibiotic;streptogramin antibiotic,2.0458735652318492e-08
+28,Drug_aminoglycoside antibiotic;fluoroquinolone antibiotic;phosphonic acid antibiotic,1.1638340471755905e-08
+44,Drug_carbapenem;cephalosporin;fluoroquinolone antibiotic;penicillin beta-lactam,9.281948491381599e-09
+2,Drug_aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;diaminopyrimidine antibiotic;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penicillin beta-lactam;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic,6.952320315229157e-09
+89,Drug_fluoroquinolone antibiotic;macrolide antibiotic,5.07821657812021e-09
+88,Drug_fluoroquinolone antibiotic;glycopeptide antibiotic;lincosamide antibiotic;macrolide antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,2.5653438922777972e-09
+95,Drug_fluoroquinolone antibiotic;nitroimidazole antibiotic;tetracycline antibiotic,0.0
+113,Drug_lincosamide antibiotic;macrolide antibiotic;orthosomycin antibiotic,0.0
+37,Drug_antibacterial free fatty acids;macrolide antibiotic,0.0
+77,Drug_disinfecting agents and antiseptics;fluoroquinolone antibiotic;nucleoside antibiotic;phenicol antibiotic,0.0
+84,Drug_disinfecting agents and antiseptics;phenicol antibiotic,0.0
+7,Drug_aminocoumarin antibiotic;carbapenem;peptide antibiotic;rifamycin antibiotic,0.0
+121,Drug_lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;pleuromutilin antibiotic;streptogramin A antibiotic;streptogramin B antibiotic;streptogramin antibiotic,0.0
+10,Drug_aminocoumarin antibiotic;macrolide antibiotic,0.0
+55,Drug_cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycopeptide antibiotic;glycylcycline;oxazolidinone antibiotic;penicillin beta-lactam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic,0.0
+16,Drug_aminoglycoside antibiotic;carbapenem;cephalosporin;disinfecting agents and antiseptics;glycylcycline;penicillin beta-lactam;tetracycline antibiotic,0.0
+66,Drug_cephalosporin;penicillin beta-lactam;peptide antibiotic,0.0
+17,Drug_aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;peptide antibiotic,0.0
+18,Drug_aminoglycoside antibiotic;carbapenem;fluoroquinolone antibiotic;macrolide antibiotic;tetracycline antibiotic,0.0
+103,Drug_glycopeptide antibiotic;lincosamide antibiotic;oxazolidinone antibiotic;phenicol antibiotic;streptogramin antibiotic,0.0
+22,Drug_aminoglycoside antibiotic;diaminopyrimidine antibiotic;macrolide antibiotic;oxazolidinone antibiotic;phenicol antibiotic,0.0
+60,Drug_cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penicillin beta-lactam;tetracycline antibiotic,0.0
+24,Drug_aminoglycoside antibiotic;disinfecting agents and antiseptics;fluoroquinolone antibiotic,0.0
+29,Drug_aminoglycoside antibiotic;glycopeptide antibiotic;glycylcycline;nucleoside antibiotic;pactamycin-like antibiotic;peptide antibiotic;tetracycline antibiotic,0.0
+27,Drug_aminoglycoside antibiotic;fluoroquinolone antibiotic;isoniazid-like antibiotic,0.0
